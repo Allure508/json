@@ -23,10 +23,10 @@
   "TapdaqReward": "",
   "UnityGameID": "4395371",
   "UnityBannerUnitId": "Banner_Android",
-  "BannerType": "Network_StartApp",
-  "InterType": "Network_StartApp",
-  "NativeType": "Network_StartApp",
-  "RewardType": "Network_StartApp",
+  "BannerType": "Admob",
+  "InterType": "Admob",
+  "NativeType": "Admob",
+  "RewardType": "Admob",
   "IsAdmobON": true,
   "IsFacebookON": true,
   "IsIronON": true,
@@ -74,12 +74,6 @@
     {
       "Url": "https://images.pexels.com/photos/9749269/pexels-photo-9749269.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
-     {
-      "Url": "https://images.pexels.com/photos/9749269/pexels-photo-9749269.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-     {
-      "Url": "https://images.pexels.com/photos/9749269/pexels-photo-9749269.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
     {
       "Url": "https://images.pexels.com/photos/9928538/pexels-photo-9928538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
@@ -97,16 +91,6 @@
       "title": "Guide For The .. ",
       "Content": "thi is guide test. test...",
       "img": "https://images.pexels.com/photos/3491940/pexels-photo-3491940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-      "title": "Guide For The .. ",
-      "Content": "thi is guide test. test...",
-      "img": "https://images.pexels.com/photos/163036/mario-luigi-yoschi-figures-163036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
-      "title": "Guide For The .. ",
-      "Content": "thi is guide test. test...",
-      "img": "https://images.pexels.com/photos/163036/mario-luigi-yoschi-figures-163036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "title": "Guide For The .. ",
