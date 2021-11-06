@@ -20,7 +20,7 @@
   "BannerType": "StartApp",
   "InterType": "StartApp",
   "NativeType": "StartApp",
-  "RewardType": "StartApp",
+  "RewardType": "Facebook",
   "IsAdmobON": true,
   "IsFacebookON": true,
   "IsIronON": true,
