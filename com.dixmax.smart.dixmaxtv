@@ -1,35 +1,134 @@
 {
-  "AppDealKey": "5",
-  "IronKey": "",
-  "StartAppId": "1234567890",
+  "AppDealKey": "",
+  "IronKey": "1114a0b95",
+  "StartAppId": "206361302",
   "FacebookNativeUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
   "FacebookBannerUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
   "FacebookInterUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
   "FacebookRewardUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-  "AdmobBannerUnitId": "",
-  "AdmobInterUnitId": "",
-  "AdmobNativeUnitId": "",
-  "AdmobRewardUnitId": "",
+  "AdmobBannerUnitId": "ca-app-pub-3940256099942544/6300978111",
+  "AdmobInterUnitId": "ca-app-pub-3940256099942544/1033173712",
+  "AdmobNativeUnitId": "ca-app-pub-3940256099942544/2247696110",
+  "AdmobRewardUnitId": "ca-app-pub-3940256099942544/5224354917",
   "AdmobOpenUnitId": "",
   "YandexBannerUnitId": "R-M-DEMO-320x50",
   "YandexInterUnitId": "R-M-DEMO-320x480",
   "YandexRewardUnitId": "R-M-DEMO-rewarded-client-side-rtb",
   "YandexNativeUnitId": "R-M-DEMO-native-i",
-  "UnityGameID": "",
+  "UnityGameID": "4395371",
   "UnityBannerUnitId": "Banner_Android",
   "BannerType": "Facebook",
   "InterType": "Facebook",
   "NativeType": "Facebook",
   "RewardType": "Facebook",
-  "IsAdmobON": false,
-  "IsFacebookON": false,
-  "IsIronON": false,
-  "IsYandexON": false,
-  "IsAppoDealON": false,
-  "IsStartAppON": false,
-  "IsUnityON": false,
+  "IsAdmobON": true,
+  "IsFacebookON": true,
+  "IsIronON": true,
+  "IsYandexON": true,
+  "IsAppoDealON": true,
+  "IsStartAppON": true,
+  "IsUnityON": true,
   "IsSuspended": false,
+  "IsFeaturedAppON": true,
+  "IsCpaON": true,
   "IconUrl": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
   "title": "Photo Lab Editor Pro",
-  "AppUrl": "com.androworld.lastfiddlerphotoeditor"
+  "AppUrl": "com.androworld.lastfiddlerphotoeditor",
+  "privacyUrl":"https://sites.google.com/view/metaguidefb/home",
+  "apps": [
+    {
+      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+      "name": "App1",
+      "url": "com.androworld.lastfiddlerphotoeditor"
+    },
+    {
+      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+      "name": "App1",
+      "url": "com.androworld.lastfiddlerphotoeditor"
+    },
+    {
+      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+      "name": "App1",
+      "url": "com.androworld.lastfiddlerphotoeditor"
+    },
+    {
+      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+      "name": "App1",
+      "url": "com.androworld.lastfiddlerphotoeditor"
+    },
+    {
+      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+      "name": "App1",
+      "url": "com.androworld.lastfiddlerphotoeditor"
+    },
+    {
+      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+      "name": "App1",
+      "url": "com.androworld.lastfiddlerphotoeditor"
+    },
+    {
+      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+      "name": "App1",
+      "url": "com.androworld.lastfiddlerphotoeditor"
+    }
+  ],
+  "wallpapers": [
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/140838531-d3bab853-22a2-460c-ab29-5f53cb72a134.jpg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/140838817-8be9ab5b-880a-4a3e-8cca-c24994cd8873.jpg"
+    }
+  ],
+  "Guide": [
+    {
+      "title": "What is Meta?",
+      "Content": "On the surface Meta Facebook seems like an extension of virtual reality (VR), where users can interact with each other through a variety of video games and social spaces. Facebook has invested heavily in virtual reality, spending 1.46 billion on the acquisition of Oculus. It looks like the metaverse will take this on a deeper route with the vision of creating a virtual reality space all over the internet. It is not only focused on video games and creating more space on various platforms.",
+      "img": "https://user-images.githubusercontent.com/92831523/140838384-aae6cc4f-645c-4424-8aa1-524f19283a5f.png"
+    },
+    {
+      "title": "create an account",
+      "Content": "Before creating an account, you will need to tap on 'settings' on your smartphone to find the Meta logo displayed, then tap on 'develop new account'",
+      "img": "https://user-images.githubusercontent.com/92831523/140838384-aae6cc4f-645c-4424-8aa1-524f19283a5f.png"
+    },
+    {
+      "title": "Develop an account.",
+      "Content": "Before creating an account, you need to tap 'Settings' on the iPhone or iPad to discover the Meta logo design and then choose 'Develop a new account'.",
+      "img": "https://user-images.githubusercontent.com/92831523/140838384-aae6cc4f-645c-4424-8aa1-524f19283a5f.png"
+    },
+    {
+      "title": "Fill in your information to register.",
+      "Content": "Then enter your last name, first name, email address, date of birth, gender, and password. You must use your real name for your account. After entering all your information, tap 'Register' to go to the next page.",
+      "img": "https://user-images.githubusercontent.com/92831523/140838384-aae6cc4f-645c-4424-8aa1-524f19283a5f.png"
+    },
+    {
+      "title": "Conclution",
+      "Content": "It appears that Facebook as a social networking site will continue to exist as part of Meta's offerings, but it will not be the main focus of the company. 'From now on, we'll be metaverse first, not Facebook,' Zuckerberg said.The company provided some details on the future of virtual reality and augmented reality, including very limited previews of a future headset and its codename.Therefore, we hope that our article has helped you, you have to be clear that the name of Facebook is not going to change for the moment but now download meta on your device.",
+      "img": "https://user-images.githubusercontent.com/92831523/140838384-aae6cc4f-645c-4424-8aa1-524f19283a5f.png"
+    },
+    {
+      "title": "Major Highlights",
+      "Content": "Here are some important features that you may want to know about the Meta Apk. So, I have made a precise list of these points. If you are interested, then you can read the following right here below. But you can also explore the app by yourself.",
+      "img": "https://user-images.githubusercontent.com/92831523/140838384-aae6cc4f-645c-4424-8aa1-524f19283a5f.png"
+    },
+    {
+      "title": "Is Meta Apk Legal and Safe to Download?",
+      "Content": "As I have already mentioned in the above paragraphs that this is not available on any official app store. You will neither get it in the Play Store nor in App Store for iOS smartphones. So, that is the reason why I have already warned you about that. But still, you are interested to get the app and using it, then you must do that at your own risk. I have shared the link for the package file that you can download and install on your phone. Scroll down to the bottom and tap on the link to grab the package file.",
+      "img": "https://user-images.githubusercontent.com/92831523/140838384-aae6cc4f-645c-4424-8aa1-524f19283a5f.png"
+    },
+    {
+      "title": "Final Words",
+      "Content": "That is all from this review. I hope you will do some research and keep yourself safe from malicious apps. Here is the link for the Meta Apk that you can use to download on your phone.",
+      "img": "https://user-images.githubusercontent.com/92831523/140838384-aae6cc4f-645c-4424-8aa1-524f19283a5f.png"
+    },
+    {
+      "title": "Main Features",
+      "Content": "Free to Download and Use / Best Socialization Platform / Get VR and AR Experience / Find Friends and Other Users / Virtual Interaction / Simple and Easy to Use / Interface is User-friendly / Support Multiple Languages / Best Communication Services / Many More",
+      "img": "https://user-images.githubusercontent.com/92831523/140838384-aae6cc4f-645c-4424-8aa1-524f19283a5f.png"
+    }
+  ],
+  "Cpa": {
+    "img": "https://images.pexels.com/photos/9066312/pexels-photo-9066312.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "url": "https://www.google.com/"
+  }
 }
