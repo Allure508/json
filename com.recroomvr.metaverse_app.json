@@ -1,0 +1,158 @@
+{
+  "AppDealKey": "5e259018844b7e434c79ec86e097dab830f6fc34ff603433",
+  "IronKey": "1114a0b95",
+  "StartAppId": "206361302",
+  "FacebookNativeUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "FacebookBannerUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "FacebookInterUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "FacebookRewardUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "AdmobBannerUnitId": "ca-app-pub-3940256099942544/6300978111",
+  "AdmobInterUnitId": "ca-app-pub-3940256099942544/1033173712",
+  "AdmobNativeUnitId": "ca-app-pub-3940256099942544/2247696110",
+  "AdmobRewardUnitId": "ca-app-pub-3940256099942544/5224354917",
+  "AdmobOpenUnitId": "",
+  "YandexBannerUnitId": "R-M-DEMO-320x50",
+  "YandexInterUnitId": "R-M-DEMO-320x480",
+  "YandexRewardUnitId": "R-M-DEMO-rewarded-client-side-rtb",
+  "YandexNativeUnitId": "R-M-DEMO-native-i",
+  "UnityGameID": "4395371",
+  "UnityBannerUnitId": "Banner_Android",
+  "BannerType": "Facebook",
+  "InterType": "Facebook",
+  "NativeType": "Facebook",
+  "RewardType": "Facebook",
+  "IsAdmobON": true,
+  "IsFacebookON": true,
+  "IsIronON": true,
+  "IsYandexON": true,
+  "IsAppoDealON": true,
+  "IsStartAppON": true,
+  "IsUnityON": true,
+  "IsSuspended": false,
+  "IsFeaturedAppON": true,
+  "IsCpaON": true,
+  "IconUrl": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+  "title": "Photo Lab Editor Pro",
+  "AppUrl": "com.androworld.lastfiddlerphotoeditor",
+  "privacyUrl":"https://www.google.com/",
+  "apps": [
+    {
+      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+      "name": "App1",
+      "url": "com.androworld.lastfiddlerphotoeditor"
+    },
+    {
+      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+      "name": "App1",
+      "url": "com.androworld.lastfiddlerphotoeditor"
+    },
+    {
+      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+      "name": "App1",
+      "url": "com.androworld.lastfiddlerphotoeditor"
+    },
+    {
+      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+      "name": "App1",
+      "url": "com.androworld.lastfiddlerphotoeditor"
+    },
+    {
+      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+      "name": "App1",
+      "url": "com.androworld.lastfiddlerphotoeditor"
+    },
+    {
+      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+      "name": "App1",
+      "url": "com.androworld.lastfiddlerphotoeditor"
+    },
+    {
+      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+      "name": "App1",
+      "url": "com.androworld.lastfiddlerphotoeditor"
+    }
+  ],
+  "wallpapers": [
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/141761652-30bc299d-b95e-4a26-8286-78326bd61420.png"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/141761679-df99e37a-7a7b-4fe5-9a51-aa323b7059e3.jpg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/141761682-27cae28b-94cc-4424-8571-de5df0da9863.jpg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/141761685-c86933f7-f047-4484-bff4-21d569753c94.png"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/141761688-7c8596b8-7317-4827-9052-9433169416ff.jpg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/141761692-8285a754-1288-4bdc-8d9a-dc9fc0c43362.png"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/141761701-7d42bca4-f83c-4a27-86f0-b870d660b4f6.jpg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/141761704-fc06823f-67fe-4f80-b11e-6eca9f64ed84.jpg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/141761704-fc06823f-67fe-4f80-b11e-6eca9f64ed84.jpg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/141761707-b54ddeeb-17d4-40e2-8d34-1347e853d851.png"
+    }
+  ],
+  "Guide": [
+    {
+      "title": "What is Rec Room?",
+      "Content": "Rec Room is the best place to build and play games together. Party up with friends from all around the world to chat, hang out, explore MILLIONS of player-created rooms, or build something new and amazing to share with us all. Rec Room is free, and cross plays on everything from phones to VR headsets.",
+      "img": "https://user-images.githubusercontent.com/92831523/141762208-fa0daccf-1f68-4489-8c6f-d4cfd8ea11bf.png"
+    },
+    {
+      "title": "What can you do in Rec Room VR?",
+      "Content": "Rec Room is the best place to hang out with friends from all around the world! Play intense multiplayer games like Paintball, Laser Tag, Quest, and Rec Royale, or just chill with friends in the park. There are thousands of player-created game and event rooms for you to discover, with new ones added daily.",
+      "img": "https://user-images.githubusercontent.com/92831523/141762208-fa0daccf-1f68-4489-8c6f-d4cfd8ea11bf.png"
+    },
+    {
+      "title": "Curse of the Crimson Cauldron",
+      "Content": "Featuring weird dancing trolls with mighty cannons. Easily one of the most action-packed Rec Room quests. Stay back and snipe the enemies with your bow or go up close and personal with a boom with the explosive stick. My favorite combination is the shield and crossbow. Protect yourself from any potential bombs. At the end of the level is the most interesting thing I have seen in VR. All the trolls have grenade launchers and dance around the fire trying to murder you. It’s super fun. I wish Rec room would implement a better movement system for high action paced moments.",
+      "img": "https://user-images.githubusercontent.com/92831523/141762208-fa0daccf-1f68-4489-8c6f-d4cfd8ea11bf.png"
+    },
+    {
+      "title": "Rise of Jumbotron Quest",
+      "Content": "Rise of Jumbotron Quest is my favorite Rec Room activity. You hop into a futuristic looking lobby with 3 other players filled with pistols, assault rifles, snipers, and shotguns. Once your team is ready you are immediately plunged into a world with angry laser shooting bots. I highly recommend starting off with a machine gun as you can position yourself in the back and give your team back up from the bots. My favorite feature of this gun is the sight that you can use to grab the other end with your other hand and aim down the sight.",
+      "img": "https://user-images.githubusercontent.com/92831523/141762208-fa0daccf-1f68-4489-8c6f-d4cfd8ea11bf.png"
+    },
+    {
+      "title": "Laser Tag",
+      "Content": "Laser Tag is very similar to the Quest of Jumbotron. Battle a combination of bots and real live multiplayer friends in a futuristic neon arena. Players can teleport around with a shotgun and wreck the game or use a sniper in the back and provide covering fire for your team.",
+      "img": "https://user-images.githubusercontent.com/92831523/141762208-fa0daccf-1f68-4489-8c6f-d4cfd8ea11bf.png"
+    },
+    {
+      "title": "Dodgeball",
+      "Content": "The goal of this game is quite simple, tag the other player with the ball before they tag you. When you begin the game, you start at the end of the court and have to teleport to the center to grab the ball. Reaching for the ball can be confusing, my first time I ended up bending all the way down to grab it. All you need to do is aim your controller towards the ball and it will highlight in green and should be able to pick it up. The game can become really immersive leading to you running around dodging everything.",
+      "img": "https://user-images.githubusercontent.com/92831523/141762208-fa0daccf-1f68-4489-8c6f-d4cfd8ea11bf.png"
+    },
+    {
+      "title": "Disc Golf",
+      "Content": "The goal of the game is to get the frisbee to the goal post. There are several obstructions in the way that can cause your frisbee to fly off like winds or walls. Disc Golf is one of my least favorite of the list of games in Rec Room. It is really hard to control the frisbee when throwing it. The slightest mistake could send your disc flying in the wrong direction.",
+      "img": "https://user-images.githubusercontent.com/92831523/141762208-fa0daccf-1f68-4489-8c6f-d4cfd8ea11bf.png"
+    },
+    {
+      "title": "Dorm Room",
+      "Content": "In between games, one of the rooms you can hang out in is the dorm room. There are several activities in the dorm room that some of which you wouldn’t expect to be there. Activities include: Character Customizer / Basketball / Darts / 3D Gun / Whiteboard",
+      "img": "https://user-images.githubusercontent.com/92831523/141762208-fa0daccf-1f68-4489-8c6f-d4cfd8ea11bf.png"
+    },
+    {
+      "title": "About Rec Room Vr",
+      "Content": "Rec Room is the best place to build and play games together. Party up with friends from all around the world to chat, hang out, explore MILLIONS of player-created rooms",
+      "img": "https://user-images.githubusercontent.com/92831523/141762208-fa0daccf-1f68-4489-8c6f-d4cfd8ea11bf.png"
+    }
+  ],
+  "Cpa": {
+    "img": "https://images.pexels.com/photos/9066312/pexels-photo-9066312.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "url": "https://www.google.com/"
+  }
+}
