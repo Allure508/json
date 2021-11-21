@@ -1,5 +1,5 @@
 {
-  "AppDealKey": "",
+  "AppDealKey": "e021e78872d6775b1364078f62dedc57104085c5145e4b6a",
   "IronKey": "12155e94d",
   "StartAppId": "",
   "FacebookNativeUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
@@ -18,7 +18,7 @@
   "UnityGameID": "4395371",
   "UnityBannerUnitId": "Banner_Android",
   "BannerType": "IS",
-  "InterType": "IS",
+  "InterType": "APPODEAL",
   "NativeType": "IS",
   "RewardType": "IS",
   "IsAdmobON": true,
