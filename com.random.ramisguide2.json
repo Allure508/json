@@ -83,34 +83,69 @@
   ],
   "Guide": [
     {
-      "title": "Guide For The .. ",
-      "Content": "thi is guide test. test...",
-      "img": "https://images.pexels.com/photos/163036/mario-luigi-yoschi-figures-163036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "title": "How to play Pikmin Bloom",
+      "Content": "The basis of Pikmin Bloom is walking. It is a game more designed to be a motivator to go out and explore your surroundings to plant flowers and keep a journal of your travels. There is a certain collaborative component with other users so that you can see the flowers they have planted. Below we explain in detail each of the components of the game",
+      "img": "https://user-images.githubusercontent.com/92831523/142204061-e5cfb56f-a57c-4bfc-b4a9-4d0045556ae9.png"
     },
     {
-      "title": "Guide For The .. ",
-      "Content": "thi is guide test. test...3",
-      "img": "https://images.pexels.com/photos/3491940/pexels-photo-3491940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "title": "Seedlings",
+      "Content": "Pikmin seedlings can be placed in the seedlings in your backpack, transferring the energy from steps you take in real life to grow as you walk. Once they have reached the required number of steps, they can be started by sliding up. It resembles the Pokémon GO egg system, but instead of focusing on distance traveled, it counts the steps and is much more generous. Steps are counted in the background even when the app is not open using minimal battery usage. Android users may need to install Google Fit if they dont already have it, and combine it with a smartwatch if they dont want to be with their mobile on all the time. You do not need to move from your location on the map to receive the steps. You can walk on site or on a treadmill. Little by little you will unlock different types of seedlings as you level up. You can only have a maximum of 30 seedlings in reserve, but this number can be increased in the store.",
+      "img": "https://img.wallpapersafari.com/phone/640/1136/12/90/LIHR9V.jpg"
     },
     {
-      "title": "Guide For The .. ",
-      "Content": "thi is guide test. test...4",
-      "img": "https://images.pexels.com/photos/163036/mario-luigi-yoschi-figures-163036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "title": "Types of seedlings",
+      "Content": "Red: 1.000 steps to grow \n Yellow: 1.000 steps to grow \n Blue: 1.000 steps to grow (Unlocks at Level 7) \n Purple: 3.000 steps to grow (Unlocks at Level 13)\n White: 3.000 steps to grow \n Pink (Flying): 5.000 steps to grow \n Gray (Rock): 5.000 steps to grow \n Huge (decoration): 10.000 steps to grow",
+      "img": "https://user-images.githubusercontent.com/92831523/142204061-e5cfb56f-a57c-4bfc-b4a9-4d0045556ae9.png"
     },
     {
-      "title": "Guide For The .. ",
-      "Content": "thi is guide test. test...5",
-      "img": "https://images.pexels.com/photos/3491940/pexels-photo-3491940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "title": "Pikmin with Decoration",
+      "Content": "Decorated Pikmin are grown from huge seedlings and are Pikmin of whatever type youve unlocked so far that will carry decorations based on where you found the seedling. This is mostly for cosmetic purposes only, but they do have some differences in challenges. \n If you touch your badges, you will be able to see all the different types of decorated Pikmin that you have obtained. There are currently 20 categories with between 7 and 14 different Pikmin in each one. You are more likely to get huge seedlings from places where you spend more time than from places where you have just been passing through.",
+      "img": "https://user-images.githubusercontent.com/92831523/142204061-e5cfb56f-a57c-4bfc-b4a9-4d0045556ae9.png"
     },
     {
-      "title": "Guide For The .. ",
-      "Content": "thi is guide test. test...",
-      "img": "https://images.pexels.com/photos/163036/mario-luigi-yoschi-figures-163036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "title": "Your Pikmin Squad",
+      "Content": "Click on the whistle icon on the main screen to view your squad of Pikmins. The amount of Pikmin you can have in your active squad will gradually increase as you level up. Here you can feed your squad with nectar to collect flower petals, you can collect the fruits that they have collected while walking, and collect the rewards of the Pikmin that have returned from an expedition. The rest of your Pikmin can be seen by tapping on the Pikmin icon and their position in the squad can be changed as needed. If you blow the whistle twice to receive all the fruits and seedlings that your Pikmin carry.",
+      "img": "https://user-images.githubusercontent.com/92831523/142204061-e5cfb56f-a57c-4bfc-b4a9-4d0045556ae9.png"
     },
     {
-      "title": "Guide For The .. ",
-      "Content": "thi is guide test. test...",
-      "img": "https://images.pexels.com/photos/3491940/pexels-photo-3491940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "title": "Friendship with the Pikmin",
+      "Content": "Friendship with the Pikmin in your backpack and squad can range from 0 to 4 hearts, with each heart taking longer to arrive than the last. Friendship can be increased by feeding them nectar, using them in challenges and expeditions, or feeding them special nectar. Friendship makes them perform better in challenges and if they werent a decorated Pikmin, when they reach the maximum they can go on a special expedition for a decorative object based on where their seedling has come from.",
+      "img": "https://user-images.githubusercontent.com/92831523/142204061-e5cfb56f-a57c-4bfc-b4a9-4d0045556ae9.png"
+    },
+    {
+      "title": "Get petals in Pikmin Bloom",
+      "Content": "Pikmin can have four possible flower colors depending on the color of nectar you feed them: white, red, blue or yellow. The most common nectar is white, followed by yellow, then red, and finally blue. The nectar is used to feed the Pikmin in the squad to grow the flower on their heads so that the petals can be collected. New Pikmin start with a leaf, and if they are fed a nectar it becomes a bud and then a flower, of a color that depends on the type of nectar we have given it. \n When you walk a short distance, all the Pikmin in your platoon will go directly to the bud stage for free, saving you nectar. If you then feed them nectar after doing this, you will get 2 petals instead of 1, as compensation.",
+      "img": "https://user-images.githubusercontent.com/92831523/142204061-e5cfb56f-a57c-4bfc-b4a9-4d0045556ae9.png"
+    },
+    {
+      "title": "Planting flowers with petals",
+      "Content": "Once you unlock this feature, you can use your collected petals to plant flowers around you. This increases the number of waypoints you get while walking, allowing you to grow Pikmin faster. You start with a 10% increase, but the increase increases the larger the area of flowers you plant in a single session, with a maximum increase of 30%. You can also receive coins depending on how many flowers you have planted in a session, with approximately 1 coin for planting 500 flowers, at a maximum of 30 coins per day. \n Planting flowers also increases the likelihood of finding new seedlings that can be collected on an expedition. By planting flowers around a large bud on the map, you are more likely to receive fruit the color of the flowers you plant.",
+      "img": "https://user-images.githubusercontent.com/92831523/142204061-e5cfb56f-a57c-4bfc-b4a9-4d0045556ae9.png"
+    },
+    {
+      "title": "Pikmin Bloom Fruits",
+      "Content": "There are two types of fruit in Pikmin Bloom: the small and the large, and then there are variations with the type of nectar they have. The small fruit can be collected by Pikmin while walking, and will give 1-3 units of nectar when collected. For its part, the largest fruit can only be collected by sending Pikmin on expeditions or exceeding, and will give more than 20 nectar when collected. By touching the whistle twice you can collect all the fruits at once. You can only store a maximum of 200 nectar units initially, but can be expanded with real money in the store.",
+      "img": "https://user-images.githubusercontent.com/92831523/142204061-e5cfb56f-a57c-4bfc-b4a9-4d0045556ae9.png"
+    },
+    {
+      "title": "Big buds",
+      "Content": "A reliable way to get large fruits is to plant flowers around large buds on the map, which are the same points as the PokéStops and Gyms in Pokémon GO. You will have to plant several flowers in the circular area that surrounds them and is marked on the map to make the flower grow and make it bloom. this is cumulative across all players, so you can get to a bud for the first time and see that it has fully blossomed. You will have to walk through the area, since just passing in front is not enough. Any large bud that you have helped to flourish will produce fruit that you can collect on an expedition. Occasionally there are special events where certain colors are more likely to bloom large flowers.",
+      "img": "https://user-images.githubusercontent.com/92831523/142204061-e5cfb56f-a57c-4bfc-b4a9-4d0045556ae9.png"
+    },
+    {
+      "title": "Detector",
+      "Content": "The detector can be used when the world map screen is displayed. It is used to find more objects in our area. It has a number of free daily uses and can be recharged for 100 coins to use again before it has been recharged. It is recommended to use it near a large outbreak in an area associated with a type of Pikmin with decoration (restaurant, cinema, etc.), and for this the detector will show an icon of what types of places are nearby before using it to know well what kind of objects can we find.",
+      "img": "https://user-images.githubusercontent.com/92831523/142204061-e5cfb56f-a57c-4bfc-b4a9-4d0045556ae9.png"
+    },
+    {
+      "title": "Expeditions in Pikmin Bloom",
+      "Content": "Expeditions are small missions that appear on the map screen. we can decide to send groups of Pikmin to get fruits or seedlings of shoots that we have been through. To use this function we have to have reached level 5 and once we have unlocked it, we touch the map and slide our finger towards the expeditions tab, or we touch 'X items to collect' at the top of the home screen. The number of Pikmin we can ship varies by item, and each one will have a minimum load capacity that it must meet. Normally Pikmin have a carrying capacity of 1, but Purple Pikmin have a carrying capacity of 5 and Roca has a carrying capacity of 3. The more you send, the faster we can retrieve them. The objects are recovered in real time going towards our position so if we move away from our current location, it will take more or less time to return to you depending on whether we move away or approach from the position in which the Pikmin are",
+      "img": "https://user-images.githubusercontent.com/92831523/142204061-e5cfb56f-a57c-4bfc-b4a9-4d0045556ae9.png"
+    },
+     {
+      "title": "Featured",
+      "Content": "Challenges are a feature of Pikmin Bloo that is unlocked around level 15. Once we have unlocked them, mushrooms can appear on the map that we can send a large number of Pikmin to defeat, and the number of Pikmin we can send increases as we level up. We can try a challenge about three times a day.\n We will get a reward based on how quickly we break the mushrooms, and the score will be given to us with a range of zero to three stars. Mushrooms can be attacked by a group of up to four more people to go faster and get a better score. Mushrooms can be small, large, or giant; each one will give us more rewards but will make it harder to get all three stars, even with the help of others. \n Some users have been experimenting and everything indicates that it is optimized by sending Pikmin the same color as the mushroom and if they have a decoration; and according to the friendship of the Pikmin that we send.",
+      "img": "https://user-images.githubusercontent.com/92831523/142204061-e5cfb56f-a57c-4bfc-b4a9-4d0045556ae9.png"
     }
   ],
   "Cpa": {
