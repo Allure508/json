@@ -37,39 +37,19 @@
   "privacyUrl":"https://sites.google.com/view/metaguidefb/home",
   "apps": [
     {
-      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
-      "name": "App1",
-      "url": "com.androworld.lastfiddlerphotoeditor"
+      "img": "https://lh3.googleusercontent.com/q8Vm3HadVvjL37Ny5h3LfNDucLUf-eiqty7r-mqxXPpBkba9RtQqXYGrgeuTm4KBLw=h105",
+      "name": "Talk to Strangers",
+      "url": "com.random_chat_strangers.omegleTalktostrangers"
     },
     {
-      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
-      "name": "App1",
-      "url": "com.androworld.lastfiddlerphotoeditor"
+      "img": "https://lh3.googleusercontent.com/fvf7m3CchDU7oCPVbsoRcuDE8jD9WHb8hmMbbZvjTiJuPeQqYYJjPEF21YTSiflkrVZJ=h105",
+      "name": "gb whats",
+      "url": "com.gbstatussaver.gbtools.yowhats.gbwa"
     },
     {
-      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
-      "name": "App1",
-      "url": "com.androworld.lastfiddlerphotoeditor"
-    },
-    {
-      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
-      "name": "App1",
-      "url": "com.androworld.lastfiddlerphotoeditor"
-    },
-    {
-      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
-      "name": "App1",
-      "url": "com.androworld.lastfiddlerphotoeditor"
-    },
-    {
-      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
-      "name": "App1",
-      "url": "com.androworld.lastfiddlerphotoeditor"
-    },
-    {
-      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
-      "name": "App1",
-      "url": "com.androworld.lastfiddlerphotoeditor"
+      "img": "https://lh3.googleusercontent.com/2fvFzZTsNq5bn-ZJC5Y06-dtxw-PWZVvGA3hcQtooksEQ09Qpp7nwl243FtQmtqFnFk=h105",
+      "name": "cut cap",
+      "url": "com.cut.cup.tips"
     }
   ],
   "wallpapers": [
