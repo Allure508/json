@@ -20,7 +20,7 @@
   "BannerType": "IS",
   "InterType": "IS",
   "NativeType": "FACEBOOK",
-  "RewardType": "FACEBOOK",
+  "RewardType": "IS",
   "IsAdmobON": true,
   "IsFacebookON": true,
   "IsIronON": true,
