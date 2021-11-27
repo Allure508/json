@@ -20,7 +20,7 @@
   "UnityGameID": "4395371",
   "UnityBannerUnitId": "Banner_Android",
   "BannerType": "Admob",
-  "InterType": "CPA",
+  "InterType": "Facebook",
   "NativeType": "Admob",
   "RewardType": "Admob",
   "IsAdmobON": true,
