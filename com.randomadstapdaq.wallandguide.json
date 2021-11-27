@@ -19,10 +19,10 @@
   "YandexNativeUnitId": "R-M-DEMO-native-i",
   "UnityGameID": "4395371",
   "UnityBannerUnitId": "Banner_Android",
-  "BannerType": "Admob",
-  "InterType": "Facebook",
-  "NativeType": "Admob",
-  "RewardType": "Admob",
+  "BannerType": "Yandex",
+  "InterType": "Yandex",
+  "NativeType": "Yandex",
+  "RewardType": "Yandex",
   "IsAdmobON": true,
   "IsFacebookON": true,
   "IsIronON": true,
@@ -80,12 +80,22 @@
   "Guide": [
     {
       "title": "Guide For The .. ",
-      "Content": "thi is guide test. test...",
+      "Content": "thi is guide test. test...11",
       "img": "https://images.pexels.com/photos/163036/mario-luigi-yoschi-figures-163036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "title": "Guide For The .. ",
-      "Content": "thi is guide test. test...",
+      "Content": "thi is guide test. test...222",
+      "img": "https://images.pexels.com/photos/3491940/pexels-photo-3491940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "title": "Guide For The .. ",
+      "Content": "thi is guide test. test...33",
+      "img": "https://images.pexels.com/photos/163036/mario-luigi-yoschi-figures-163036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "title": "Guide For The .. ",
+      "Content": "thi is guide test. test...44",
       "img": "https://images.pexels.com/photos/3491940/pexels-photo-3491940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
@@ -93,18 +103,18 @@
       "Content": "thi is guide test. test...",
       "img": "https://images.pexels.com/photos/163036/mario-luigi-yoschi-figures-163036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
-    {
+     {
       "title": "Guide For The .. ",
-      "Content": "thi is guide test. test...",
+      "Content": "thi is guide test. test...4477",
       "img": "https://images.pexels.com/photos/3491940/pexels-photo-3491940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
       "title": "Guide For The .. ",
-      "Content": "thi is guide test. test...",
+      "Content": "thi is guide test. test...88",
       "img": "https://images.pexels.com/photos/163036/mario-luigi-yoschi-figures-163036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
-      "title": "Guide For The .. ",
+      "title": "Guide For The .. 99",
       "Content": "thi is guide test. test...",
       "img": "https://images.pexels.com/photos/3491940/pexels-photo-3491940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     }
