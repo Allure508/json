@@ -18,7 +18,7 @@
   "UnityGameID": "4434204",
   "UnityBannerUnitId": "Banner_Android",
   "BannerType": "FACEBOOK",
-  "InterType": "FACEBOOK",
+  "InterType": "ADMOB",
   "NativeType": "ADMOB",
   "RewardType": "FACEBOOK",
   "IsAdmobON": false,
