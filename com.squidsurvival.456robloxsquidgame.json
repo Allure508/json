@@ -21,7 +21,7 @@
   "InterType": "ADMOB",
   "NativeType": "ADMOB",
   "RewardType": "FACEBOOK",
-  "IsAdmobON": false,
+  "IsAdmobON": true,
   "IsFacebookON": true,
   "IsIronON": true,
   "IsYandexON": false,
