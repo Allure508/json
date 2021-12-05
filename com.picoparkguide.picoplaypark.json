@@ -1,5 +1,5 @@
 {
-  "AppDealKey": "5",
+  "AppDealKey": "8b60b2b869c04c641eb3385b06845fd97dc72b2f61a9eef1",
   "IronKey": "fd511159",
   "StartAppId": "201342838",
   "FacebookNativeUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
@@ -17,8 +17,8 @@
   "YandexNativeUnitId": "R-M-1407032-1",
   "UnityGameID": "4395371",
   "UnityBannerUnitId": "Banner_Android",
-  "BannerType": "Yandex",
-  "InterType": "Yandex",
+  "BannerType": "Appodeal",
+  "InterType": "Appodeal",
   "NativeType": "Yandex",
   "RewardType": "Yandex",
   "IsAdmobON": true,
