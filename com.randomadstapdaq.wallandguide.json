@@ -19,7 +19,7 @@
   "YandexNativeUnitId": "R-M-DEMO-native-i",
   "UnityGameID": "4395371",
   "UnityBannerUnitId": "Banner_Android",
-  "BannerType": "Facebook",
+  "BannerType": "TAPDAQ",
   "InterType": "Facebook",
   "NativeType": "TAPDAQ",
   "RewardType": "unityAd",
