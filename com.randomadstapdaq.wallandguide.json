@@ -20,7 +20,7 @@
   "UnityGameID": "4395371",
   "UnityBannerUnitId": "Banner_Android",
   "BannerType": "TAPDAQ",
-  "InterType": "Facebook",
+  "InterType": "TAPDAQ",
   "NativeType": "TAPDAQ",
   "RewardType": "unityAd",
   "IsAdmobON": true,
