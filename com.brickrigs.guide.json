@@ -1,0 +1,148 @@
+{
+  "AppDealKey": "5e259018844b7e434c79ec86e097dab830f6fc34ff603433",
+  "IronKey": "10133baa9",
+  "StartAppId": "206262019",
+  "Tapdaq_App_id": "6194dd4408fe6c2d735d7388",
+  "Tapdaq_client_key": "c57a0332-6570-474f-a6fa-c500f71911d5",
+  "FacebookNativeUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "FacebookBannerUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "FacebookInterUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "FacebookRewardUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "AdmobBannerUnitId": "ca-app-pub-3940256099942544/6300978111",
+  "AdmobInterUnitId": "ca-app-pub-3940256099942544/1033173712",
+  "AdmobNativeUnitId": "ca-app-pub-3940256099942544/2247696110",
+  "AdmobRewardUnitId": "ca-app-pub-3940256099942544/5224354917",
+  "AdmobOpenUnitId": "ca-app-pub-3940256099942544/3419835294",
+  "YandexBannerUnitId": "R-M-DEMO-320x50",
+  "YandexInterUnitId": "R-M-DEMO-320x480",
+  "YandexRewardUnitId": "R-M-DEMO-rewarded-client-side-rtb",
+  "YandexNativeUnitId": "R-M-DEMO-native-i",
+  "UnityGameID": "4395371",
+  "UnityBannerUnitId": "Banner_Android",
+  "BannerType": "TAPDAQ",
+  "InterType": "TAPDAQ",
+  "NativeType": "TAPDAQ",
+  "RewardType": "unityAd",
+  "IsAdmobON": true,
+  "IsFacebookON": true,
+  "IsIronON": true,
+  "IsYandexON": true,
+  "IsAppoDealON": true,
+  "IsStartAppON": true,
+  "IsUnityON": true,
+  "IsTapdaqAppON": true,
+  "IsSuspended": false,
+  "IsFeaturedAppON": true,
+  "privacyUrl": "https://sites.google.com/view/guide-game1m/home",
+  "IconUrl": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+  "title": "Photo Lab Editor Pro",
+  "AppUrl": "com.androworld.lastfiddlerphotoeditor",
+  "apps": [
+    {
+      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+      "name": "App1",
+      "url": "com.androworld.lastfiddlerphotoeditor"
+    },
+    {
+      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+      "name": "App1",
+      "url": "com.androworld.lastfiddlerphotoeditor"
+    },
+    {
+      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+      "name": "App1",
+      "url": "com.androworld.lastfiddlerphotoeditor"
+    },
+    {
+      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+      "name": "App1",
+      "url": "com.androworld.lastfiddlerphotoeditor"
+    },
+    {
+      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+      "name": "App1",
+      "url": "com.androworld.lastfiddlerphotoeditor"
+    }
+  ],
+  "wallpapers": [
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/146698145-ffccb762-7254-4d6d-b3e6-1074ba1dc3bb.jpg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/146698143-33a003a1-cd16-4ab3-aa98-bdff1168fdcc.jpg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/146698129-875c025f-3b5f-44ed-8f81-81a1213da84c.jpg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/146698133-1d725593-00bf-4b85-9b3b-470ed69175ad.jpg"
+    },
+     {
+      "Url": "https://user-images.githubusercontent.com/92831523/146698134-649c1cd8-0291-49aa-823d-426b16bac475.jpg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/146698135-f7b21db4-6039-4eea-bce4-87dc2ea16ac4.jpg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/146698136-a4156fd1-3c56-45c6-8cbd-d529e2b3812f.jpg"
+    },
+     {
+      "Url": "https://user-images.githubusercontent.com/92831523/146698138-cd6672d5-1202-46f7-8364-15fb6dad93ba.jpg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/146698140-8e09ba9b-bdcc-4ad0-a372-6ab2f41dbb3d.jpg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/146698141-2e1bea28-1ca0-472c-94de-1118756d07e8.jpg"
+    },
+     {
+      "Url": "https://user-images.githubusercontent.com/92831523/146698142-c41b9870-d456-42ed-be24-2e30bcf60e95.jpg"
+    }
+  ],
+  "Guide": [
+    {
+      "title": "About this game",
+      "Content": "Brick Rigs allows you to build many kinds of vehicles from a variety of bricks and experience their dynamic driving and destruction physics in a sandbox environment. It doesnt matter if you want to build an dragster, a fire engine, a forklift, a helicopter, a plane or even a tank it will drive, break and function as you would expect it.",
+      "img": "https://user-images.githubusercontent.com/92831523/146698337-79557bdb-88ef-43c8-9241-5e3ee164ba30.jpeg"
+    },
+    {
+      "title": "navigating the editor",
+      "Content": "note: this is a guide on how to build with bricks, not scaleibles, if you are trying to make stuff with scaleibles, this guide is not for you. The editor may appear super complicated at first glance but it isn’t as complicated as it seems. basic controls: – hold down the right click button on the mouse to go into camera moving mode, camera moving mode wil only be on if you are holding right click. – use the arrow keys or move your mouse while still in camera moving mode to pivot the camera, you will need to do this to build efficently. – use the w, a, s and d keys to move the camera while in camera moving mode.",
+      "img": "https://user-images.githubusercontent.com/92831523/146698337-79557bdb-88ef-43c8-9241-5e3ee164ba30.jpeg"
+    },
+    {
+      "title": "interacting with blocks",
+      "Content": "first, i will tell you how to spawn/place blocks, this is very simple, all you have to do is 1: type the dimensions of the block you want (eg: 4x2x1) and click it to spawn it. then drag the block into place (moving your mouse and scroling holding shift and moving the mouse up and down. if it is the first block you have placed, you will not have to worry about moving it because all of the rest of the blocks can move onto it, as the foundation of your build, if you want to move your block press “g” on the keyboard and then you will be able to move it again, left click to stop moving. (note: you can’t move the camera while moving a brick.)",
+      "img": "https://user-images.githubusercontent.com/92831523/146698337-79557bdb-88ef-43c8-9241-5e3ee164ba30.jpeg"
+    },
+    {
+      "title": "spawning your creation",
+      "Content": "To spawn your creation, simply while in the editor click the picture of the car in the top right of the screen, if you press the blue pants, your character will leave the garage building.",
+      "img": "https://user-images.githubusercontent.com/92831523/146698337-79557bdb-88ef-43c8-9241-5e3ee164ba30.jpeg"
+    },
+    {
+      "title": "accessing the editor",
+      "Content": "firstly, to access the editor firstly you have to choose a map to load up, it can be any map. click on the “play” button and then select one of the 6 maps that have gravity(not space because cars dont work in space) and when your game has loaded you should be greeted by a garage, press w, a, s and d to move your character and your mouse or the arrow keys to rotate your character. navigate your character to the yellow dot out the front of the garages door, if the yellow dot becomes a prompt that says “Enter Editor” press the “e” button on your keyboard, you should be in the editor now.",
+      "img": "https://user-images.githubusercontent.com/92831523/146698337-79557bdb-88ef-43c8-9241-5e3ee164ba30.jpeg"
+    },
+     {
+      "title": "The Guide to Battles",
+      "Content": "This section will overview what to do to not only have a good time, but to create a better server, and to not get other people angry. So one of the main things i want to cover is having fun, whatever you do, if there are bases where people spawn at. DO NOT CAMP THEM, it can get really annoying and can lead to you being kicked and/or ridiculed. Secondly, use vehicles from the era. “I dOn’t HAvE a VehicLE fRom thEN” Isnt a gaht daym excuse. Experimental Vehicles most people are fine with, but before you pull out that K-Wagen get confirmation with the owner. YES, Also show them it. For the love of god, if someone is having lots of fun, don’t ruin it by pulling out a counter to it. The point of battles is to have fun, while being realistic. Maintain Realism, Hosts if you have poor moderation, its no moderation. So someone with a MiG-17 in a ww1 server will not be okay with Most ALL people, Speaking of 17 its the amount of seconds people will still be in your server. Dont Intentionally lag the game, nobody likes it. Nor Trolling. Even if you are somehow lagging the game, and people tell you to remove it. Remove it. Also if you don’t like something, Don’t fuss. Thats why there is a button to exit.",
+      "img": "https://user-images.githubusercontent.com/92831523/146698337-79557bdb-88ef-43c8-9241-5e3ee164ba30.jpeg"
+    },
+    {
+      "title": "How to give your vehicle steering",
+      "Content": "it may sound complicated, but it is super easy, find out in these 4 steps 1. grab a axle (same type as the drive axles) and put it in the desired position . put a wheel on and spawn (note: disable 'has hand brake' option in the 'drive' settings if the steering axle is also the front axle) additionally, to make axles steer backwards, all you have to do is put a "-" symbol before the number you enter!   ",
+      "img": "https://user-images.githubusercontent.com/92831523/146698337-79557bdb-88ef-43c8-9241-5e3ee164ba30.jpeg"
+    },
+    {
+      "title": "enjoy",
+      "Content": "Hope you enjoy the Guide about Brick Rigs – How to give your Vehicles steering systems, if you think we should add extra information or forget something, please let us know via comment below, and we will do our best to fix or update as soon as possible!",
+      "img": "https://user-images.githubusercontent.com/92831523/146698337-79557bdb-88ef-43c8-9241-5e3ee164ba30.jpeg"
+    }
+  ],
+  "Cpa": {
+    "img": "https://images.pexels.com/photos/9066312/pexels-photo-9066312.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "url": "https://www.google.com/"
+  }
+}
