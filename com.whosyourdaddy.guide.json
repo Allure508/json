@@ -1,0 +1,151 @@
+{
+  "AppDealKey": "5e259018844b7e434c79ec86e097dab830f6fc34ff603433",
+  "IronKey": "10133baa9",
+  "StartAppId": "206262019",
+  "Tapdaq_App_id": "6194dd4408fe6c2d735d7388",
+  "Tapdaq_client_key": "c57a0332-6570-474f-a6fa-c500f71911d5",
+  "FacebookNativeUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "FacebookBannerUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "FacebookInterUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "FacebookRewardUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "AdmobBannerUnitId": "ca-app-pub-3940256099942544/6300978111",
+  "AdmobInterUnitId": "ca-app-pub-3940256099942544/1033173712",
+  "AdmobNativeUnitId": "ca-app-pub-3940256099942544/2247696110",
+  "AdmobRewardUnitId": "ca-app-pub-3940256099942544/5224354917",
+  "AdmobOpenUnitId": "ca-app-pub-3940256099942544/3419835294",
+  "YandexBannerUnitId": "R-M-DEMO-320x50",
+  "YandexInterUnitId": "R-M-DEMO-320x480",
+  "YandexRewardUnitId": "R-M-DEMO-rewarded-client-side-rtb",
+  "YandexNativeUnitId": "R-M-DEMO-native-i",
+  "UnityGameID": "4395371",
+  "UnityBannerUnitId": "Banner_Android",
+  "BannerType": "TAPDAQ",
+  "InterType": "TAPDAQ",
+  "NativeType": "TAPDAQ",
+  "RewardType": "unityAd",
+  "IsAdmobON": true,
+  "IsFacebookON": true,
+  "IsIronON": true,
+  "IsYandexON": true,
+  "IsAppoDealON": true,
+  "IsStartAppON": true,
+  "IsUnityON": true,
+  "IsTapdaqAppON": true,
+  "IsSuspended": false,
+  "IsFeaturedAppON": true,
+  "privacyUrl": "https://newstate.pubg.com/policy/privacypolicy",
+  "IconUrl": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+  "title": "Photo Lab Editor Pro",
+  "AppUrl": "com.androworld.lastfiddlerphotoeditor",
+  "apps": [
+    {
+      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+      "name": "App1",
+      "url": "com.androworld.lastfiddlerphotoeditor"
+    },
+    {
+      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+      "name": "App1",
+      "url": "com.androworld.lastfiddlerphotoeditor"
+    },
+    {
+      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+      "name": "App1",
+      "url": "com.androworld.lastfiddlerphotoeditor"
+    },
+    {
+      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+      "name": "App1",
+      "url": "com.androworld.lastfiddlerphotoeditor"
+    },
+    {
+      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+      "name": "App1",
+      "url": "com.androworld.lastfiddlerphotoeditor"
+    }
+  ],
+  "wallpapers": [
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/146695458-19ce866a-4428-4509-9e21-5d676d9e38d4.jpg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/146695460-880ccdb3-2d02-4e5a-ba96-dfbaf39d32d6.jpg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/146695461-c797d90a-4f95-405e-8393-89126f793b8e.jpg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/146695462-7a5969cc-42fb-42f5-828b-d68c4fe12863.jpg"
+    },
+     {
+      "Url": "https://user-images.githubusercontent.com/92831523/146695463-827e16ba-21f2-4242-a94a-25a796f18a16.jpg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/146695464-a5f689b3-873a-4ce9-84e3-d6ea3d7066b5.jpg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/146695465-aea94545-e99b-409f-b505-8f60c1eaa56c.jpg"
+    },
+     {
+      "Url": "https://user-images.githubusercontent.com/92831523/146695467-143da56f-eb2e-4376-97d6-44a592b8b84e.jpg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/146695469-099350c0-57c6-4214-b334-01c8b65a679d.jpg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/146695471-6b64d866-78c7-436b-a041-ddb8b290ba37.jpg"
+    },
+     {
+      "Url": "https://user-images.githubusercontent.com/92831523/146695472-75e026cc-a01c-4b4c-8019-5cf34ddc4a83.jpg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/146695473-a09b4bbc-4c4d-4e0a-8bd7-a5e7922c42fd.jpg"
+    }
+  ],
+  "Guide": [
+    {
+      "title": "whos your daddy about",
+      "Content": "Whos Your Daddy is a casual multiplayer game featuring a clueless father attempting to prevent his infant son from certain death. Play with up to 7 of your friends (online and local), and test your parenting skills in a competitive setup with wacky physics and over 67 potentially ominous household items.",
+      "img": "https://user-images.githubusercontent.com/92831523/146695353-a6fe42c0-9e52-408c-b398-be0913908e49.png"
+    },
+    {
+      "title": "Is Whos Your Daddy free?",
+      "Content": "Is Whos Your Daddy free to download? No. Downloading and installing the game will cost a fee; however, the price tag on the game is very small, making it suitable as a budget purchase for audiences who simply wants a quick, casual two-player experience.",
+      "img": "https://user-images.githubusercontent.com/92831523/146695353-a6fe42c0-9e52-408c-b398-be0913908e49.png"
+    },
+    {
+      "title": "Break All the Glass",
+      "Content": "Objective: Break all of the shatterable glass Instruction: Jump down to the living room and grab a hammer. You can use this to shatter the glass table in front of you, and the four windows from the master bedroom above. Then, break the five stacked cups in the kitchen, the three in the sink, and the two outside between the lounge chairs.",
+      "img": "https://user-images.githubusercontent.com/92831523/146695353-a6fe42c0-9e52-408c-b398-be0913908e49.png"
+    },
+    {
+      "title": "Loop Shoot",
+      "Content": "This one might be bugged. I shot all the hoops that I could find, didn’t complete it, but still received the achievement.Objective: Fire your ball launcher into each hoop Instruction: Jump up and interact with the ball launcher to grab it. Shoot the hoops in the living room, the one outside the front door, the ones on the kitchen counter, and the ones above the pool. The hoop will explode when you score, so explode them all. It registered for me after exiting the game and coming back later.",
+      "img": "https://user-images.githubusercontent.com/92831523/146695353-a6fe42c0-9e52-408c-b398-be0913908e49.png"
+    },
+    {
+      "title": "Get the Babies out of the Pool",
+      "Content": "Objective: Take the babies out of the water Instruction: Grab the pool skimmer from the side of the house. It will hold the babies like a magnet. You can collect the babies from inside or outside of the water, and then lift the skimmer out of the water!",
+      "img": "https://user-images.githubusercontent.com/92831523/146695353-a6fe42c0-9e52-408c-b398-be0913908e49.png"
+    },
+     {
+      "title": "Put Dishes Away",
+      "Content": "Objective: Place the dishes in the kitchen cupboards Instruction: There are 5 plates on the counter, 5 glasses on the counter, and 3 glasses in the sink. One at a time, pick the dishes up and place them into the black cabinets. The glasses are delicate, so take short steps as to not build up too much momentum.",
+      "img": "https://user-images.githubusercontent.com/92831523/146695353-a6fe42c0-9e52-408c-b398-be0913908e49.png"
+    },
+    {
+      "title": "Wash the Car",
+      "Content": "Objective: Break all of the shatterable glass Instruction: Jump down to the living room and grab a hammer. You can use this to shatter the glass table in front of you, and the four windows from the master bedroom above. Then, break the five stacked cups in the kitchen, the three in the sink, and the two outside between the lounge chairs.",
+      "img": "https://user-images.githubusercontent.com/92831523/146695353-a6fe42c0-9e52-408c-b398-be0913908e49.png"
+    },
+    {
+      "title": "Pick up the Poop",
+      "Content": "Objective: Throw away the kitchen poops Instruction: Select each poop and drag them to the trash can, where they will disappear on impact. There are 14 poops hidden, all within the kitchen. They are located: In the fruit bowl/ In front of the fridge / In the freezer / Inside of the kitchen island (the cabinet below the fruit bowl) / The pull-out drawer to the left of the stove / Inside of the stove / Inside of the microwave / On the kitchen counter, to the right of the stove / On top of all of the cabinets, in the corner / Inside the cabinet above the stacked glasses / In the sink",
+      "img": "https://user-images.githubusercontent.com/92831523/146695353-a6fe42c0-9e52-408c-b398-be0913908e49.png"
+    }
+  ],
+  "Cpa": {
+    "img": "https://images.pexels.com/photos/9066312/pexels-photo-9066312.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "url": "https://www.google.com/"
+  }
+}
