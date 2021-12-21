@@ -64,6 +64,20 @@
       "url": "com.androworld.lastfiddlerphotoeditor"
     }
   ],
+   "wallpapers": [
+    {
+      "Url": "https://images.pexels.com/photos/9167163/pexels-photo-9167163.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "Url": "https://images.pexels.com/photos/9749269/pexels-photo-9749269.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "Url": "https://images.pexels.com/photos/9928538/pexels-photo-9928538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "Url": "https://images.pexels.com/photos/9336641/pexels-photo-9336641.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
   "Guide": [
     {
       "title": "What is Full Max TV Apk",
