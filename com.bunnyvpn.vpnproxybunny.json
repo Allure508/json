@@ -23,7 +23,7 @@
   "InterType": "Admob",
   "NativeType": "Admob",
   "RewardType": "unityAd",
-  "IsAdmobON": false,
+  "IsAdmobON": true,
   "IsFacebookON": false,
   "IsIronON": false,
   "IsYandexON": false,
