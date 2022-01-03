@@ -1,0 +1,83 @@
+{
+  "AppDealKey": "5e259018844b7e434c79ec86e097dab830f6fc34ff603433",
+  "IronKey": "10133baa9",
+  "StartAppId": "206262019",
+  "Tapdaq_App_id": "6194dd4408fe6c2d735d7388",
+  "Tapdaq_client_key": "c57a0332-6570-474f-a6fa-c500f71911d5",
+  "FacebookNativeUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "FacebookBannerUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "FacebookInterUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "FacebookRewardUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "AdmobBannerUnitId": "ca-app-pub-3940256099942544/6300978111",
+  "AdmobInterUnitId": "ca-app-pub-3940256099942544/1033173712",
+  "AdmobNativeUnitId": "ca-app-pub-3940256099942544/2247696110",
+  "AdmobRewardUnitId": "ca-app-pub-3940256099942544/5224354917",
+  "AdmobOpenUnitId": "ca-app-pub-3940256099942544/3419835294",
+  "YandexBannerUnitId": "R-M-DEMO-320x50",
+  "YandexInterUnitId": "R-M-DEMO-320x480",
+  "YandexRewardUnitId": "R-M-DEMO-rewarded-client-side-rtb",
+  "YandexNativeUnitId": "R-M-DEMO-native-i",
+  "UnityGameID": "4395371",
+  "UnityBannerUnitId": "Banner_Android",
+  "BannerType": "Admob",
+  "InterType": "Admob",
+  "NativeType": "Admob",
+  "RewardType": "unityAd",
+  "IsAdmobON": true,
+  "IsFacebookON": true,
+  "IsIronON": true,
+  "IsYandexON": true,
+  "IsAppoDealON": true,
+  "IsStartAppON": true,
+  "IsUnityON": true,
+  "IsTapdaqAppON": true,
+  "IsSuspended": false,
+  "IsFeaturedAppON": true,
+  "privacyUrl": "https://sites.google.com/view/bunnyvpntips",
+  "IconUrl": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+  "title": "Photo Lab Editor Pro",
+  "AppUrl": "com.androworld.lastfiddlerphotoeditor",
+  "apps": [
+    {
+      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+      "name": "App1",
+      "url": "com.androworld.lastfiddlerphotoeditor"
+    },
+    {
+      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+      "name": "App1",
+      "url": "com.androworld.lastfiddlerphotoeditor"
+    }
+  ],
+  "Guide": [
+    {
+      "title": "What is VPN?",
+      "Content": "VPN Proxy - Free VPN Master with Fast Speed is a very interesting tool, thanks to which you can connect to servers from more than 100 countries around the world. With this app, secure and anonymous..",
+      "img": "https://user-images.githubusercontent.com/92831523/146715951-cce24923-269b-4d6f-bac4-b927adc1d41f.png"
+    },
+    {
+      "title": "Game Speed Boost",
+      "Content": "Special protocols allow a faster connection speed! VPN Master introduces low ping servers, provides low ping for online mobile game and offers lag fix function to improve ms and boost game performance Limited user on one server, never overcrowded!We specifically improve ping performance for android mobile online games and reduce the latency of online games",
+      "img": "https://user-images.githubusercontent.com/92831523/146715951-cce24923-269b-4d6f-bac4-b927adc1d41f.png"
+    },
+    {
+      "title": "Abundant VPN proxy Servers",
+      "Content": "We provide numerous VPN servers located all over the world! More than 1000+ VPN servers are provided with different countries coverage. Choose the fastest VPN server and connect to unblock all the sites and apps over the world. 30+ countries are available including VPN for India, VPN US server, Japan VPN proxy and more.",
+      "img": "https://user-images.githubusercontent.com/92831523/146715951-cce24923-269b-4d6f-bac4-b927adc1d41f.png"
+    },
+    {
+      "title": "Secure Browsing",
+      "Content": "VPN Master masks network connection to protect your mobile privacy. IPsec and SSL VPN connections are offered to mobile devices with VPN, which better keeps network browsing anonymous to maintains network privacy. It will prove to be very necessary to hide your IP address when you use public Wi-Fi connection at hotels, coffee shops, etc.",
+      "img": "https://user-images.githubusercontent.com/92831523/146715951-cce24923-269b-4d6f-bac4-b927adc1d41f.png"
+    },
+    {
+      "title": "Protect your privacy and browse without barriers",
+      "Content": "This application offers two main advantages to the user. One is the aforementioned privacy, since, as we are sure you know, what a VPN does is to channel the connection through a proxy server so that it takes the IP of the proxy server as its IP and not the users real IP. In this way, the servers that are accessed register the fictitious IP and not that of the device with which the user is browsing.",
+      "img": "https://user-images.githubusercontent.com/92831523/146715951-cce24923-269b-4d6f-bac4-b927adc1d41f.png"
+    }
+  ],
+  "Cpa": {
+    "img": "https://images.pexels.com/photos/9066312/pexels-photo-9066312.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "url": "https://www.google.com/"
+  }
+}
