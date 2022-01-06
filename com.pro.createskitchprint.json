@@ -1,0 +1,150 @@
+{
+  "AppDealKey": "5e259018844b7e434c79ec86e097dab830f6fc34ff603433",
+  "IronKey": "10133baa9",
+  "StartAppId": "206262019",
+  "Tapdaq_App_id": "6194dd4408fe6c2d735d7388",
+  "Tapdaq_client_key": "c57a0332-6570-474f-a6fa-c500f71911d5",
+  "FacebookNativeUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "FacebookBannerUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "FacebookInterUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "FacebookRewardUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "AdmobBannerUnitId": "ca-app-pub-3940256099942544/6300978111",
+  "AdmobInterUnitId": "ca-app-pub-3940256099942544/1033173712",
+  "AdmobNativeUnitId": "ca-app-pub-3940256099942544/2247696110",
+  "AdmobRewardUnitId": "ca-app-pub-3940256099942544/5224354917",
+  "AdmobOpenUnitId": "ca-app-pub-3940256099942544/3419835294",
+  "YandexBannerUnitId": "R-M-DEMO-320x50",
+  "YandexInterUnitId": "R-M-DEMO-320x480",
+  "YandexRewardUnitId": "R-M-DEMO-rewarded-client-side-rtb",
+  "YandexNativeUnitId": "R-M-DEMO-native-i",
+  "UnityGameID": "4395371",
+  "UnityBannerUnitId": "Banner_Android",
+  "BannerType": "Admob",
+  "InterType": "Admob",
+  "NativeType": "Admob",
+  "RewardType": "unityAd",
+  "IsAdmobON": true,
+  "IsFacebookON": true,
+  "IsIronON": true,
+  "IsYandexON": true,
+  "IsAppoDealON": true,
+  "IsStartAppON": true,
+  "IsUnityON": true,
+  "IsTapdaqAppON": true,
+  "IsSuspended": false,
+  "IsFeaturedAppON": true,
+  "privacyUrl": "https://sites.google.com/view/procreateapptest",
+  "IconUrl": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+  "title": "Photo Lab Editor Pro",
+  "AppUrl": "com.androworld.lastfiddlerphotoeditor",
+  "apps": [
+    {
+      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+      "name": "App1",
+      "url": "com.androworld.lastfiddlerphotoeditor"
+    },
+    {
+      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+      "name": "App1",
+      "url": "com.androworld.lastfiddlerphotoeditor"
+    }
+  ],
+  "Guide": [
+    {
+      "title": "Basic Beginners Guide to Procreate",
+      "Content": "Procreate for iPad is a fantastic and affordable tool that can be used for digital artwork and animation, but it can take some getting used to if youve not used a similar program (like Illustrator) before. 
+
+Learning how to use Procreate as a beginner will take some time, but there are some little tips and tricks that you might not know about, that can really help you on this journey.
+
+Small things like knowing how to draw a perfectly straight line, or how to use a clipping mask to add detail and shading to a shape, will add a new level to your Procreate artwork. Youll be a Procreate expert creating seamless patterns in no time!",
+      "img": "https://user-images.githubusercontent.com/92831523/146715951-cce24923-269b-4d6f-bac4-b927adc1d41f.png"
+    },
+    {
+      "title": "Equipment Youll Need",
+      "Content": "The main thing youll need to use Procreate is an iPad, an Apple Pencil and the Procreate app. However, there are several things you might want to consider before diving in, especially as these tools are quite an expensive investment.
+      Remember that Procreate is only currently available on iOS, so it can only be used on Apple iPad (although a Pocket version can be used on iPhones).
+
+For your iPad, consider what size works best for you. The huge upside of using Procreate for drawing is that you can take it anywhere with you, from the local coffee shop to the comfort of your living room sofa, so you might want to think about getting an iPad that can easily fit inside your bag.
+
+However, for drawing, you also want a nice big screen so you can add plenty of detail to your drawings. Take a look at some of the sizes available online and find a good compromise between screen size and portability.",
+      "img": "https://user-images.githubusercontent.com/92831523/146715951-cce24923-269b-4d6f-bac4-b927adc1d41f.png"
+    },
+    {
+      "title": "File Types in Procreate",
+      "Content": "When you make a new Procreate file, youll be given the option to choose the size and resolution (DPI) of your canvas. You might want to choose a preset size such as A4, or you might prefer to choose a custom size.
+
+If you want to print your artwork, youll want to use 300 DPI and as large a file size as possible, but be aware that this comes with limitations.
+
+Your maximum layers will vary depending on file size and DPI, so make sure you consider this before making your canvas.
+
+You may also want to check your colour profile. For digital artwork, RGB is perfect, but if you want to print your artwork at a later date, you might want to use CMYK, as this is the colour setting that printers use.
+
+You can also change the options for your time-lapse video, which is a video Procreate automatically creates showing the making of each of your drawings. You can set the size and quality of the video when making a new canvas.",
+      "img": "https://user-images.githubusercontent.com/92831523/146715951-cce24923-269b-4d6f-bac4-b927adc1d41f.png"
+    },
+    {
+      "title": "Turn Touch Off",
+      "Content": "So youve invested in an iPad and Pencil, youve downloaded Procreate, and youre ready to go. Well, before we get creative, there is one essential step to help you make beautiful artwork in Procreate.
+
+Youll find when you open the Procreate app that you can draw with your fingers as well as your Pencil, but youll also notice that Procreate still recognizes the touch of your fingers when you’re using the Pencil.
+
+You might start making strange marks with parts of your hand, and when youre drawing, you’ll probably want to be able to lean the base of your hand on the canvas without making marks.",
+      "img": "https://user-images.githubusercontent.com/92831523/146715951-cce24923-269b-4d6f-bac4-b927adc1d41f.png"
+    },
+    {
+      "title": "Procreate Basic Tools",
+      "Content": "Lets go over some of the basic tools available to you in Procreate.
+
+On the left, there is a bar with two sliders (this bar can also be moved to the right if you are left-handed). The top slider will change the size of your brush strokes, while the bottom slider will affect the opacity of your strokes.
+Tapping the small square in the middle will allow you to utilize the eyedropper tool, which will let you pick a colour from your canvas.
+
+This is good for matching a colour youve already used in your drawing, or picking a colour from a reference picture. Beneath that, there are some",
+      "img": "https://user-images.githubusercontent.com/92831523/146715951-cce24923-269b-4d6f-bac4-b927adc1d41f.png"
+    },
+    {
+      "title": "Start Simple",
+      "Content": "Using Procreate for the first time may feel strange and unnatural, but over time you will become adjusted to this new way of drawing. However, your first drawing probably isn’t going to be a masterpiece!
+
+While you learn how to use the app and your Pencil, the artwork you create may not be up to the standard you would expect on paper.
+
+We recommend not putting too much pressure on yourself at first by starting simple, and going back to basics.
+
+Why not try some life drawing, or try drawing simple shapes? This will help you gain confidence using the app and get used to the different settings.",
+      "img": "https://user-images.githubusercontent.com/92831523/146715951-cce24923-269b-4d6f-bac4-b927adc1d41f.png"
+    },
+    {
+      "title": "How To Draw a Perfect Line or Circle in Procreate",
+      "Content": "This is a super helpful tool that is not immediately obvious when you start using the app.
+
+To draw a perfectly straight line in Procreate, simply draw a line (however wobbly), and when you reach the end, hold your Pencil there for a few seconds and the line will automatically become straight. You can then move your Pencil to change the length or angle of your line.
+
+To draw a perfectly round circle in Procreate, draw a wobbly circle and again hold your Pencil at the end for a few seconds, and it will automatically link up and create a circle that is even all the way round.
+
+At the top, you will then see an “Edit shape” button appear, where you can choose to make a perfect circle, ellipse, quadrilateral, rectangle or polyline. This tool is great if you want to do some drawing that is geometric.",
+      "img": "https://user-images.githubusercontent.com/92831523/146715951-cce24923-269b-4d6f-bac4-b927adc1d41f.png"
+    },
+    {
+      "title": "Use a Perspective Grid",
+      "Content": "In your “Actions” menu, under “Canvas”, you can add a drawing guide to your canvas. These are lines that will not appear in your final image, but will help you create drawings that are perfectly measured or centered. After adding the guide, click “Edit drawing guide” to change the shape, opacity, colour, thickness or style of your grid – you can even make a grid that is isometric, or use the perspective setting to create accurate three-dimensional artwork.",
+      "img": "https://user-images.githubusercontent.com/92831523/146715951-cce24923-269b-4d6f-bac4-b927adc1d41f.png"
+    },
+    {
+      "title": "Using Layer Styles and Clipping Masks",
+      "Content": "In your layers panel, you can edit the opacity and style of your layer by clicking the little “N” on the right-hand side. This
+
+“N” stands for “Normal”, which is the standard layer style, but you can also use a huge range of styles that will have a different impact on your artwork.
+For example, “multiply” will make the layer darker and slightly transparent, while “screen” will make it lighter.
+
+There are lots of settings here so take some time to experiment and research what each one does and how you might be able to use it.
+
+When you make a new layer, you can tap it to open the layer settings. This is where you can name, duplicate or clear your layer, or merge it with a layer below.
+
+Within this menu, you’ll see the options “Mask” and “Clipping mask”, which can be helpful for drawing. These options will allow you to add details or shading, but only over a certain area.",
+      "img": "https://user-images.githubusercontent.com/92831523/146715951-cce24923-269b-4d6f-bac4-b927adc1d41f.png"
+    }
+  ],
+  "Cpa": {
+    "img": "https://images.pexels.com/photos/9066312/pexels-photo-9066312.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "url": "https://www.google.com/"
+  }
+}
