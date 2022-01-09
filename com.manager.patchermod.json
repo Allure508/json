@@ -1,0 +1,144 @@
+{
+  "AppDealKey": "5e259018844b7e434c79ec86e097dab830f6fc34ff603433",
+  "IronKey": "10133baa9",
+  "StartAppId": "206262019",
+  "Tapdaq_App_id": "6194dd4408fe6c2d735d7388",
+  "Tapdaq_client_key": "c57a0332-6570-474f-a6fa-c500f71911d5",
+  "FacebookNativeUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "FacebookBannerUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "FacebookInterUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "FacebookRewardUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "AdmobBannerUnitId": "ca-app-pub-3940256099942544/6300978111",
+  "AdmobInterUnitId": "ca-app-pub-3940256099942544/1033173712",
+  "AdmobNativeUnitId": "ca-app-pub-3940256099942544/2247696110",
+  "AdmobRewardUnitId": "ca-app-pub-3940256099942544/5224354917",
+  "AdmobOpenUnitId": "ca-app-pub-3940256099942544/3419835294",
+  "YandexBannerUnitId": "R-M-DEMO-320x50",
+  "YandexInterUnitId": "R-M-DEMO-320x480",
+  "YandexRewardUnitId": "R-M-DEMO-rewarded-client-side-rtb",
+  "YandexNativeUnitId": "R-M-DEMO-native-i",
+  "UnityGameID": "4395371",
+  "UnityBannerUnitId": "Banner_Android",
+  "BannerType": "TAPDAQ",
+  "InterType": "TAPDAQ",
+  "NativeType": "TAPDAQ",
+  "RewardType": "unityAd",
+  "IsAdmobON": true,
+  "IsFacebookON": true,
+  "IsIronON": true,
+  "IsYandexON": true,
+  "IsAppoDealON": true,
+  "IsStartAppON": true,
+  "IsUnityON": true,
+  "IsTapdaqAppON": true,
+  "IsSuspended": false,
+  "IsFeaturedAppON": true,
+  "privacyUrl": "https://sites.google.com/view/app-helper",
+  "IconUrl": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+  "title": "Photo Lab Editor Pro",
+  "AppUrl": "com.androworld.lastfiddlerphotoeditor",
+  "apps": [
+    {
+      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+      "name": "App1",
+      "url": "com.androworld.lastfiddlerphotoeditor"
+    },
+    {
+      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+      "name": "App1",
+      "url": "com.androworld.lastfiddlerphotoeditor"
+    },
+    {
+      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+      "name": "App1",
+      "url": "com.androworld.lastfiddlerphotoeditor"
+    },
+    {
+      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+      "name": "App1",
+      "url": "com.androworld.lastfiddlerphotoeditor"
+    },
+    {
+      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+      "name": "App1",
+      "url": "com.androworld.lastfiddlerphotoeditor"
+    }
+  ],
+  "wallpapers": [
+    {
+      "Url": "https://images.pexels.com/photos/9167163/pexels-photo-9167163.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "Url": "https://images.pexels.com/photos/9749269/pexels-photo-9749269.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "Url": "https://images.pexels.com/photos/9928538/pexels-photo-9928538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "Url": "https://images.pexels.com/photos/9336641/pexels-photo-9336641.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "Guide": [
+    {
+      "title": "What is Lucky Patcher?",
+      "Content": "Lucky Patcher is a modifier app for unlimited access to games and the play store. This app has a lot of features that you might be searching for a long time.
+
+In short:
+This is the best app to fulfill your demand in android gaming experience as well as the best app to get any paid apps for free.
+I think you will agree with me when I say:
+Ads do hamper your android using & gaming experience to a great extent.
+But heres the kicker:
+Lucky Patcher can block all of those ads and it can serve you the best experience in gaming and using other apps on your android device.
+
+In other words:
+You havent experienced the best & the premium feelings of using your android device unless you have installed Lucky Patcher!",
+      "img": "https://user-images.githubusercontent.com/92831523/146715951-cce24923-269b-4d6f-bac4-b927adc1d41f.png"
+    },
+    {
+      "title": "Usage of Lucky Patcher:",
+      "Content": "If I start telling all of the features of Lucky Patcher I dont think it will end.
+If you ask me, What will I do with Lucky Patcher?
+
+Short answer: It depends on you.
+Long answer: You have access to do almost anything you want. Now it’s your choice what you want to do.
+
+That said:
+Lucky Patcher is the app that gives you God Mode in using any app on your android device.
+In the case of games, you can get free coins, gems, and other resources. You can unlock all the levels and characters which cost a lot of bucks in real life.",
+      "img": "https://user-images.githubusercontent.com/92831523/146715951-cce24923-269b-4d6f-bac4-b927adc1d41f.png"
+    },
+    {
+      "title": "Want to know the best part?",
+      "Content": "You can even download paid apps officially from the play store directly without paying any money.
+
+Heres how:
+This app bypasses the play store security and billing section while buying any paid apps.
+It gets better:
+When you find your android device free from any type of ads.
+Just imagine:
+There are no ad popups no ads showing over the apps and there is no ad video for wasting your valuable time while using an app.",
+      "img": "https://user-images.githubusercontent.com/92831523/146715951-cce24923-269b-4d6f-bac4-b927adc1d41f.png"
+    },
+    {
+      "title": "Hows that possible?",
+      "Content": "The same rules apply. Lucky Patcher bypasses the ad showing features and lets you have a smooth gaming experience.
+I know how great it feels like to use apps without seeing those creepy ads.",
+      "img": "https://user-images.githubusercontent.com/92831523/146715951-cce24923-269b-4d6f-bac4-b927adc1d41f.png"
+    },
+    {
+      "title": "Ever thought of using pro versions of different apps?",
+      "Content": "Do you even know:
+How fascinating is it to use a pro version of an app? Well, if you havent used then sad reacts for you.
+But dont worry. Lucky Patcher has got your back.
+
+Lucky Patcher will let you use the pro versions of any app with just by few clicks.
+Yes, after hearing all this you should be super excited. And this is not the end. We update the app regularly and almost all the updates come with great new features.
+Lucky Patcher is always up to date to serve your purpose. Here you can download the awesome app for free now!!",
+      "img": "https://user-images.githubusercontent.com/92831523/146715951-cce24923-269b-4d6f-bac4-b927adc1d41f.png"
+    }
+  ],
+  "Cpa": {
+    "img": "https://images.pexels.com/photos/9066312/pexels-photo-9066312.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "url": "https://www.google.com/"
+  }
+}
