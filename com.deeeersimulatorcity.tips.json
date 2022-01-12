@@ -1,0 +1,136 @@
+{
+  "AppDealKey": "5e259018844b7e434c79ec86e097dab830f6fc34ff603433",
+  "IronKey": "10133baa9",
+  "StartAppId": "206262019",
+  "Tapdaq_App_id": "6194dd4408fe6c2d735d7388",
+  "Tapdaq_client_key": "c57a0332-6570-474f-a6fa-c500f71911d5",
+  "FacebookNativeUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "FacebookBannerUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "FacebookInterUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "FacebookRewardUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "AdmobBannerUnitId": "ca-app-pub-3940256099942544/6300978111",
+  "AdmobInterUnitId": "ca-app-pub-3940256099942544/1033173712",
+  "AdmobNativeUnitId": "ca-app-pub-3940256099942544/2247696110",
+  "AdmobRewardUnitId": "ca-app-pub-3940256099942544/5224354917",
+  "AdmobOpenUnitId": "ca-app-pub-3940256099942544/3419835294",
+  "YandexBannerUnitId": "R-M-DEMO-320x50",
+  "YandexInterUnitId": "R-M-DEMO-320x480",
+  "YandexRewardUnitId": "R-M-DEMO-rewarded-client-side-rtb",
+  "YandexNativeUnitId": "R-M-DEMO-native-i",
+  "UnityGameID": "4395371",
+  "UnityBannerUnitId": "Banner_Android",
+  "BannerType": "TAPDAQ",
+  "InterType": "TAPDAQ",
+  "NativeType": "TAPDAQ",
+  "RewardType": "unityAd",
+  "IsAdmobON": true,
+  "IsFacebookON": true,
+  "IsIronON": true,
+  "IsYandexON": true,
+  "IsAppoDealON": true,
+  "IsStartAppON": true,
+  "IsUnityON": true,
+  "IsTapdaqAppON": true,
+  "IsSuspended": false,
+  "IsFeaturedAppON": true,
+  "privacyUrl": "https://sites.google.com/view/app-helper",
+  "IconUrl": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+  "title": "Photo Lab Editor Pro",
+  "AppUrl": "com.androworld.lastfiddlerphotoeditor",
+  "apps": [
+    {
+      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+      "name": "App1",
+      "url": "com.androworld.lastfiddlerphotoeditor"
+    },
+    {
+      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+      "name": "App1",
+      "url": "com.androworld.lastfiddlerphotoeditor"
+    },
+    {
+      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+      "name": "App1",
+      "url": "com.androworld.lastfiddlerphotoeditor"
+    },
+    {
+      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+      "name": "App1",
+      "url": "com.androworld.lastfiddlerphotoeditor"
+    },
+    {
+      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+      "name": "App1",
+      "url": "com.androworld.lastfiddlerphotoeditor"
+    }
+  ],
+  "wallpapers": [
+    {
+      "Url": "https://images.pexels.com/photos/9167163/pexels-photo-9167163.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "Url": "https://images.pexels.com/photos/9749269/pexels-photo-9749269.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "Url": "https://images.pexels.com/photos/9928538/pexels-photo-9928538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "Url": "https://images.pexels.com/photos/9336641/pexels-photo-9336641.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "Guide": [
+    {
+      "title": "Starting DEEEER Simulator",
+      "Content": "DEEEER Simulator is a downright bonkers game to play. Here are some of the best things to know when first booting up the game.
+
+DEEEER Simulator is an incredibly wacky and crazy game, both in terms of story and gameplay. If you have played anything like Goat Simulator then you know what you are getting here, but potentially even more off-the-wall. You, of course, play as a silly deer who is tasked with causing as much chaos as possible in a small open-world city area.",
+      "img": "https://user-images.githubusercontent.com/92831523/146715951-cce24923-269b-4d6f-bac4-b927adc1d41f.png"
+    },
+    {
+      "title": "Theres No Wrong Way To Play This Game",
+      "Content": "DEEEER Simulator is meant to be goofy. Once you set your hooves down for the first time, you can freely explore and play however you want to. There are some very light objectives to push the "story" forward, however, you can play this game in any way that brings a smile to your face.
+
+DEEEER Simulator is really just a sandbox game where you are encouraged to cause as much chaos as possible while racking up a high score in order to get a good letter grade. Theres no penalty for doing terribly though. If you want to just jump around doing nothing in particular then you can do that as well.",
+      "img": "https://user-images.githubusercontent.com/92831523/146715951-cce24923-269b-4d6f-bac4-b927adc1d41f.png"
+    },
+    {
+      "title": "Yes, Its Meant To Be Wonky And Frustrating",
+      "Content": "Much like the aforementioned Goat Simulator, DEEEER Simulator isnt meant to control well. To be clear, the controls in this game are downright awful, which, paired with tons of glitches and bugs makes this game a chore to play at times. As long as you know that going into the title then you wont be as frustrated or disappointed.
+
+By nature, this game is meant to be a bit off-putting. Nother really ever goes as planned in this game which is why you are encouraged to just run around causing as many shenanigans as you can with your deer. Yes, you will get annoyed at times, however, thats all part of the games supposed charm.",
+      "img": "https://user-images.githubusercontent.com/92831523/146715951-cce24923-269b-4d6f-bac4-b927adc1d41f.png"
+    },
+    {
+      "title": "Ride All Of The Animals",
+      "Content": "DEEEER Simulator lets you ride a plethora of animals. That obviously shouldnt come as any surprise given the goofy nature of the game. Whats shocking is the staggering amount of creatures you can actually ride. There are most basic ones like horses or zebras, but you can also ride fish and rhinos.
+
+Easily the most bizarre and most fun animal to ride is the cow. Now, you dont simply ride the cow as you would think. Instead, you grab onto the cow who then blasts up into the air with milk spewing from its utter. This game basically gives you a cow jetpack. That gameplay mechanic alone should plaster a huge smile on your face.",
+      "img": "https://user-images.githubusercontent.com/92831523/146715951-cce24923-269b-4d6f-bac4-b927adc1d41f.png"
+    },
+    {
+      "title": "Run As Fast As You Can",
+      "Content": "If you get tired of simply prancing around the city as a deer then hold down the run button to watch your deer stand on its hind legs and spring full throttle in any direction. There is something so strange and somewhat creepy about watching a deer stand up on two legs to then sprint as fast as it can across the city.
+
+The animation for this running mechanic is so goofy but it does let you get from point A to point B very quickly. You can run with some of the animals as well but the act of two-legged running as a deer is simply sublime to witness in action.",
+      "img": "https://user-images.githubusercontent.com/92831523/146715951-cce24923-269b-4d6f-bac4-b927adc1d41f.png"
+    },
+    {
+      "title": "Dont Forget The Mini Games",
+      "Content": "Aside from simply running around the map and causing as much havoc as possible, DEEEER Simulator also graciously provides you with some silly mini-games. One minigame is a sort of board game called Cowthello. Its quite hard to describe this game but you essentially need to move your cow pieces around a board.
+
+Games like this are a fun distraction, however, the best mini-game might be basketball. Yep, you can prance onto a basketball court, pick up some basketballs, and shoot some hoops with a bunch of cows who are also hanging out there. The plethora of side activities in this game is staggering.",
+      "img": "https://user-images.githubusercontent.com/92831523/146715951-cce24923-269b-4d6f-bac4-b927adc1d41f.png"
+    },
+    {
+      "title": "Focus On Causing A Ruckus",
+      "Content": "At the end of the day, your only focus in DEEEER Simulator should be causing a ruckus, nothing more, nothing less. There is a light story to guide you through the game but this really only serves as a distraction. You can knock over planters, hop aboard a person to run around and punch others, and even sit atop a massive koala bear.
+
+If that wasnt enough, you can even run on water and smash buttons to spawn in other animals. However, if and when things get out of hand, a bunch of polar bears and sheep will attack you until you meet your demise. This is all in a days work for the deer in DEEEER Simulator.",
+      "img": "https://user-images.githubusercontent.com/92831523/146715951-cce24923-269b-4d6f-bac4-b927adc1d41f.png"
+    }
+  ],
+  "Cpa": {
+    "img": "https://images.pexels.com/photos/9066312/pexels-photo-9066312.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "url": "https://www.google.com/"
+  }
+}
