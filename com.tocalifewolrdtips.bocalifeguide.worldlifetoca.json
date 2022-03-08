@@ -1,0 +1,126 @@
+{
+  "AppDealKey": "5e259018844b7e434c79ec86e097dab830f6fc34ff603433",
+  "IronKey": "10133baa9",
+  "StartAppId": "206262019",
+  "Tapdaq_App_id": "6194dd4408fe6c2d735d7388",
+  "Tapdaq_client_key": "c57a0332-6570-474f-a6fa-c500f71911d5",
+  "FacebookNativeUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "FacebookBannerUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "FacebookInterUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "FacebookRewardUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "AdmobBannerUnitId": "ca-app-pub-3940256099942544/6300978111",
+  "AdmobInterUnitId": "ca-app-pub-3940256099942544/1033173712",
+  "AdmobNativeUnitId": "ca-app-pub-3940256099942544/2247696110",
+  "AdmobRewardUnitId": "ca-app-pub-3940256099942544/5224354917",
+  "AdmobOpenUnitId": "ca-app-pub-3940256099942544/3419835294",
+  "YandexBannerUnitId": "R-M-1489523-2",
+  "YandexInterUnitId": "R-M-1489523-1",
+  "YandexRewardUnitId": "R-M-DEMO-rewarded-client-side-rtb",
+  "YandexNativeUnitId": "R-M-1489523-3",
+  "UnityGameID": "4395371",
+  "UnityBannerUnitId": "Banner_Android",
+  "BannerType": "Admob",
+  "InterType": "Admob",
+  "NativeType": "Admob",
+  "RewardType": "Yandex",
+  "IsAdmobON": true,
+  "IsFacebookON": true,
+  "IsIronON": true,
+  "IsYandexON": true,
+  "IsAppoDealON": true,
+  "IsStartAppON": true,
+  "IsUnityON": true,
+  "IsTapdaqAppON": true,
+  "IsSuspended": false,
+  "IsFeaturedAppON": true,
+  "privacyUrl": "https://sites.google.com/view/app-helper",
+  "IconUrl": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+  "title": "Photo Lab Editor Pro",
+  "AppUrl": "com.androworld.lastfiddlerphotoeditor",
+  "apps": [
+    {
+      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+      "name": "App1",
+      "url": "com.androworld.lastfiddlerphotoeditor"
+    },
+    {
+      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+      "name": "App1",
+      "url": "com.androworld.lastfiddlerphotoeditor"
+    },
+    {
+      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+      "name": "App1",
+      "url": "com.androworld.lastfiddlerphotoeditor"
+    },
+    {
+      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+      "name": "App1",
+      "url": "com.androworld.lastfiddlerphotoeditor"
+    },
+    {
+      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+      "name": "App1",
+      "url": "com.androworld.lastfiddlerphotoeditor"
+    }
+  ],
+  "wallpapers": [
+    {
+      "Url": "https://images.pexels.com/photos/9167163/pexels-photo-9167163.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "Url": "https://images.pexels.com/photos/9749269/pexels-photo-9749269.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "Url": "https://images.pexels.com/photos/9928538/pexels-photo-9928538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "Url": "https://images.pexels.com/photos/9336641/pexels-photo-9336641.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "Guide": [
+   {
+       "title": "Introduction",
+       "Content": "Toca Boca brings all of your favorite games including Toca Life: Office, City, Vacation, and Hospital in one place, Toca Life World. It gives you a chance to make stories and create your beautiful dream home using thousands of possibilities and items. It features a massive world that contains a series of locations to explore. Each location has a variety of buildings to explore and have fun by participating in thousands of fun-filled activities. The game merges several genres such as Puzzle, Education, Point-and-Click, and Virtual World. As the game starts, you find yourself in a digital world where your ultimate goal is to have fun and learn many things. An exciting cast of characters awaits you over there to play different mini-games, take part in competitions, and decorate the room.",
+       "img": "https://user-images.githubusercontent.com/92831523/157160991-a886ba66-faa7-4481-857e-908434c9da3f.png"
+     },
+     {
+       "title": "Review – Enjoy Your Virtual Life",
+       "Content": "Many players worldwide have a lot of dreams, and the majority of players cant fulfill those dreams because of many reasons. Therefore, the popularity of virtual world games has been increasing day by day. It provides you with a platform where you can do anything, and sometimes it makes you a celebrity within the game among others. The best example is MovieStarPlanet, which gives you a chance to be a celebrity, interact with other players using a real-time chat system, and find your love for romance. Many other similar types of games are also available, and the most popular among them is Second Life.",
+       "img": "https://user-images.githubusercontent.com/92831523/157161012-fb690b26-0833-4f29-9af6-2c7e6604137d.png"
+     },
+     {
+       "title": "Pack of 8 Games",
+       "Content": "The game brings a complete world in itself, containing 8 different locations to explore and a variety of cute characters to interact with for having fun. Apart from the Solo mode, the game doesnt feature any multiplayer component. It means, you can enjoy the game with buddies, but still the game has pretty good to enjoy. Each location brings dozens of things to do, and each object in the game is moveable. Using the drag and drop interface, you can move anyone object anywhere. No complicated tasks and challenges were added; therefore, the game is about to have fun for all ages.",
+       "img": "https://user-images.githubusercontent.com/92831523/157160991-a886ba66-faa7-4481-857e-908434c9da3f.png"
+     },
+     {
+       "title": "Extensive Customization Feature",
+       "Content": "Toca Life World: Build Stories and Create Your World introduces an extensive customization feature that lets you modify the appearance of your character to make it more appealing. In the free version, you can only customize three avatars, for further characters you need to purchase its premium version. The customization feature covers many things, ranging from hairstyle, eye-color to clothes and shoes.Moreover, all things lie at your fingertips, and within a tap, it appears on your character. Whenever you go to customize the avatar, the game displays you four possible heights of the same character to choose from and once done, the game brings dozens of options at the bottom of your screen, from skin colors to accessories",
+       "img": "https://user-images.githubusercontent.com/92831523/157161012-fb690b26-0833-4f29-9af6-2c7e6604137d.png"
+     },
+      {
+       "title": "Claim Your Gifts Every Week",
+       "Content": "Who needs to visit the shop to make purchases of new items to add your own created world, when you can grab some of the items for free? Just keep visiting the game to discover exclusive surprise gifts for your characters and the world.
+
+Note: Toca Life World is about discovering well-written storylines, building characters, and adapt pets so you never miss a single moment of fun.",
+       "img": "https://user-images.githubusercontent.com/92831523/157160991-a886ba66-faa7-4481-857e-908434c9da3f.png"
+     },
+     {
+       "title": "Walkthrough",
+       "Content": "You are welcome to a beautiful world where you can do whatever you imagine. Dozens of fun-filled activities are there, and the game is specially designed for kids for educational purposes. A beautiful cast of characters will always keep you engaged for endless hours of fun, and the pets wont leave you alone. Theres no level system, health gauges, and energy you need to unlock locations and characters.
+
+Limited locations and characters are already in your queue to use whenever you wish to, and further needs real-world cash to be unlocked. With the swipe of your finger, all functions and actions can be performed within a game. Probably, no specific tasks are there, but you could take each location as a task apart like cleaning a room, cutting the hair of your character, and more.",
+       "img": "https://user-images.githubusercontent.com/92831523/157161012-fb690b26-0833-4f29-9af6-2c7e6604137d.png"
+     },
+     {
+       "title": "How to Play Toca Life World?",
+       "Content": "As the game starts, you head the globe and have to swipe your finger to spin it and discover different districts. The globe has a sun and you can turn it off to enjoy the night and can tap the moon to turn on the sun to make a day. To visit any building, you have to tap on the location and the targeted building to visit. Upon getting into, you will find lots of stuff to do in each location.",
+       "img": "https://user-images.githubusercontent.com/92831523/157160991-a886ba66-faa7-4481-857e-908434c9da3f.png"
+     }
+  ],
+  "Cpa": {
+    "img": "https://images.pexels.com/photos/9066312/pexels-photo-9066312.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "url": "https://www.google.com/"
+  }
+}
