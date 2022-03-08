@@ -1,0 +1,160 @@
+{
+  "AppDealKey": "5e259018844b7e434c79ec86e097dab830f6fc34ff603433",
+  "IronKey": "10133baa9",
+  "StartAppId": "206262019",
+  "Tapdaq_App_id": "6194dd4408fe6c2d735d7388",
+  "Tapdaq_client_key": "c57a0332-6570-474f-a6fa-c500f71911d5",
+  "FacebookNativeUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "FacebookBannerUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "FacebookInterUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "FacebookRewardUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "AdmobBannerUnitId": "ca-app-pub-3940256099942544/6300978111",
+  "AdmobInterUnitId": "ca-app-pub-3940256099942544/1033173712",
+  "AdmobNativeUnitId": "ca-app-pub-3940256099942544/2247696110",
+  "AdmobRewardUnitId": "ca-app-pub-3940256099942544/5224354917",
+  "AdmobOpenUnitId": "ca-app-pub-3940256099942544/3419835294",
+  "YandexBannerUnitId": "R-M-1489523-2",
+  "YandexInterUnitId": "R-M-1489523-1",
+  "YandexRewardUnitId": "R-M-DEMO-rewarded-client-side-rtb",
+  "YandexNativeUnitId": "R-M-1489523-3",
+  "UnityGameID": "4395371",
+  "UnityBannerUnitId": "Banner_Android",
+  "BannerType": "Admob",
+  "InterType": "Admob",
+  "NativeType": "Admob",
+  "RewardType": "Yandex",
+  "IsAdmobON": true,
+  "IsFacebookON": true,
+  "IsIronON": true,
+  "IsYandexON": true,
+  "IsAppoDealON": true,
+  "IsStartAppON": true,
+  "IsUnityON": true,
+  "IsTapdaqAppON": true,
+  "IsSuspended": false,
+  "IsFeaturedAppON": true,
+  "privacyUrl": "https://sites.google.com/view/app-helper",
+  "IconUrl": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+  "title": "Photo Lab Editor Pro",
+  "AppUrl": "com.androworld.lastfiddlerphotoeditor",
+  "apps": [
+    {
+      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+      "name": "App1",
+      "url": "com.androworld.lastfiddlerphotoeditor"
+    },
+    {
+      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+      "name": "App1",
+      "url": "com.androworld.lastfiddlerphotoeditor"
+    },
+    {
+      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+      "name": "App1",
+      "url": "com.androworld.lastfiddlerphotoeditor"
+    },
+    {
+      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+      "name": "App1",
+      "url": "com.androworld.lastfiddlerphotoeditor"
+    },
+    {
+      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+      "name": "App1",
+      "url": "com.androworld.lastfiddlerphotoeditor"
+    }
+  ],
+  "wallpapers": [
+    {
+      "Url": "https://images.pexels.com/photos/9167163/pexels-photo-9167163.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "Url": "https://images.pexels.com/photos/9749269/pexels-photo-9749269.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "Url": "https://images.pexels.com/photos/9928538/pexels-photo-9928538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "Url": "https://images.pexels.com/photos/9336641/pexels-photo-9336641.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "Guide": [
+   {
+       "title": "Create unique farms",
+       "Content": "Among the highlights of Hay Day, the person who starts the title will be able to make a farm to their liking, with great detail and unique. Personalization is a highlight of Hay Day, which scores many points for being one of the most playable franchises in the community today.
+
+This social game is entertaining, despite not offering anything new, the best thing is to start a game with many tasks to do, be it planting things, taking care of animals and many others. Depending on the size of the farm you will be able to cover more or not, the best advice is to start small.
+
+Touch feed the animals, the farm will grow with animals of all kinds, including pigs, chickens, among many other species available. The wide variety of items will make having a farm with the latest technology, perfect and one that you can show everyone on social networks.",
+       "img": "https://user-images.githubusercontent.com/92831523/157171997-09cdde5f-3a6c-4986-a607-f2dbe5211053.png"
+     },
+     {
+       "title": "Hay Day Basic Features",
+       "Content": "Among the basic functions of the game is to buy plots, plant crops and reap their fruits over and over again, the latter is infinite. You can make the farm a rural paradise, upgrade the farm with production buildings with a bakery, a grinder or a sugar factory.
+
+Visit places in Hay Day, one of those places is a task, that of repairing the piers and then fishing in the lake, a daily task for all players. You can also head to the town once you repair the train station to serve visitors, travel with the truck and spend the seasons having fun.",
+       "img": "https://user-images.githubusercontent.com/92831523/157172003-78715e83-94c2-4ada-866c-095712cbc0df.png"
+     },
+     {
+       "title": "Play in community",
+       "Content": "In Hay Day you can create your own neighborhood, welcome once you believe itIt also exchanges crops and products of any kind with them. Share tips with your friends and help each one to complete tasks, necessary if you want to advance in levels, providing a lot of experience.
+
+Compete in the weekly derby race with the neighborhood and with this you will get important rewards, you can fight for useful things in order to build the best farm. One of the many tasks is to carry the orders with the truck and sell items at the stalls.",
+       "img": "https://user-images.githubusercontent.com/92831523/157171997-09cdde5f-3a6c-4986-a607-f2dbe5211053.png"
+     },
+     {
+       "title": "Tricks",
+       "Content": "Like all games, Hay Day has tips to get the most out of it to one of the titles that to this day is still one of the most played. Hay Day tricks will make you achieve many things, including having the main elements for the construction of the best farm.
+
+In this Supercell title, there are many who day after day learn many techniques, especially to dedicate a time of between one to two hours of their life. These tricks are valid for started games and those that you are going to start, many of them are valued by a large part of the community.",
+       "img": "https://user-images.githubusercontent.com/92831523/157172003-78715e83-94c2-4ada-866c-095712cbc0df.png"
+     },
+      {
+       "title": "Buy and sell tools",
+       "Content": "One of Hay Days tricks is to buy and sell tools. Grab the newspaper and look for construction tools, be it dynamite, saws and other items. Once you buy them, sell each one individually and you will get much more money.
+
+In the last article that you are going to upload, put an ad so that all people can see the items that you have sold to the store. With this you will be able to sell many and get the maximum cut, something necessary to recover in terms of money and be able to invest it in improvements to the farm.",
+       "img": "https://user-images.githubusercontent.com/92831523/157171997-09cdde5f-3a6c-4986-a607-f2dbe5211053.png"
+     },
+     {
+       "title": "Buy missing crops and get diamonds",
+       "Content": "If you lack crops, one option is to go to the store, specifically to the cart to acquire the pertinent ones to plant them and obtain many per day. If you currently pass level 7, the only thing to do is open the newspaper and see what is for sale at that moment.
+
+At certain levels, right next to the daily drawer you will receive a purple ticket. You must watch the video, once it is finished you will receive two diamondsThis is a task that you cannot forget if you want to get at least two diamonds daily, which a week add up to 14, a month you can go over 60, perfect if you want to grow.",
+       "img": "https://user-images.githubusercontent.com/92831523/157172003-78715e83-94c2-4ada-866c-095712cbc0df.png"
+     },
+     {
+       "title": "Take advantage of the Hay Day store",
+       "Content": "Right at the roadside store, as long as you have a free space, you can sell products of all kinds if you want to get money every day. The best thing is to always be attentive to objects that we want to get rid of, if you have a pile accumulated it is best that you sell to keep the supplies.
+
+Every 20 minutes you have free advertising, if you play for a certain time your thing is that you go unlocking this, since it is not cumulative. You can count on a pager on the phone every 20 minutes or so if you want to go open it and thereby obtaining benefit that is vital for the farm.",
+       "img": "https://user-images.githubusercontent.com/92831523/157171997-09cdde5f-3a6c-4986-a607-f2dbe5211053.png"
+     },
+     {
+       "title": "Achievements to earn diamonds",
+       "Content": "The best way to win diamonds is to play regularly, is the important option if you want to generate the maximum possible, which can have many zeros. Diamonds have an exceptional value, so much so that accumulating many will make you have a lot of wealth within the big one.
+
+Among the achievements in which you can earn diamonds, are the following:
+
+Patronage: complete 20, 500 and 2.000 truck deliveries, the number you will win is 1, 2 and 3 respectively
+Cha-Ching !: Sell products for 200, 5.000 and 25.000 in the store from the road to get 1, 2 and 3 gems respectively
+Beep, Beep !: Complete 200, 500 and 2.000 truck deliveries, with this you will receive 1, 2 and 3 gems
+Intellectual: Collect 12, 600 and 3.600 eggs from your chickens to get 1, 2 and up to 3 gems
+Do you have milk ?: Collect 6, 500 and 2.150 jugs of milk from cows to get 1, 2 and 3 gems (respectively)
+Bacon: Collect 10, 200 and 1.500 strips of bacon from your pigs to get 1, 2 and 3 gems respectively
+Longshoreman: Sell 3.000, 25.000 and 100.000 goods from ships to get 1, 2 and 3 gems respectively",
+       "img": "https://user-images.githubusercontent.com/92831523/157172003-78715e83-94c2-4ada-866c-095712cbc0df.png"
+     },
+     {
+       "title": "Get extra items",
+       "Content": "The wheat trick will make you get extra items every two minutes, a time that increases on some occasions, but does not exceed 120 seconds. First buy the wheat necessary to fill the cellar, sow half, When its ready to be harvested, put the phone on its side and shake it.
+
+It is one of the best Hay Day tricks for Android, is one of those that you can not stop doing if you want to get objects that both at the beginning and later you will need. Hay Day has managed to carve out a niche among the youngest by creating your personalized farm from scratch.",
+       "img": "https://user-images.githubusercontent.com/92831523/157171997-09cdde5f-3a6c-4986-a607-f2dbe5211053.png"
+     }
+  ],
+  "Cpa": {
+    "img": "https://images.pexels.com/photos/9066312/pexels-photo-9066312.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "url": "https://www.google.com/"
+  }
+}
