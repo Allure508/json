@@ -18,10 +18,10 @@
     "Inter": "ca-app-pub-3940256099942544/1033173712",
     "Native": "ca-app-pub-3940256099942544/2247696110",
     "Reward": "ca-app-pub-3940256099942544/5224354917",
-    "BannerOn": false,
-    "InterOn": false,
-    "NativeOn": false,
-    "RewardOn": false
+    "BannerOn": true,
+    "InterOn": true,
+    "NativeOn": true,
+    "RewardOn": true
   },
   "yandex": {
     "Banner": "ca-app-pub-3940256099942544/6300978111",
