@@ -1,7 +1,7 @@
 {
   "settings": {
     "TurnedOn": true,
-    "suspended": true,
+    "suspended": false,
     "PackageName": "ffskintoolapps.fffskin.emote",
     "UpdatePackageName": "ffskintoolapps.fffskin.emote",
     "img": "https://play-lh.googleusercontent.com/WjXoRzJKWHJ_x52qWYA6ECM70bq3x0vwwYiBhzLXdOIHCo-obdUTztPbskEn0K8_wBs=s180-rw",
