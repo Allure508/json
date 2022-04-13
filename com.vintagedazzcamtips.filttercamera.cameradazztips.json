@@ -1,0 +1,124 @@
+{
+  "AppDealKey": "5e259018844b7e434c79ec86e097dab830f6fc34ff603433",
+  "IronKey": "10133baa9",
+  "StartAppId": "206262019",
+  "Tapdaq_App_id": "6194dd4408fe6c2d735d7388",
+  "Tapdaq_client_key": "c57a0332-6570-474f-a6fa-c500f71911d5",
+  "FacebookNativeUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "FacebookBannerUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "FacebookInterUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "FacebookRewardUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "AdmobBannerUnitId": "ca-app-pub-3940256099942544/6300978111",
+  "AdmobInterUnitId": "ca-app-pub-3940256099942544/1033173712",
+  "AdmobNativeUnitId": "ca-app-pub-3940256099942544/2247696110",
+  "AdmobRewardUnitId": "ca-app-pub-3940256099942544/5224354917",
+  "AdmobOpenUnitId": "ca-app-pub-3940256099942544/3419835294",
+  "YandexBannerUnitId": "R-M-1489523-2",
+  "YandexInterUnitId": "R-M-1489523-1",
+  "YandexRewardUnitId": "R-M-DEMO-rewarded-client-side-rtb",
+  "YandexNativeUnitId": "R-M-1489523-3",
+  "UnityGameID": "4395371",
+  "UnityBannerUnitId": "Banner_Android",
+  "BannerType": "Admob",
+  "InterType": "Facebook",
+  "NativeType": "Admob",
+  "RewardType": "Yandex",
+  "IsAdmobON": false,
+  "IsFacebookON": false,
+  "IsIronON": true,
+  "IsYandexON": false,
+  "IsAppoDealON": true,
+  "IsStartAppON": true,
+  "IsUnityON": true,
+  "IsTapdaqAppON": true,
+  "IsSuspended": false,
+  "IsFeaturedAppON": true,
+  "privacyUrl": "https://sites.google.com/view/boncoinguide",
+  "IconUrl": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+  "title": "Photo Lab Editor Pro",
+  "AppUrl": "com.androworld.lastfiddlerphotoeditor",
+  "apps": [
+    {
+      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+      "name": "App1",
+      "url": "com.androworld.lastfiddlerphotoeditor"
+    },
+    {
+      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+      "name": "App1",
+      "url": "com.androworld.lastfiddlerphotoeditor"
+    },
+    {
+      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+      "name": "App1",
+      "url": "com.androworld.lastfiddlerphotoeditor"
+    },
+    {
+      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+      "name": "App1",
+      "url": "com.androworld.lastfiddlerphotoeditor"
+    },
+    {
+      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+      "name": "App1",
+      "url": "com.androworld.lastfiddlerphotoeditor"
+    }
+  ],
+  "wallpapers": [
+    {
+      "Url": "https://images.pexels.com/photos/9167163/pexels-photo-9167163.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "Url": "https://images.pexels.com/photos/9749269/pexels-photo-9749269.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "Url": "https://images.pexels.com/photos/9928538/pexels-photo-9928538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "Url": "https://images.pexels.com/photos/9336641/pexels-photo-9336641.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "Guide": [
+   {
+       "title": "About Dazz",
+       "Content": "Dazz camera, your pocket photographer. No need for post-editing, the most realistic film photography or video is instantly presented with a single click. The Dazz camera is inspired by the retro film camera of the 80s. Based on the film proofs, we 100% restore the color, texture and noise of the film.",
+       "img": "https://user-images.githubusercontent.com/92831523/163087132-08af9f72-47dd-4057-8e97-5db9267a4512.png"
+     },
+     {
+       "title": "Do you have to pay for Dazz Cam?",
+       "Content": "Dazz Cam is simple to use, you can either take pictures on the app directly or import them from your camera roll. The app then gives you different “camera” options, although you do need to purchase the pro version for £4.99/year to unlock further options.",
+       "img": "https://user-images.githubusercontent.com/92831523/163087132-08af9f72-47dd-4057-8e97-5db9267a4512.png"
+     },
+     {
+       "title": "How does Dazz cam work?",
+       "Content": "There are 13 vintage camera replicas for stills and six for video included with the fully unlocked Pro version of the app, and they cover quite a lot of ground. On the video front you get the likes of VHS, 16mm, and 8mm options among others. On the photo front, there are such oddities as a pleasingly lurching 3D camera and a rudimentary split camera alongside the more conventional vintage grainy selection.",
+       "img": "https://user-images.githubusercontent.com/92831523/163087132-08af9f72-47dd-4057-8e97-5db9267a4512.png"
+     },
+     {
+       "title": "Tutorial: 1",
+       "Content": "Each camera gets its own faithful frame in the viewfinder, so youll find yourself composing the shot quite naturally. On a couple of photo cameras, you also get the option of taking and superimposing two photos for a double exposure effect.
+
+In addition to the cameras, youll get a small selection of accessory modifiers, from flashes to fisheye lenses. You can also add a degree of random light leaks and time stamps to stills, and alter the frame rate for videos.",
+       "img": "https://user-images.githubusercontent.com/92831523/163087132-08af9f72-47dd-4057-8e97-5db9267a4512.png"
+     },
+      {
+       "title": "Tutorial: 2",
+       "Content": "While the results from these individual cameras can be pleasing, Dazz Cam’s main issue relates to its clunky UI and general lack of intuitiveness. For example, only five of the photo cameras are included with the free tier, and just one of the video cameras.around half that for a yearly subscription. Alternatively, you can pay a smaller amount to unlock individual cameras.",
+       "img": "https://user-images.githubusercontent.com/92831523/163087132-08af9f72-47dd-4057-8e97-5db9267a4512.png"
+     },
+     {
+       "title": "Tutorial: 3",
+       "Content": "You can quibble about the pricing structure, but this is largely subjective. What we really take issue with is how unclear it is which of these lenses is free and which is in the paid tier. Theres no indication until you tap on the camera, only to be greeted by a purchase prompt. On the plus side, its possible to test each camera, which amounts to letting you take – but not store – an image with the chosen filter.",
+       "img": "https://user-images.githubusercontent.com/92831523/163087132-08af9f72-47dd-4057-8e97-5db9267a4512.png"
+     },
+     {
+       "title": "Tutorial: 4",
+       "Content": "Even aside from this Free/Pro delineation issue, the selection screen for the cameras feels clunky, forcing you into portrait from the landscape viewfinder. Youre forced to view the predominantly landscape images in portrait too. It all lacks a little finesse.",
+       "img": "https://user-images.githubusercontent.com/92831523/163087132-08af9f72-47dd-4057-8e97-5db9267a4512.png"
+     }
+  ],
+  "Cpa": {
+    "img": "https://images.pexels.com/photos/9066312/pexels-photo-9066312.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "url": "https://www.google.com/"
+  }
+}
