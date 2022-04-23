@@ -1,0 +1,128 @@
+{
+  "AppDealKey": "5e259018844b7e434c79ec86e097dab830f6fc34ff603433",
+  "IronKey": "10133baa9",
+  "StartAppId": "206262019",
+  "Tapdaq_App_id": "6194dd4408fe6c2d735d7388",
+  "Tapdaq_client_key": "c57a0332-6570-474f-a6fa-c500f71911d5",
+  "FacebookNativeUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "FacebookBannerUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "FacebookInterUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "FacebookRewardUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "AdmobBannerUnitId": "ca-app-pub-3940256099942544/6300978111",
+  "AdmobInterUnitId": "ca-app-pub-3940256099942544/1033173712",
+  "AdmobNativeUnitId": "ca-app-pub-3940256099942544/2247696110",
+  "AdmobRewardUnitId": "ca-app-pub-3940256099942544/5224354917",
+  "AdmobOpenUnitId": "ca-app-pub-3940256099942544/3419835294",
+  "YandexBannerUnitId": "R-M-1489523-2",
+  "YandexInterUnitId": "R-M-1489523-1",
+  "YandexRewardUnitId": "R-M-DEMO-rewarded-client-side-rtb",
+  "YandexNativeUnitId": "R-M-1489523-3",
+  "UnityGameID": "4395371",
+  "UnityBannerUnitId": "Banner_Android",
+  "BannerType": "Admob",
+  "InterType": "Facebook",
+  "NativeType": "Admob",
+  "RewardType": "Yandex",
+  "IsAdmobON": false,
+  "IsFacebookON": false,
+  "IsIronON": true,
+  "IsYandexON": false,
+  "IsAppoDealON": true,
+  "IsStartAppON": true,
+  "IsUnityON": true,
+  "IsTapdaqAppON": true,
+  "IsSuspended": false,
+  "IsFeaturedAppON": true,
+  "privacyUrl": "https://sites.google.com/view/editorcollagegrid/home",
+  "IconUrl": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+  "title": "Photo Lab Editor Pro",
+  "AppUrl": "com.androworld.lastfiddlerphotoeditor",
+  "apps": [
+    {
+      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+      "name": "App1",
+      "url": "com.androworld.lastfiddlerphotoeditor"
+    },
+    {
+      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+      "name": "App1",
+      "url": "com.androworld.lastfiddlerphotoeditor"
+    },
+    {
+      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+      "name": "App1",
+      "url": "com.androworld.lastfiddlerphotoeditor"
+    },
+    {
+      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+      "name": "App1",
+      "url": "com.androworld.lastfiddlerphotoeditor"
+    },
+    {
+      "img": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+      "name": "App1",
+      "url": "com.androworld.lastfiddlerphotoeditor"
+    }
+  ],
+  "wallpapers": [
+    {
+      "Url": "https://images.pexels.com/photos/9167163/pexels-photo-9167163.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "Url": "https://images.pexels.com/photos/9749269/pexels-photo-9749269.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "Url": "https://images.pexels.com/photos/9928538/pexels-photo-9928538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "Url": "https://images.pexels.com/photos/9336641/pexels-photo-9336641.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "Guide": [
+   {
+       "title": "Is PhotoGrid free",
+       "Content": "Photo Grid is a free (ad supported) app with lots of options for creating collages, as well as video slide shows accompanied by music. You can select the aspect ratio for the photos, and choose from more than 300 layouts.",
+       "img": "https://user-images.githubusercontent.com/92831523/164355943-e0ed95f3-4d37-4962-b532-3645f0c22f79.png"
+     },
+     {
+       "title": "PhotoGrid available?",
+       "Content": "PhotoGrid is a photo and video editing application for Android and online editing that enables users to collage photos, enhance pictures, apply tons of materials and make video collage!",
+       "img": "https://user-images.githubusercontent.com/92831523/164355943-e0ed95f3-4d37-4962-b532-3645f0c22f79.png"
+     },
+     {
+       "title": "Where can I make a collage?",
+       "Content": "With collage maker, creating a masterpiece of memories is as simple as a few clicks. Create beautifully designed collages by dropping your images into our designer-made templates and instantly downloading them onto any device.",
+       "img": "https://user-images.githubusercontent.com/92831523/164355943-e0ed95f3-4d37-4962-b532-3645f0c22f79.png"
+     },
+     {
+       "title": "What Is a Photo Grid?",
+       "Content": "A photo grid is a way to arrange your photos in a special grid frame that has a number of rows and columns. It is one type of the classic photo collages. That means you can add your photos into the grid and make them into one picture.
+
+The photo grid is called the Classic Collage in Fotors Collage Maker. It provides a plethora of photo grid templates from a common two-frame grid to even more complex grids, allowing you to arrange as many photos together as you like. Photo grid collages are great ways to make your images into a unique showcase, no your skill set.",
+       "img": "https://user-images.githubusercontent.com/92831523/164355943-e0ed95f3-4d37-4962-b532-3645f0c22f79.png"
+     },
+      {
+       "title": "How to Make a Photo Grid Collage?",
+       "Content": "1- Open Fotor and click the Make a Collage button.
+2- Click Classic Collage and select the photo grid template you like.
+3- Upload your images, drag and drop your photos into collage cells.
+4- You can also modify the backgrounds, borders and add effects, stickers and texts.
+5- Save your work, choosing the format and quality desired.",
+       "img": "https://user-images.githubusercontent.com/92831523/164355943-e0ed95f3-4d37-4962-b532-3645f0c22f79.png"
+     },
+     {
+       "title": "Think outside the box with photo grids",
+       "Content": "The photo grid allows you to add images together, which lets you tell a complete story in one image, a story of friendship, love, success, or failure. It is perfect for your project instructions. Adding your photos into grid, then, adding in text to the grid and tagging your photos and dates, it reminds you of your happy memory in a unique way! A birthday photo grid or wedding picture grid, Christmas photo grid, posting your picture grid image on Instagram or Facebook will make your friends go Wow.",
+       "img": "https://user-images.githubusercontent.com/92831523/164355943-e0ed95f3-4d37-4962-b532-3645f0c22f79.png"
+     },
+     {
+       "title": "Easy to make amazing photo collages for free",
+       "Content": "The photo grid collage is a classic photo collage layout that uses rows and columns to arrange your photos into an eye-catching showcase. No Photoshop skills necessary. All you need is to select a free photo grid template you like from Fotors online photo grid maker, drag and drop your photos one at a time into the grid box. And a few minutes later, 9 photos will be displayed in one picture. Then, you can edit them with Fotors photo grid editor. Change the background image with a background template image or your own image and background color together and level up your images texture easily for free.",
+       "img": "https://user-images.githubusercontent.com/92831523/164355943-e0ed95f3-4d37-4962-b532-3645f0c22f79.png"
+     }
+  ],
+  "Cpa": {
+    "img": "https://images.pexels.com/photos/9066312/pexels-photo-9066312.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "url": "https://www.google.com/"
+  }
+}
