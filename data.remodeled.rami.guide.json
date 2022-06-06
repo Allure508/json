@@ -1,0 +1,143 @@
+{
+  "settings": {
+    "suspended": false,
+    "PackageName": "com.mcferf.how_to_draw",
+    "img": "https://play-lh.googleusercontent.com/WjXoRzJKWHJ_x52qWYA6ECM70bq3x0vwwYiBhzLXdOIHCo-obdUTztPbskEn0K8_wBs=s180-rw",
+    "title": "Call of Duty Mobile Season 11",
+    "adsType": "Admob",
+    "nativeType": "Admob",
+    "moreAppsEnabled": true
+  },
+  "admob": {
+    "Banner": "ca-app-pub-3940256099942544/6300978111",
+    "Inter": "ca-app-pub-3940256099942544/1033173712",
+    "Native": "ca-app-pub-3940256099942544/2247696110",
+    "OpenAd": "ca-app-pub-3940256099942544/3419835294",
+    "BannerOn": true,
+    "InterOn": true,
+    "NativeOn": true
+  },
+  "yandex": {
+    "Banner": "ca-app-pub-3940256099942544/6300978111",
+    "Inter": "ca-app-pub-3940256099942544/1033173712",
+    "Native": "ca-app-pub-3940256099942544/2247696110",
+    "BannerOn": true,
+    "InterOn": true,
+    "NativeOn": true
+  },
+  "facebook": {
+    "Banner": "ca-app-pub-3940256099942544/6300978111",
+    "Inter": "ca-app-pub-3940256099942544/1033173712",
+    "Native": "ca-app-pub-3940256099942544/2247696110",
+    "BannerOn": true,
+    "InterOn": true,
+    "NativeOn": true
+  },
+  "unityId": "4395371",
+  "IronKey": "1114a0b95",
+  "isUnityOn": true,
+  "TestUnity": true,
+  "applovin": {
+    "Banner": "2247696110",
+    "Inter": "2247696110",
+    "Native": "2247696110",
+    "BannerOn": true,
+    "InterOn": true,
+    "NativeOn": true
+  },
+  "Unity": {
+    "Banner": "2247696110",
+    "Inter": "2247696110",
+    "BannerOn": true,
+    "InterOn": true
+  },
+  "apps": [
+    {
+      "appName": "app name 1",
+      "appIcon": "https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec=s180-rw",
+      "appUrl": "https://play.google.com/store/apps/details?id=com.innersloth.spacemafia"
+    },
+    {
+      "appName": "app name 2",
+      "appIcon": "https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec=s180-rw",
+      "appUrl": "https://play.google.com/store/apps/details?id=com.innersloth.spacemafia"
+    },
+    {
+      "appName": "app name 3",
+      "appIcon": "https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec=s180-rw",
+      "appUrl": "https://play.google.com/store/apps/details?id=com.innersloth.spacemafia"
+    }
+  ],
+  "tips": [
+    {
+      "imageURL": "https://img.freepik.com/fotos-gratis/mulher-de-pele-escura-satisfeita-se-sente-bem-e-feliz-sorri-amplamente-segura-o-smartphone-conectado-a-fones-de-ouvido-fecha-os-olhos-de-prazer_273609-25686.jpg?size=626&ext=jpg",
+      "title": "Step0:",
+      "written": "written 0."
+    },
+    {
+      "imageURL": "https://img.freepik.com/fotos-gratis/mulher-de-pele-escura-satisfeita-se-sente-bem-e-feliz-sorri-amplamente-segura-o-smartphone-conectado-a-fones-de-ouvido-fecha-os-olhos-de-prazer_273609-25686.jpg?size=626&ext=jpg",
+      "title": "Step1:",
+      "written": "written 1."
+    },
+    {
+      "imageURL": "https://img.freepik.com/fotos-gratis/mulher-de-pele-escura-satisfeita-se-sente-bem-e-feliz-sorri-amplamente-segura-o-smartphone-conectado-a-fones-de-ouvido-fecha-os-olhos-de-prazer_273609-25686.jpg?size=626&ext=jpg",
+      "title": "Step0:",
+      "written": "written 0."
+    },
+    {
+      "imageURL": "https://img.freepik.com/fotos-gratis/mulher-de-pele-escura-satisfeita-se-sente-bem-e-feliz-sorri-amplamente-segura-o-smartphone-conectado-a-fones-de-ouvido-fecha-os-olhos-de-prazer_273609-25686.jpg?size=626&ext=jpg",
+      "title": "Step1:",
+      "written": "written 1."
+    },
+    {
+      "imageURL": "https://img.freepik.com/fotos-gratis/mulher-de-pele-escura-satisfeita-se-sente-bem-e-feliz-sorri-amplamente-segura-o-smartphone-conectado-a-fones-de-ouvido-fecha-os-olhos-de-prazer_273609-25686.jpg?size=626&ext=jpg",
+      "title": "Step0:",
+      "written": "written 0."
+    },
+    {
+      "imageURL": "https://img.freepik.com/fotos-gratis/mulher-de-pele-escura-satisfeita-se-sente-bem-e-feliz-sorri-amplamente-segura-o-smartphone-conectado-a-fones-de-ouvido-fecha-os-olhos-de-prazer_273609-25686.jpg?size=626&ext=jpg",
+      "title": "Step1:",
+      "written": "written 1."
+    },
+    {
+      "imageURL": "https://img.freepik.com/fotos-gratis/mulher-de-pele-escura-satisfeita-se-sente-bem-e-feliz-sorri-amplamente-segura-o-smartphone-conectado-a-fones-de-ouvido-fecha-os-olhos-de-prazer_273609-25686.jpg?size=626&ext=jpg",
+      "title": "Step0:",
+      "written": "written 0."
+    },
+    {
+      "imageURL": "https://img.freepik.com/fotos-gratis/mulher-de-pele-escura-satisfeita-se-sente-bem-e-feliz-sorri-amplamente-segura-o-smartphone-conectado-a-fones-de-ouvido-fecha-os-olhos-de-prazer_273609-25686.jpg?size=626&ext=jpg",
+      "title": "Step1:",
+      "written": "written 1."
+    },
+    {
+      "imageURL": "https://img.freepik.com/fotos-gratis/mulher-de-pele-escura-satisfeita-se-sente-bem-e-feliz-sorri-amplamente-segura-o-smartphone-conectado-a-fones-de-ouvido-fecha-os-olhos-de-prazer_273609-25686.jpg?size=626&ext=jpg",
+      "title": "Step0:",
+      "written": "written 0."
+    },
+    {
+      "imageURL": "https://img.freepik.com/fotos-gratis/mulher-de-pele-escura-satisfeita-se-sente-bem-e-feliz-sorri-amplamente-segura-o-smartphone-conectado-a-fones-de-ouvido-fecha-os-olhos-de-prazer_273609-25686.jpg?size=626&ext=jpg",
+      "title": "Step1:",
+      "written": "written 1."
+    },
+    {
+      "imageURL": "https://img.freepik.com/fotos-gratis/mulher-de-pele-escura-satisfeita-se-sente-bem-e-feliz-sorri-amplamente-segura-o-smartphone-conectado-a-fones-de-ouvido-fecha-os-olhos-de-prazer_273609-25686.jpg?size=626&ext=jpg",
+      "title": "Step0:",
+      "written": "written 0."
+    },
+    {
+      "imageURL": "https://img.freepik.com/fotos-gratis/mulher-de-pele-escura-satisfeita-se-sente-bem-e-feliz-sorri-amplamente-segura-o-smartphone-conectado-a-fones-de-ouvido-fecha-os-olhos-de-prazer_273609-25686.jpg?size=626&ext=jpg",
+      "title": "Step1:",
+      "written": "written 1."
+    },
+    {
+      "imageURL": "https://img.freepik.com/fotos-gratis/mulher-de-pele-escura-satisfeita-se-sente-bem-e-feliz-sorri-amplamente-segura-o-smartphone-conectado-a-fones-de-ouvido-fecha-os-olhos-de-prazer_273609-25686.jpg?size=626&ext=jpg",
+      "title": "Step0:",
+      "written": "written 0."
+    },
+    {
+      "imageURL": "https://img.freepik.com/fotos-gratis/mulher-de-pele-escura-satisfeita-se-sente-bem-e-feliz-sorri-amplamente-segura-o-smartphone-conectado-a-fones-de-ouvido-fecha-os-olhos-de-prazer_273609-25686.jpg?size=626&ext=jpg",
+      "title": "Step1:",
+      "written": "written 1."
+    }
+  ]
+}
