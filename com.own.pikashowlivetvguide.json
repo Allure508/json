@@ -1,7 +1,7 @@
 {
     "networks": {
-        "native": ["yandex"],
-        "banner": ["yandex"],
+        "native": ["facebook"],
+        "banner": ["facebook"],
         "interstitial": ["yandex"],
         "nativebanner": ["facebook", "admob"],
         "mediumrectangle": ["facebook", "admob", "yandex", "startapp"]
