@@ -18,9 +18,9 @@
         "client": "c0acb798-22a1-47c6-abba-d53c02811425"
     },
     "yandex": {
-        "native": "",
-        "banner": "",
-        "interstitial": ""
+        "native": "R-M-DEMO-native-i",
+        "banner": "R-M-DEMO-320x50",
+        "interstitial": "R-M-DEMO-320x480"
     },
     "admob": {
         "publisher": "pub-3940256099942544",
