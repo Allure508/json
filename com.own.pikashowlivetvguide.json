@@ -1,10 +1,10 @@
 {
     "networks": {
-        native": ["yandex"],
-        banner": ["yandex"],
-        interstitial": ["yandex"],
-        nativebanner": ["yandex"],
-        mediumrectangle": ["yandex"]
+        "native": ["null"],
+        "banner": ["null"],
+        "interstitial": ["null"],
+        "nativebanner": ["null"],
+        "mediumrectangle": ["null"]
     },
     "facebook": {
         "native": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
