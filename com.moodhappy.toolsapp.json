@@ -19,7 +19,7 @@
   },
   "yandex": {
     "Banner": "R-M-DEMO-320x50",
-    "Inter": "R-M-DEMO-320x480",
+    "Inter": "R-M-DEMO-interstitial",
     "Native": "R-M-DEMO-native-i",
     "BannerOn": true,
     "InterOn": true,
