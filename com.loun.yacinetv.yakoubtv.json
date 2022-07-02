@@ -22,7 +22,7 @@
   "NativeType": "Facebook",
   "RewardType": "Facebook",
   "IsAdmobON": true,
-  "IsFacebookON": false,
+  "IsFacebookON": true,
   "IsIronON": true,
   "IsYandexON": true,
   "IsAppoDealON": true,
