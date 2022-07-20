@@ -1,0 +1,60 @@
+{
+    "networks": {
+        "native": ["facebook", "admob"],
+        "banner": ["facebook", "admob"],
+        "interstitial": ["facebook", "admob"],
+        "nativebanner": ["facebook", "admob"],
+        "mediumrectangle": ["facebook"]
+    },
+    "facebook": {
+        "native": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
+        "banner": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
+        "interstitial": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
+        "nativebanner": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
+        "mediumrectangle": "IMG_16_9_LINK#YOUR_PLACEMENT_ID"
+    },
+    "tapdaq": {
+        "app": "61a7987d08f16c2d735d7514",
+        "client": "c0acb798-22a1-47c6-abba-d53c02811425"
+    },
+    "yandex": {
+        "native": "R-M-1396391-1",
+        "banner": "R-M-1396391-2",
+        "interstitial": "R-M-1396391-3"
+    },
+    "admob": {
+        "publisher": "pub-3940256099942544",
+        "banner": "ca-app-pub-3940256099942544/6300978111",
+        "interstitial": "ca-app-pub-3940256099942544/1033173712",
+        "largebanner": "ca-app-pub-3940256099942544/6300978111",
+        "mediumrectangle": "ca-app-pub-3940256099942544/6300978111"
+    },
+    "startapp": {
+        "app": "208057660"
+    },
+    "ironsrc":{
+        "app": "101c52161"
+    },
+    "guide": {
+        "tip1": {
+            "title": "What",
+            "article": "Lorem
+        },
+        "tip2": {
+            "title": "Why",
+            "article": "It is"
+        },
+        "tip3": {
+            "title": "Where",
+            "article": "Contrary"
+        },
+        "tip4": {
+            "title": "Where",
+            "article": "There are"
+        },
+        "feauture": {
+            "title": "App",
+            "article": "There"
+        }
+    }
+}
