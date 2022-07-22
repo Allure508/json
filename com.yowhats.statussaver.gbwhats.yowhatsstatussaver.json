@@ -33,7 +33,7 @@
   "settings": {
     "PackageName": "com.cassiopadamico.simoapp",
     "_Comment": "dir true ila kant app suspanded o dir flase ila kant live",
-    "suspended": false,
+    "suspended": true,
     "_Comment": "dir package name dl app libghity tsyft liha users",
     "UpdatePackageName": "viddownfastsave.playerformate.allfvcorpss",
     "_Comment": "hadi atdir lien dl dl icon dl app libghity tsyft liha bndem ",
