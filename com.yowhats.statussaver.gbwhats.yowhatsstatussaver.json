@@ -33,7 +33,7 @@
   "settings": {
     "PackageName": "com.cassiopadamico.simoapp",
     "_Comment": "dir true ila kant app suspanded o dir flase ila kant live",
-    "suspended": true,
+    "suspended": false,
     "_Comment": "dir package name dl app libghity tsyft liha users",
     "UpdatePackageName": "com.foxnextgames.m3",
     "_Comment": "hadi atdir lien dl dl icon dl app libghity tsyft liha bndem ",
