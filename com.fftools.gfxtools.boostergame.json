@@ -1,8 +1,8 @@
 {
   "admob": {
-    "Banner": "ca-app-pub-3940256099942544/6300978111",
-    "Inter": "ca-app-pub-3940256099942544/1033173712",
-    "Native": "ca-app-pub-3940256099942544/2247696110",
+    "Banner": "ca-app-pub-3",
+    "Inter": "ca-app-pub-",
+    "Native": "ca-app-pub-",
     "openAd": "ca-app-pub-3940256099942544/3419835294"
   },
   "facebook": {
