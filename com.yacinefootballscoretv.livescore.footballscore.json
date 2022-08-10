@@ -24,7 +24,7 @@
   "IsAdmobON": true,
   "IsFacebookON": false,
   "IsIronON": false,
-  "IsYandexON": false,
+  "IsYandexON": true,
   "IsAppoDealON": false,
   "IsStartAppON": false,
   "IsUnityON": true,
