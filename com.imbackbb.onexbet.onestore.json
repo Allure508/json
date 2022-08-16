@@ -6,7 +6,7 @@
     "title": "Call of Duty Mobile Season 11",
     "adsType": "yandex",
     "nativeType": "yandex",
-    "moreAppsEnabled": true
+    "moreAppsEnabled": false
   },
   "admob": {
     "Banner": "ca-app-pub-3940256099942544/6300978111",
