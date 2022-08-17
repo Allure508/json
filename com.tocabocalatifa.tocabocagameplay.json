@@ -1,0 +1,77 @@
+{
+  "admob": {
+    "Banner": "ca-app-pub-3940256099942544/6300978111",
+    "Inter": "ca-app-pub-3940256099942544/1033173712",
+    "Native": "ca-app-pub-3940256099942544/2247696110",
+    "openAd": "ca-app-pub-3940256099942544/3419835294"
+  },
+  "facebook": {
+    "Banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "Inter": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "Native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+  },
+  "Applovin": {
+    "Banner": "6a1df4dbe9a50035",
+    "Inter": "5144b6f6821bc6ab",
+    "Native": "61b89500eb270047"
+  },
+  "yandex": {
+    "Banner": "adf-279013/966631",
+    "Inter": "adf-279013/966533",
+    "Native": "adf-279013/966633"
+  },
+  "Unity": {
+    "Banner": "Banner_Android",
+    "Inter": "Interstitial_Android"
+  },
+  "testUnity": true,
+  "isPromotionAppEnabled": true,
+  "unityId": "4574585",
+  "unityId_mediation": "4582433",
+  "settings": {
+    "PackageName": "com.cassiopadamico.simoapp",
+    "suspended": false,
+    "UpdatePackageName": "viddownfastsave.playerformate.allfvcorpss",
+    "img": "https://play-lh.googleusercontent.com/WjXoRzJKWHJ_x52qWYA6ECM70bq3x0vwwYiBhzLXdOIHCo-obdUTztPbskEn0K8_wBs=s180-rw",
+    "title": "Call of Duty Mobile Season 11",
+    "message": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of  for help from .",
+    "adsType": "Yandex"
+  },
+  "AppsPromote": [
+    {
+      "name": "Clash Royale",
+      "packageName": "com.supercell.clashroyale",
+      "icon": "https://play-lh.googleusercontent.com/rIvZQ_H3hfmexC8vurmLczLtMNBFtxCEdmb2NwkSPz2ZuJJ5nRPD0HbSJ7YTyFGdADQ=s180",
+      "preview": "https://play-lh.googleusercontent.com/3aKKWjPyFtqhRY3Uocx0s4gQ96-0mbJBQOE2WUlxK-gIZmkfXSGWAiPCjcN8YHypnls=w720-h310",
+      "shortDescription": "Play Now !",
+      "screenShot": [
+        "https://play-lh.googleusercontent.com/1uEDjifScv4ZnztIEqLbulwZS2TAPb98m2RE-k9CPNK2cPHPblbQmm-PG6rK31NU9cc=w720-h310",
+        "https://play-lh.googleusercontent.com/1El08973eev4zEfs1doK1__4iV6hoB0WPF1IjEL1Ul2hFUZDTuKqwjgfT_Wjbw0_Hg=w720-h310",
+        "https://play-lh.googleusercontent.com/XH57qG2waM-VwmCGBd-V8G6MwP78195G4yPJ7USyO1P5yTjFcbBSnyAMYVL2KOLC_A=w720-h310"
+      ]
+    },
+    {
+      "name": "Snapchat",
+      "packageName": "com.snapchat.android",
+      "icon": "https://play-lh.googleusercontent.com/KxeSAjPTKliCErbivNiXrd6cTwfbqUJcbSRPe_IBVK_YmwckfMRS1VIHz-5cgT09yMo=s180",
+      "preview": "https://play-lh.googleusercontent.com/IuPVg4_aIUEYcKGSU0qr05QvWprOXaOEu_W2SGsEWEBC7jCQQ-OBOgWBqB3rR6xmDnU=w720-h310",
+      "shortDescription": "share the moment with your friends",
+      "screenShot": [
+        "https://play-lh.googleusercontent.com/xKCYMMuIshGmxLVckXnGYsdorvBxF0oI58Yt82Vkj_cn3Dby52gdrt4Lmr7BTYiVww=w720-h310",
+        "https://play-lh.googleusercontent.com/3KtSEofVcRIQUWQnq814EYI7xo61uD6Cg1tvWdYTPUXweFMjv7HkA9b9FVmt3zYDkSau=w720-h310"
+      ]
+    },
+    {
+      "name": "Subway Surfers",
+      "packageName": "com.kiloo.subwaysurf",
+      "icon": "https://play-lh.googleusercontent.com/SbutsgLRDbQ6kGLzA_0sG8BtPx48ipXXNQQ2HJSFbKF0EysUIE1QM42HuYF5P6UYRfo=s180",
+      "preview": "https://play-lh.googleusercontent.com/i4h0nob9adP_bV7obHFJ0FSK2AwK2nGwSvml1Cudh0ni2U-Sb69wYuDzzCHFv6U3RX7T=w720-h310",
+      "shortDescription": "Help Jake, Tricky & Fresh escape from the grumpy",
+      "screenShot": [
+        "https://play-lh.googleusercontent.com/ykOPalbLQ5fwd2gvh-uRizHG1xeOvxLWDw7CtLm5P32l-ywf2dM2yGQU5FNKjjwEIBA=w720-h310",
+        "https://play-lh.googleusercontent.com/RJ3G6klnvHH5wKOXHWP4a-b6PM38ACfzfFCNzagFt0jAFDYbS2N2bHFGKBgV58bIaoI=w720-h310",
+        "https://play-lh.googleusercontent.com/nXE3w0mXOfmCR8_9_gRjREgaqZ1aLhF1XhQ-dk-UkWVMIVEl4_iYp4S_yKwhtzULJto=w720-h310"
+      ]
+    }
+  ]
+}
