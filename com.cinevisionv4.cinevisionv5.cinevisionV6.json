@@ -6,9 +6,9 @@
     "openAd": "ca-app-pub-3940256099942544/3419835294"
   },
   "facebook": {
-    "Banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "Banner": "572464561340143_573536911232908",
     "Inter": "572464561340143_572465438006722",
-    "Native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+    "Native": "572464561340143_573537007899565"
   },
   "Applovin": {
     "Banner": "6a1df4dbe9a50035",
@@ -33,7 +33,7 @@
     "img": "https://play-lh.googleusercontent.com/WjXoRzJKWHJ_x52qWYA6ECM70bq3x0vwwYiBhzLXdOIHCo-obdUTztPbskEn0K8_wBs=s180-rw",
     "title": "Call of Duty Mobile Season 11",
     "message": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of  for help from .",
-    "adsType": "Yandex",
+    "adsType": "Facebook",
     "tmdbapi": "76da5ec829606ff913d7f54219065f54"
   },
   "AppsPromote": [
