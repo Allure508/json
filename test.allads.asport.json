@@ -1,0 +1,39 @@
+{
+  "settings": {
+    "adsType": "Unity",
+    "nativeType": "facebook"
+  },
+  "admob": {
+    "Banner": "ca-app-pub-3940256099942544/6300978111",
+    "Inter": "ca-app-pub-3940256099942544/1033173712",
+    "Native": "ca-app-pub-3940256099942544/2247696110",
+    "Reward": "ca-app-pub-3940256099942544/5224354917"
+  },
+  "Applovin": {
+    "Banner": "cd573e9cd0a50881",
+    "Inter": "2d86efe403775641",
+    "Native": "ec54017857a1e049",
+    "Reward": "c81966dc42ef10cc"
+  },
+  "yandex": {
+    "Banner": "R-M-DEMO-320x50",
+    "Inter": "R-M-DEMO-320x480",
+    "Native": "R-M-DEMO-native-i",
+    "Reward": "R-M-DEMO-rewarded-client-side-rtb"
+  },
+  "facebook": {
+    "Banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "Inter": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "Native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "Reward": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+  },
+  "unityTestMode": true,
+  "unityID": "00000",
+  "unity": {
+    "Banner": "Android_Banner",
+    "Inter": "Interstitial_Android",
+    "Reward": "Interstitial_Android"
+  },
+  "QurekaAds": "https://www4.musichq.net/watch-tv/the-lord-of-the-rings-the-rings-of-power-87087.8933242",
+  "TestUnity": true
+}
