@@ -1,4 +1,61 @@
-Let the music play!
-Friday Night Funkin is a PC game that will challenge your rhythm. The game challenges you to click buttons at precise times: the screen shows which key to hit, and the game awards points for accuracy and pace. The dynamics are identical to the DDR where you click the button as the floating arrow adjusts its shape (at the top of the screen).\n\n
-
-You'll play The Boyfriend - a white-skinned kid with the blue hair of the moon. He's vying for a kiss from his mother, but her father won't let him. Boyfriend must be able to defeat him in a sing-off. Using your WASD or arrow keys, you may have to aim each arrow as best you can. The result of each round is decided by the counter at the bottom of the frame.
+{
+  "AppDealKey": "5e259018844b7e434c79ec86e097dab830f6fc34ff603433",
+  "IronKey": "1114a0b95",
+  "StartAppId": "206262019",
+  "AdmobBannerUnitId": "ca-app-pub-3940256099942544/6300978111",
+  "AdmobInterUnitId": "ca-app-pub-3940256099942544/1033173712",
+  "AdmobNativeUnitId": "ca-app-pub-3940256099942544/2247696110",
+  "AdmobRewardUnitId": "ca-app-pub-3940256099942544/5224354917",
+  "AdmobOpenUnitId": "ca-app-pub-3940256099942544/3419835294",
+  "YandexBannerUnitId": "R-M-DEMO-320x50",
+  "YandexInterUnitId": "R-M-DEMO-interstitial",
+  "YandexRewardUnitId": "R-M-DEMO-rewarded-client-side-rtb",
+  "YandexNativeUnitId": "R-M-DEMO-native-i",
+  "FacebookNativeUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "FacebookBannerUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "FacebookInterUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "UnityGameID": "4395371",
+  "UnityBannerUnitId": "Banner_Android",
+  "BannerType": "Yandex",
+  "InterType": "Yandex",
+  "NativeType": "Yandex",
+  "IsAdmobON": true,
+  "IsFacebookON": true,
+  "IsIronON": true,
+  "IsYandexON": true,
+  "IsAppoDealON": true,
+  "IsStartAppON": true,
+  "IsUnityON": true,
+  "AppOnPending": false,
+  "GuideImg": "https://mezyanaa.com/ayoub/1.jpg",
+  "Guide": [
+    {
+      "title": "Guide For The .. ",
+      "Content": "thi is guide test. test..."
+    },
+    {
+      "title": "Guide For The .. ",
+      "Content": "thi is guide test. test..."
+    },
+    {
+      "title": "Guide For The .. ",
+      "Content": "thi is guide test. test..."
+    },
+    {
+      "title": "Guide For The .. ",
+      "Content": "thi is guide test. test..."
+    },
+    {
+      "title": "Guide For The .. ",
+      "Content": "thi is guide test. test..."
+    },
+    {
+      "title": "Guide For The .. ",
+      "Content": "thi is guide test. test..."
+    },
+    {
+      "title": "Guide For The .. ",
+      "Content": "thi is guide test. test..."
+    }
+  ]
+}
