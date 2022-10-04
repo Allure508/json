@@ -18,7 +18,7 @@
   "UnityBannerUnitId": "Banner_Android",
   "BannerType": "Yandex",
   "InterType": "Yandex",
-  "NativeType": "Admob",
+  "NativeType": "Yandex",
   "IsAdmobON": true,
   "IsFacebookON": true,
   "IsIronON": true,
