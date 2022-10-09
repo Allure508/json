@@ -1,12 +1,12 @@
 {
   "settings": {
-    "suspended": false,
+    "suspended": true,
     "PackageName": "com.mcferf.how_to_draw",
     "img": "https://play-lh.googleusercontent.com/WjXoRzJKWHJ_x52qWYA6ECM70bq3x0vwwYiBhzLXdOIHCo-obdUTztPbskEn0K8_wBs=s180-rw",
     "title": "Call of Duty Mobile Season 11",
     "adsType": "Admob",
     "nativeType": "Admob",
-    "moreAppsEnabled": true
+    "moreAppsEnabled": false
   },
   "admob": {
     "Banner": "ca-app-pub-3940256099942544/6300978111",
