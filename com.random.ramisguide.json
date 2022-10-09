@@ -1,7 +1,5 @@
 {
   "AppDealKey": "5e259018844b7e434c79ec86e097dab830f6fc34ff603433",
-  "Tapdaq_App_id": "617d637308fe6c2d735d721f",
-  "Tapdaq_client_key": "6b297349-c64e-4e44-bbf8-2dacd104875b",
   "IronKey": "1114a0b95",
   "StartAppId": "206262019",
   "FacebookNativeUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
@@ -17,16 +15,12 @@
   "YandexInterUnitId": "R-M-DEMO-320x480",
   "YandexRewardUnitId": "R-M-DEMO-rewarded-client-side-rtb",
   "YandexNativeUnitId": "R-M-DEMO-native-i",
-  "TapdaqInter": "",
-  "TapdaqBanner": "",
-  "TapdaqNative": "",
-  "TapdaqReward": "",
   "UnityGameID": "4395371",
   "UnityBannerUnitId": "Banner_Android",
-  "BannerType": "Tapdaq",
-  "InterType": "Tapdaq",
-  "NativeType": "Tapdaq",
-  "RewardType": "Tapdaq",
+  "BannerType": "Admob",
+  "InterType": "CPA",
+  "NativeType": "Admob",
+  "RewardType": "Admob",
   "IsAdmobON": true,
   "IsFacebookON": true,
   "IsIronON": true,
@@ -36,7 +30,6 @@
   "IsUnityON": true,
   "IsSuspended": false,
   "IsFeaturedAppON": true,
-  "IsCpaON": true,
   "IconUrl": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
   "title": "Photo Lab Editor Pro",
   "AppUrl": "com.androworld.lastfiddlerphotoeditor",
@@ -77,18 +70,6 @@
     {
       "Url": "https://images.pexels.com/photos/9928538/pexels-photo-9928538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
-     {
-      "Url": "https://images.pexels.com/photos/9928538/pexels-photo-9928538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-     {
-      "Url": "https://images.pexels.com/photos/9928538/pexels-photo-9928538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-     {
-      "Url": "https://images.pexels.com/photos/9928538/pexels-photo-9928538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-     {
-      "Url": "https://images.pexels.com/photos/9928538/pexels-photo-9928538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
     {
       "Url": "https://images.pexels.com/photos/9336641/pexels-photo-9336641.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     }
@@ -100,11 +81,6 @@
       "img": "https://images.pexels.com/photos/163036/mario-luigi-yoschi-figures-163036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
-      "title": "Guide For The .. ",
-      "Content": "thi is guide test. test...",
-      "img": "https://images.pexels.com/photos/3491940/pexels-photo-3491940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-     {
       "title": "Guide For The .. ",
       "Content": "thi is guide test. test...",
       "img": "https://images.pexels.com/photos/3491940/pexels-photo-3491940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
