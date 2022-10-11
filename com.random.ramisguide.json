@@ -17,6 +17,7 @@
   "YandexNativeUnitId": "R-M-DEMO-native-i",
   "UnityGameID": "4395371",
   "UnityBannerUnitId": "Banner_Android",
+  "UnityInterUnitId": "Banner_Android",
   "BannerType": "Unity",
   "InterType": "Unity",
   "NativeType": "Appodeal",
