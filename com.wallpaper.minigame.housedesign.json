@@ -1,6 +1,6 @@
 {
   "AppDealKey": "4472428c726f85327245049a0a70a1a747ddd183e2c68d86",
-  "IronKey": "1114a0b95",
+  "IronKey": "1741a0a9d",
   "StartAppId": "206262019",
   "FacebookNativeUnitId": "1298326500986912_1299624614190434",
   "FacebookBannerUnitId": "1298326500986912_1299624437523785",
@@ -18,8 +18,8 @@
   "UnityGameID": "5004935",
   "UnityBannerUnitId": "Banner_Android",
   "UnityInterUnitId": "Interstitial_Android",
-  "BannerType": "Facebook",
-  "InterType": "Facebook",
+  "BannerType": "iron",
+  "InterType": "iron",
   "NativeType": "Facebook",
   "RewardType": "Admob",
   "IsAdmobON": true,
