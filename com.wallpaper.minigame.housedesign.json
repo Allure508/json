@@ -19,7 +19,7 @@
   "UnityBannerUnitId": "Banner_Android",
   "UnityInterUnitId": "Interstitial_Android",
   "BannerType": "Yandex",
-  "InterType": "iron",
+  "InterType": "Yandex",
   "NativeType": "Yandex",
   "RewardType": "Admob",
   "IsAdmobON": true,
