@@ -1,25 +1,25 @@
 {
 	"networks": {
 		"banner": [
-			"Pandle",
-			"Pandle",
-			"Pandle",
-			"Pandle",
-			"Pandle"
+			"unity",
+			"unity",
+			"unity",
+			"unity",
+			"unity"
 		],
 		"native": [
-			"Pandle",
-			"Pandle",
-			"Pandle",
-			"Pandle",
-			"Pandle"
+			"unity",
+			"unity",
+			"unity",
+			"unity",
+			"unity"
 		],
 		"interstitial": [
-			"Pandle",
-			"Pandle",
-			"Pandle",
-			"Pandle",
-			"Pandle"
+			"unity",
+			"unity",
+			"unity",
+			"unity",
+			"unity"
 		],
 		"nativeBanner": [
 			"yandex",
