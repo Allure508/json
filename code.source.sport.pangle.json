@@ -1,25 +1,25 @@
 {
 	"networks": {
 		"banner": [
-			"unity",
-			"unity",
-			"unity",
-			"unity",
-			"unity"
+			"admob",
+			"admob",
+			"admob",
+			"admob",
+			"admob"
 		],
 		"native": [
-			"unity",
-			"unity",
-			"unity",
-			"unity",
-			"unity"
+			"admob",
+			"admob",
+			"admob",
+			"admob",
+			"admob"
 		],
 		"interstitial": [
-			"unity",
-			"unity",
-			"unity",
-			"unity",
-			"unity"
+			"admob",
+			"admob",
+			"admob",
+			"admob",
+			"admob"
 		],
 		"nativeBanner": [
 			"yandex",
