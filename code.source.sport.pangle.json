@@ -1,25 +1,25 @@
 {
 	"networks": {
 		"banner": [
-			"unity",
-			"unity",
-			"unity",
-			"unity",
-			"unity"
+			"facebook",
+			"facebook",
+			"facebook",
+			"facebook",
+			"facebook"
 		],
 		"native": [
-			"unity",
-			"unity",
-			"unity",
-			"unity",
-			"unity"
+			"facebook",
+			"facebook",
+			"facebook",
+			"facebook",
+			"facebook"
 		],
 		"interstitial": [
-			"unity",
-			"unity",
-			"unity",
-			"unity",
-			"unity"
+			"facebook",
+			"facebook",
+			"facebook",
+			"facebook",
+			"facebook"
 		],
 		"nativeBanner": [
 			"yandex",
@@ -29,10 +29,10 @@
 		]
 	},
 	"facebook": {
-		"banner": "IMG_16_9_APP_INSTALL#",
-		"native": "IMG_16_9_APP_INSTALL#",
-		"interstitial": "IMG_16_9_APP_INSTALL#",
-		"nativeBanner": "IMG_16_9_APP_INSTALL#"
+		"banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"nativeBanner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
 	},
 	"admob": {
 		"publisher": "pub-3940256099942544",
