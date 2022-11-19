@@ -2,24 +2,24 @@
 	"networks": {
 		"banner": [
 			"Pandle",
-			"yandex",
-			"facebook",
-			"admob",
-			"unity"
+			"Pandle",
+			"Pandle",
+			"Pandle",
+			"Pandle"
 		],
 		"native": [
 			"Pandle",
-			"yandex",
-			"facebook",
-			"admob",
-			"unity"
+			"Pandle",
+			"Pandle",
+			"Pandle",
+			"Pandle"
 		],
 		"interstitial": [
 			"Pandle",
-			"yandex",
-			"facebook",
-			"admob",
-			"unity"
+			"Pandle",
+			"Pandle",
+			"Pandle",
+			"Pandle"
 		],
 		"nativeBanner": [
 			"yandex",
