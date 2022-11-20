@@ -37,7 +37,7 @@
 	"yandex": {
 		"banner": "R-M-DEMO-320x50",
 		"native": "R-M-DEMO-native-i",
-		"interstitial": "R-M-DEMO-320x480"
+		"interstitial": "R-M-DEMO-interstitial"
 	},
 	"pandle": {
 		"AppId": "8025677",
