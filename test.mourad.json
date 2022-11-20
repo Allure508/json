@@ -1,60 +1,76 @@
 {
+	"networks": {
+		"banner": [
+			"Pandle",
+			"yandex",
+			"facebook",
+			"iron"
+		],
+		"native": [
+			"Pandle",
+			"yandex",
+			"facebook",
+			"iron"
 
-	"AdmobBannerUnitId": "ca-app-pub-1117046333701654/9768732780",
-	"AdmobInterUnitId": "ca-app-pub-1117046333701654/8455651117",
-	"AdmobNativeUnitId": "ca-app-pub-1117046333701654/1531150117",
-	"AdmobRewardUnitId": "ca-app-pub-3940256099942544/5224354917",
-	"AdmobOpenUnitId": "ca-app-pub-3940256099942544/3419835294",
+		],
+		"interstitial": [
+			"Pandle",
+			"yandex",
+			"facebook",
+			"iron"
+		]
+	},
+	"facebook": {
+		"banner": "IMG_16_9_APP_INSTALL#",
+		"native": "IMG_16_9_APP_INSTALL#",
+		"interstitial": "IMG_16_9_APP_INSTALL#"
+	},
+	"admob": {
+		"publisher": "pub-3940256099942544",
+		"banner": "ca-app-pub-3940256099942544/6300978111",
+		"interstitial": "ca-app-pub-3940256099942544/1033173712",
+		"largeBanner": "ca-app-pub-3940256099942544/6300978111"
+	},
+	"yandex": {
+		"banner": "R-M-DEMO-320x50",
+		"native": "R-M-DEMO-native-i",
+		"interstitial": "R-M-DEMO-320x480"
+	},
+	"Pandle": {
+		"AppId": "8025677",
+		"Banner": "980099802",
+		"native": "980088216",
+		"interstitial": "980088188"
+	},
+	"ironsrc": "",
 
-	"YandexBannerUnitId": "R-M-DEMO-320x50",
-	"YandexInterUnitId": "R-M-1568689-2",
-	"YandexRewardUnitId": "R-M-DEMO-rewarded-client-side-rtb",
-	"YandexNativeUnitId": "R-M-DEMO-native-i",
-
-	"FacebookNativeUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-	"FacebookBannerUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-	"FacebookInterUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-
-	"UnityGameID": "4395371",
-	"UnityBannerUnitId": "Banner_Android",
-
-
-	"BannerType": "Admob",
-	"InterType": "Admob",
-	"NativeType": "Admob",
-	"IsAdmobON": true,
-	"IsFacebookON": true,
-	"IsUnityON": true,
-	"IsYandexON": true,
-	"AppOnPending": false,
-	"GuideImg": "",
 	"Guide": [{
-			"title": "Definition",
-			"Content": "Hoga Toga is a highly popular technology website. It’s a platform from where one can get news related to technology, tricks, app reviews, and different settings for your phone. The app enables smartphone users to have exceptional experience and customize and enhance their smartphone. On the Hoga Toga app you can also get the latest updated features for different apps like WhatsApp, Instagram, Facebook, and other social media apps."
+			"title": "Guide For The .. ",
+			"Content": "thi is guide test. test..."
 		},
 		{
-			"title": "Part 2 ",
-			"Content": "By latest you can find WhatsApp audio, Gesture security lock, Fingerprint app, identify WhatsApp contact on Telegram, AR Moscow city and much more on Hoga Toga app. Any smartphone user can easily download the Hoga Toga app and latest apps from it. Besides this, one can also know the 10 top launchers, best 10 music player, and some other top lists as well."
+			"title": "Guide For The .. ",
+			"Content": "thi is guide test. test..."
 		},
 		{
-			"title": "Download For Free",
-			"Content": "All the smartphone users can easily download the Hoga Toga app for free from the Google Play Store. From this single app you can download in numerous trending apps with the latest versions on your smartphone. Hoga Toga app provides its users with updated apps which are free to download and can easily install on any smartphone through the app File."
+			"title": "Guide For The .. ",
+			"Content": "thi is guide test. test..."
 		},
 		{
-			"title": "Hi Translation APK",
-			"Content": "Hi Translation is a best language translator app which can translate anything. It’s a free translation app. However this app supports more than 88 languages. Moreover, the app also supports many other apps like WhatsApp, Messenger, Facebook, and few others to translate sentences and words. But it required some essential permission to access the Hi translation app. On the other side you can also translate anything live on the app without copying and pasting it on the app."
+			"title": "Guide For The .. ",
+			"Content": "thi is guide test. test..."
 		},
 		{
-			"title": "volume booster",
-			"Content": "Raise high volume booster is a well-known app which allows you to increase the volume of your smartphone. You can easily increase the loudness of the speaker of your mobile and the volume of music in your mobile phone. This app is a music amplifier and music booster which helps to make your smartphone louder. This app is one of the most reliable volume booster and music booster apps for Android phones."
+			"title": "Guide For The .. ",
+			"Content": "thi is guide test. test..."
 		},
 		{
-			"title": "Lens Launcher APK ",
-			"Content": "Len Launcher pro allows you to replace your phone home screen in one control so that you can easily browse apps efficiently and along with that you can launch apps as well. The app uses a graphic effect known as fisheye lens. Which allows users to browse, launch, zoom, and PAN your application in a very unique and beautiful icon launcher effect. Lens Launcher Pro also helps to change the icon size, icon scaling, haptic feedback, and lens distortion."
+			"title": "Guide For The .. ",
+			"Content": "thi is guide test. test..."
 		},
 		{
-			"title": "Disk Digger Photo Recovery ",
-			"Content": "Disk digger is considered among the best data recovery apps. Which allows you to recover all your deleted photos and videos from your smartphone internal and external storage. The app will allow you to scan the deleted Limited pictures through searching the cache and thumbnails on your phone. However if your phone is not rooted. If your photos are recovered then you can easily upload them to Google drive and send it by mail, drop box, extra."
+			"title": "Guide For The .. ",
+			"Content": "thi is guide test. test..."
 		}
 	]
 }
