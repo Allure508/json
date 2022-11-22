@@ -1,32 +1,32 @@
 {
 	"networks": {
 		"banner": [
-			"ironsrc",
-			"ironsrc",
-			"ironsrc",
-			"ironsrc",
-			"ironsrc"
+			"Pangle",
+			"Pangle",
+			"Pangle",
+			"Pangle",
+			"Pangle"
 		],
 		"native": [
-			"ironsrc",
-			"ironsrc",
-			"ironsrc",
-			"ironsrc",
-			"ironsrc"
+			"Pangle",
+			"Pangle",
+			"Pangle",
+			"Pangle",
+			"Pangle"
 		],
 		"interstitial": [
-			"ironsrc",
-			"ironsrc",
-			"ironsrc",
-			"ironsrc",
-			"ironsrc"
+			"Pangle",
+			"Pangle",
+			"Pangle",
+			"Pangle",
+			"Pangle"
 		],
 		"nativeBanner": [
-			"ironsrc",
-			"ironsrc",
-			"ironsrc",
-			"ironsrc",
-			"ironsrc"
+			"Pangle",
+			"Pangle",
+			"Pangle",
+			"Pangle",
+			"Pangle"
 		]
 	},
 	"facebook": {
@@ -47,7 +47,7 @@
 		"native": "R-M-DEMO-native-i",
 		"interstitial": "R-M-DEMO-interstitial"
 	},
-	"pandle": {
+	"Pangle": {
 		"AppId": "8025677",
 		"banner": "980099802",
 		"native": "980088216",
