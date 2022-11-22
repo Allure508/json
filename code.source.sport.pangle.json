@@ -46,11 +46,11 @@
 		"native": "R-M-DEMO-native-i",
 		"interstitial": "R-M-DEMO-interstitial"
 	},
-	"pangle": {
-		"AppId": "8085309",
-		"banner": "980300618",
-		"native": "980300619",
-		"interstitial": "980300617"
+	"pandle": {
+		"AppId": "8025677",
+		"banner": "980099802",
+		"native": "980088216",
+		"interstitial": "980088188"
 	},
 	"unity": "4395371",
 	"ironsrc": "",
