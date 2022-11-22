@@ -1,25 +1,25 @@
 {
 	"networks": {
 		"banner": [
-			"unity",
-			"unity",
-			"unity",
-			"unity",
-			"unity"
+			"pangle",
+			"pangle",
+			"pangle",
+			"pangle",
+			"pangle"
 		],
 		"native": [
-			"unity",
 			"pangle",
-			"yandex",
-			"admob",
-			"ironsrc"
+			"pangle",
+			"pangle",
+			"pangle",
+			"pangle"
 		],
 		"interstitial": [
-			"unity",
-			"unity",
-			"unity",
-			"unity",
-			"unity"
+			"pangle",
+			"pangle",
+			"pangle",
+			"pangle",
+			"pangle"
 		],
 		"nativeBanner": [
 			"yandex",
