@@ -1,31 +1,32 @@
 {
 	"networks": {
 		"banner": [
-			"pangle",
-			"pangle",
-			"pangle",
-			"pangle",
-			"pangle"
+			"ironsrc",
+			"ironsrc",
+			"ironsrc",
+			"ironsrc",
+			"ironsrc"
 		],
 		"native": [
-			"pangle",
-			"pangle",
-			"pangle",
-			"pangle",
-			"pangle"
+			"ironsrc",
+			"ironsrc",
+			"ironsrc",
+			"ironsrc",
+			"ironsrc"
 		],
 		"interstitial": [
-			"pangle",
-			"pangle",
-			"pangle",
-			"pangle",
-			"pangle"
+			"ironsrc",
+			"ironsrc",
+			"ironsrc",
+			"ironsrc",
+			"ironsrc"
 		],
 		"nativeBanner": [
-			"yandex",
-			"facebook",
-			"admob",
-			"unity"
+			"ironsrc",
+			"ironsrc",
+			"ironsrc",
+			"ironsrc",
+			"ironsrc"
 		]
 	},
 	"facebook": {
@@ -53,8 +54,7 @@
 		"interstitial": "980088188"
 	},
 	"unity": "4395371",
-	"ironsrc": "",
-	"privacy": "",
+	"ironsrc": "10133baa9",
 	"IsSuspended": false,
 	"IsFeaturedAppON": true,
 	"IconUrl": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
