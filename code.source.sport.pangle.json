@@ -2,31 +2,31 @@
 	"networks": {
 		"banner": [
 			"Pangle",
-			"Pangle",
-			"Pangle",
-			"Pangle",
-			"Pangle"
+			"facebook",
+			"admob",
+			"yandex",
+			"ironsrc"
 		],
 		"native": [
 			"Pangle",
-			"Pangle",
-			"Pangle",
-			"Pangle",
-			"Pangle"
+			"facebook",
+			"admob",
+			"yandex",
+			"ironsrc"
 		],
 		"interstitial": [
 			"Pangle",
-			"Pangle",
-			"Pangle",
-			"Pangle",
-			"Pangle"
+			"facebook",
+			"admob",
+			"yandex",
+			"ironsrc"
 		],
 		"nativeBanner": [
 			"Pangle",
-			"Pangle",
-			"Pangle",
-			"Pangle",
-			"Pangle"
+			"facebook",
+			"admob",
+			"yandex",
+			"ironsrc"
 		]
 	},
 	"facebook": {
