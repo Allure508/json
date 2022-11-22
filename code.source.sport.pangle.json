@@ -46,9 +46,9 @@
 		"native": "R-M-DEMO-native-i",
 		"interstitial": "R-M-DEMO-interstitial"
 	},
-	"Pandle": {
+	"pangle": {
 		"AppId": "8025677",
-		"Banner": "980099802",
+		"banner": "980099802",
 		"native": "980088216",
 		"interstitial": "980088188"
 	},
