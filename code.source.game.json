@@ -1,0 +1,142 @@
+{
+	"networks": {
+		"banner": [
+			"yandex",
+			"yandex",
+			"yandex",
+			"yandex",
+			"yandex"
+		],
+		"native": [
+			"yandex",
+			"yandex",
+			"yandex",
+			"yandex",
+			"yandex"
+		],
+		"interstitial": [
+			"yandex",
+			"yandex",
+			"yandex",
+			"yandex",
+			"yandex"
+		],
+		"nativeBanner": [
+		  "yandex",
+			"yandex",
+			"yandex",
+			"yandex",
+			"yandex"
+		]
+	},
+	"facebook": {
+		"banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"nativeBanner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+	},
+	"admob": {
+		"publisher": "pub-3940256099942544",
+		"banner": "ca-app-pub-3940256099942544/6300978111",
+		"interstitial": "ca-app-pub-3940256099942544/1033173712",
+		"mediumRectangle": "ca-app-pub-3940256099942544/6300978111",
+		"largeBanner": "ca-app-pub-3940256099942544/6300978111"
+	},
+	"yandex": {
+		"banner": "R-M-DEMO-320x50",
+		"native": "R-M-DEMO-native-i",
+		"interstitial": "R-M-DEMO-interstitial"
+	},
+	"Pangle": {
+		"AppId": "8025677",
+		"banner": "980099802",
+		"native": "980088216",
+		"interstitial": "980088188"
+	},
+	"unity": "4395371",
+	"ironsrc": "10133baa9",
+	"IsSuspended": false,
+	"IsFeaturedAppON": true,
+	"IconUrl": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+	"title": "Photo Lab Editor Pro",
+	"AppUrl": "com.superking.parchisi.star",
+	"privacyUrl": "https://sites.google.com/view/pro1ceartemac/home", 
+"wallpapers": [
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/195940700-24db4d89-c3fd-4634-b157-55a1ef32a3c9.jpeg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/195940706-4c674e6d-fc9f-476c-89b5-5591263d1604.jpeg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/195940708-18021102-87e5-49f9-9358-3ead6c4eafc1.jpeg"
+    },
+      {
+      "Url": "https://user-images.githubusercontent.com/92831523/195940710-579104ae-8cc9-4c91-9044-06afc50f67fb.jpeg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/195940711-8e057094-7ec1-4362-9272-e6ed8670155b.jpeg"
+    },
+      {
+      "Url": "https://user-images.githubusercontent.com/92831523/195940712-5bba0559-9014-48a6-95a2-6833af4b8d53.jpeg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/195940713-4e57043e-fb4a-45a9-bdbb-e2f6c5cd0277.jpeg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/195940717-22fadd95-bcb1-4b43-aab9-8810d1592121.jpeg"
+    }
+  ],
+  "Guide": [
+    {
+      "title": "World Tips & Tricks .. ",
+      "Content": "If youre looking for some tips and tricks to give your Life character more structure, this guide is for you! Also, you will be able to learn some World cheats that can help you reveal the various secrets of the comprehensive map of the game",
+      "img": "https://images.pexels.com/photos/163036/mario-luigi-yoschi-figures-163036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "title": "PLAY THE GAME WEEKLY TO GET A FREE GIFT .. ",
+      "Content": "World, they award a free gift once a week. These gifts include incredible items, so you better check your schedule and make sure that you check your game at least once per week. To get your gift, you need to navigate to the post office located in Bop City and click on the gift sign",
+      "img": "https://images.pexels.com/photos/3491940/pexels-photo-3491940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "title": "CHECK OUT THE HOSPITAL FOR SECRETS .. ",
+      "Content": "There are many secrets just lurking around in World. One of these is the mysterious hidden place of the mad scientist inside the hospital. However, finding ways on how to enter the hidden lair might be difficult.",
+      "img": "https://images.pexels.com/photos/163036/mario-luigi-yoschi-figures-163036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "title": "PUT HATS ON YOUR PETS .. ",
+      "Content": "To heap up your pets on top of each other, you can place hats on them. Having said that, you may check out how your pets look when they are piled together...",
+      "img": "https://images.pexels.com/photos/3491940/pexels-photo-3491940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "title": "DISCOVER NEW ANIMALS IN THE PARK.. ",
+      "Content": "If you notice an out-of-place tree branch in the park, you will probably come across different strange new animals. As you click on an egg, the unusual creature will fall to the floor. If you are fond of discovering eerie animals, this World hack will definitely be worth your time as you can check out more distinct creatures on the tree branches.",
+      "img": "https://images.pexels.com/photos/163036/mario-luigi-yoschi-figures-163036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "title": "TURN ON THE PARKS DANCE FLOOR .. ",
+      "Content": "If you are looking for something fun, you better check out this World cheat. If you are fond of dancing, you can activate the dance floor in the park by simply clicking the secret switch under the radio. Once activated, a disco ball will appear, and you can dance at the fun party.",
+      "img": "https://images.pexels.com/photos/3491940/pexels-photo-3491940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "title": "DISCOVER THE SECRET LAIR.. ",
+      "Content": "Aside from the hospital, you must not miss checking out the secret place in the park. Generally, the park is filled with secrets. There is a small hill from there where you can see hardly any bushes. Upon entering the hill, you just need to click the bushes. From there, you can see some concealed sports for pets and small stuff.",
+      "img": "https://images.pexels.com/photos/3491940/pexels-photo-3491940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "title": "CLEAN PETS IN THE PADDLING POOL.. ",
+      "Content": "If you are too lazy to clean up your dirty pets, cheering them up to dive into your paddling pool can be an enjoyable alternative way. And it saves you time too. However, even if you clean your pets many times, they may always get dirty as they love playing in the mud....",
+      "img": "https://images.pexels.com/photos/3491940/pexels-photo-3491940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "title": "CREATE UNIQUE PET FOOD.. ",
+      "Content": "If you explore the pet café, you will have the opportunity to create a new pet food. You can serve your pet with a salad filled with worms or a sandwich made with dog food. Once your pet eats the food, you will see your pets reactions if they love it or not....",
+      "img": "https://images.pexels.com/photos/3491940/pexels-photo-3491940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "title": "FIND HIDDEN TREASURES IN THE CITY DISTRICT .. ",
+      "Content": "As you reach the city district, you will have a chance to hunt for hidden treasures. Surprisingly, there are easy and hard-to-find treasures. But if you want to lessen the challenge, you can read Life Weekly and see where you can find these exciting treasures....",
+      "img": "https://images.pexels.com/photos/3491940/pexels-photo-3491940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ]
+}
