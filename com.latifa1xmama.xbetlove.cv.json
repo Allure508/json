@@ -1,0 +1,212 @@
+{
+	"networks": {
+		"banner": [
+			"yandex",
+			"yandex",
+			"yandex",
+			"yandex",
+			"yandex"
+		],
+		"native": [
+			"yandex",
+			"yandex",
+			"yandex",
+			"yandex",
+			"yandex"
+		],
+		"interstitial": [
+			"yandex",
+			"yandex",
+			"yandex",
+			"yandex",
+			"yandex"
+		],
+		"nativeBanner": [
+			"yandex",
+			"yandex",
+			"yandex",
+			"yandex",
+			"yandex"
+		]
+	},
+	"facebook": {
+		"banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"nativeBanner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+	},
+	"admob": {
+		"publisher": "pub-3940256099942544",
+		"banner": "ca-app-pub-3940256099942544/6300978111",
+		"interstitial": "ca-app-pub-3940256099942544/1033173712",
+		"mediumRectangle": "ca-app-pub-3940256099942544/6300978111",
+		"largeBanner": "ca-app-pub-3940256099942544/6300978111"
+	},
+	"yandex": {
+		"banner": "R-M-DEMO-320x50",
+		"native": "R-M-DEMO-native-i",
+		"interstitial": "R-M-DEMO-interstitial"
+	},
+	"Pangle": {
+		"AppId": "8025677",
+		"banner": "980099802",
+		"native": "980088216",
+		"interstitial": "980088188"
+	},
+	"unity": "4395371",
+	"ironsrc": "10133baa9",
+	"IsSuspended": false,
+	"IsFeaturedAppON": true,
+	"IconUrl": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+	"title": "Photo Lab Editor Pro",
+	"AppUrl": "com.superking.parchisi.star",
+	"privacyUrl": "https://sites.google.com/view/latifa1xmama/home",
+
+
+	"wallpapers": [{
+			"Url": "https://user-images.githubusercontent.com/92831523/202808296-05b7623e-6d14-4d2e-9e73-fa95192e992d.jpeg"
+		},
+		{
+			"Url": "https://user-images.githubusercontent.com/92831523/202808306-249d25b2-4e90-4e6f-ab32-676a62395fab.jpeg"
+		},
+		{
+			"Url": "https://user-images.githubusercontent.com/92831523/202808311-b65b0692-24ce-4e70-a219-c38bc642c038.jpeg"
+		},
+		{
+			"Url": "https://user-images.githubusercontent.com/92831523/202808313-a865c5c7-ae72-453a-abce-215028ee95c7.jpeg"
+		},
+		{
+			"Url": "https://user-images.githubusercontent.com/92831523/202808314-e848e55e-846d-4bbd-96ef-8d8f4f7139c4.jpeg"
+		},
+		{
+			"Url": "https://user-images.githubusercontent.com/92831523/202808365-ddd0e475-473b-4d27-9510-f6372ae65df7.jpeg"
+		},
+		{
+			"Url": "https://user-images.githubusercontent.com/92831523/202808368-6ac66b1c-dc38-4a29-9b4e-c9ad5423acf9.jpeg"
+		},
+		{
+			"Url": "https://user-images.githubusercontent.com/92831523/202808377-c8b4f85d-90ba-498f-8640-f7049f4c0803.jpeg"
+		},
+		{
+			"Url": "https://user-images.githubusercontent.com/92831523/202808380-94eb8f6a-5297-4bfa-b224-be69371fe074.jpeg"
+		},
+		{
+			"Url": "https://user-images.githubusercontent.com/92831523/202808397-10282052-119c-46f9-9353-7e1a68a34714.jpeg"
+		},
+		{
+			"Url": "https://user-images.githubusercontent.com/92831523/202808403-e6b09a5d-2f15-43d9-81d7-0d16589947cb.jpeg"
+		},
+		{
+			"Url": "https://user-images.githubusercontent.com/92831523/202808407-1a636e6b-669a-4669-95c1-7915e1d1b9a7.jpeg"
+		},
+		{
+			"Url": "https://user-images.githubusercontent.com/92831523/202808410-b70a7096-eac4-444d-b4ac-470b70816c07.jpeg"
+		},
+		{
+			"Url": "https://user-images.githubusercontent.com/92831523/202808410-b70a7096-eac4-444d-b4ac-470b70816c07.jpeg"
+		},
+		{
+			"Url": "https://user-images.githubusercontent.com/92831523/202808414-e2e9b121-678c-45b3-95e7-d15ab4796f1b.jpeg"
+		},
+		{
+			"Url": "https://user-images.githubusercontent.com/92831523/202808419-472fc77d-e49a-4b17-a806-794ce066685a.jpeg"
+		},
+		{
+			"Url": "https://user-images.githubusercontent.com/92831523/202808427-8aa9b5e5-4b99-436d-aac5-dcba70e17500.png"
+		},
+		{
+			"Url": "https://user-images.githubusercontent.com/92831523/202808272-392a97c6-45b5-4a0d-99b5-356a9ac3b4cc.jpeg"
+		},
+		{
+			"Url": "https://user-images.githubusercontent.com/92831523/202808268-6a358dd8-54fe-497c-a0d8-9e7ae91ea335.jpeg"
+		},
+		{
+			"Url": "https://user-images.githubusercontent.com/92831523/202808255-feafff5c-a09f-4823-ab7d-1fb29d22074c.jpeg"
+		},
+		{
+			"Url": "https://user-images.githubusercontent.com/92831523/202808258-03f86a57-1591-41e4-bc7a-e925ee6ac9dc.jpeg"
+		},
+		{
+			"Url": "https://user-images.githubusercontent.com/92831523/202808259-f527beb9-5adc-4228-974a-5cc8498468af.jpeg"
+		},
+		{
+			"Url": "https://user-images.githubusercontent.com/92831523/202808261-1dbda7af-939e-4498-aa5e-ab2f94a3e51c.jpeg"
+		},
+		{
+			"Url": "https://user-images.githubusercontent.com/92831523/202808265-efd861de-b722-47c6-8c87-22e6b156e989.jpeg"
+		},
+		{
+			"Url": "https://user-images.githubusercontent.com/92831523/202808268-6a358dd8-54fe-497c-a0d8-9e7ae91ea335.jpeg"
+		},
+		{
+			"Url": "https://user-images.githubusercontent.com/92831523/202808419-472fc77d-e49a-4b17-a806-794ce066685a.jpeg"
+		}
+	],
+	"Guide": [{
+			"title": "ABOUT",
+			"Content": "The FOOTBALL ON TV App is the biggest and most accurate TV Listings Guide for Live Football matches in the UK including Sky Sports, BT Sport, Eleven Sports, Premier Sports, BBC, ITV, live streams and more. As an extra bonus, we cover all of the live sporting televised events from the world of Rugby Union, Rugby League and Cricket",
+			"img": "https://images.pexels.com/photos/163036/mario-luigi-yoschi-figures-163036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+		},
+		{
+			"title": "FOOTBALL FANS",
+			"Content": "For all of you armchair football fans, our Android App gives you access to Live Football on TV Schedules from all of the main broadcasters in the UK including Sky Sports, BT Sport, Eleven Sports, BBC, ITV, ESPN, Eurosport, Premier Sports, Channel 5 and all other major TV Channels.",
+			"img": "https://images.pexels.com/photos/3491940/pexels-photo-3491940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+		},
+		{
+			"title": "LIVE FOOTBALL ON TV APP FEATURES",
+			"Content": "Browse live match schedules with access to Dates, Kick-Off Times TV Channels and live streams. -
+			Create your Favourite Football Teams,
+			Competitions and TV Channels to refine your TV Guide to whats important to you. -
+			Add live games to your Calendar and set reminders before the game kicks off. -
+				Add live games to your You re Watching Listings so you can arrange your TV viewing schedule. -
+				Change your Timezone to check TV schedules wherever you are in the world. -
+				Rotate the screen to Landscape view to get all the TV Channels included on the main interface. -
+				Refine to view TV Schedules
+			for Live Football,
+			Rugby and Cricket,
+			or All Sports.
+			",
+			"img": "https://images.pexels.com/photos/163036/mario-luigi-yoschi-figures-163036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+		},
+		{
+			"title": "Live SOCCER",
+			"Content": "The Live Soccer TV app is that provides a soccer TV guide that methodically researches & compiles international broadcast listings, soccer broadcast rights, fixtures, live scores, stats and soccer news reliably since 2004. Live Soccer TV provides live soccer scores, lineups, stats, match events, live text commentary & social media content for soccer matches. Catch up with world soccer news & trending topics in the news section.",
+			"img": "https://images.pexels.com/photos/3491940/pexels-photo-3491940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+		},
+		{
+			"title": "Football - News & Scores",
+			"Content": "-The fastest and precise notifications with instant, flash scores and results -
+			All the live scores and fixtures from Premier League and other top leagues -
+			Be the first to find out who scored a goal and get detailed stats on players and other sports events -
+				All transfers,
+			player strengths and weaknesses
+			for a complete overview of a player’ s performance in a season ",
+			"img": "https://images.pexels.com/photos/163036/mario-luigi-yoschi-figures-163036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+		},
+		{
+			"title": "FIFA World cup 2022",
+			"Content": " is here!  app offers you everything you need to support your team. With data to predict world cup results, live score notifications and detailed stats, youll be ready for Qatar. Not only that, but offers you World cup history data from previous World cup matches, so you can compare players ratings, heatmaps and stats from the last 15 world cup tournaments.",
+			"img": "https://images.pexels.com/photos/3491940/pexels-photo-3491940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+		},
+		{
+			"title": "FANTASY MANAGER",
+			"Content": "Sports app for everyone – whether you are passionate sports fan or a serious fantasy manager. We got everything, from simple live scores to deep statistics and detailed player analysis. We cover 25 sports, more than 5000 leagues, tournaments and special events. With app you wont miss a thing!",
+			"img": "https://images.pexels.com/photos/3491940/pexels-photo-3491940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+		},
+		{
+			"title": "TV channels",
+			"Content": "TV channels info in every sport. No more going through all the TV channels to find a single match broadcast. Our community suggests and votes. Maybe you know where the match will be broadcasted? Add your vote and help the others.",
+			"img": "https://images.pexels.com/photos/3491940/pexels-photo-3491940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+		},
+		{
+			"title": "Sports News & Scores",
+			"Content": "The Live Soccer TV app is that provides a soccer TV guide that methodically researches & compiles international broadcast listings, soccer broadcast rights, fixtures, live scores, stats and soccer news reliably since 2004. Live Soccer TV provides live soccer scores, lineups, stats, match events, live text commentary & social media content for soccer matches. Catch up with world soccer news & trending topics in the news section.",
+			"img": "https://images.pexels.com/photos/3491940/pexels-photo-3491940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+		},
+		{
+			"title": "FOOTBALL ON TV App",
+			"Content": "The FOOTBALL ON TV App is the biggest and most accurate TV Listings Guide for Live Football matches in the UK including Sky Sports, BT Sport, Eleven Sports, Premier Sports, BBC, ITV, live streams and more. As an extra bonus, we cover all of the live sporting televised events from the world of Rugby Union, Rugby League and Cricket",
+			"img": "https://images.pexels.com/photos/3491940/pexels-photo-3491940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+		}
+	]
+}
