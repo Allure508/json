@@ -1,32 +1,32 @@
 {
 	"networks": {
 		"banner": [
-			"facebook",
-			"facebook",
-			"facebook",
-			"facebook",
-			"facebook"
+			"yandex",
+			"yandex",
+			"yandex",
+			"yandex",
+			"yandex"
 		],
 		"native": [
-			"facebook",
-			"facebook",
-			"facebook",
-			"facebook",
-			"facebook"
+			"yandex",
+			"yandex",
+			"yandex",
+			"yandex",
+			"yandex"
 		],
 		"interstitial": [
-			"facebook",
-			"facebook",
-			"facebook",
-			"facebook",
-			"facebook"
+			"yandex",
+			"yandex",
+			"yandex",
+			"yandex",
+			"yandex"
 		],
 		"nativeBanner": [
-			"facebook",
-			"facebook",
-			"facebook",
-			"facebook",
-			"facebook"
+			"yandex",
+			"yandex",
+			"yandex",
+			"yandex",
+			"yandex"
 		]
 	},
 	"facebook": {
