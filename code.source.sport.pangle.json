@@ -1,32 +1,32 @@
 {
 	"networks": {
 		"banner": [
-			"yandex",
-			"yandex",
-			"yandex",
-			"yandex",
-			"yandex"
+			"Pangle",
+			"Pangle",
+			"Pangle",
+			"Pangle",
+			"Pangle"
 		],
 		"native": [
-			"yandex",
-			"yandex",
-			"yandex",
-			"yandex",
-			"yandex"
+			"Pangle",
+			"Pangle",
+			"Pangle",
+			"Pangle",
+			"Pangle"
 		],
 		"interstitial": [
-			"yandex",
-			"yandex",
-			"yandex",
-			"yandex",
-			"yandex"
+			"Pangle",
+			"Pangle",
+			"Pangle",
+			"Pangle",
+			"Pangle"
 		],
 		"nativeBanner": [
-			"yandex",
-			"yandex",
-			"yandex",
-			"yandex",
-			"yandex"
+			"Pangle",
+			"Pangle",
+			"Pangle",
+			"Pangle",
+			"Pangle"
 		]
 	},
 	"facebook": {
