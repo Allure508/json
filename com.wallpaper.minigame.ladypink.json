@@ -31,9 +31,9 @@
 		]
 	},
 	"facebook": {
-		"banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-		"native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-		"interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"banner": "975420046712031_981386112782091",
+		"native": "975420046712031_981386589448710",
+		"interstitial": "975420046712031_975420586711977",
 		"nativeBanner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
 	},
 	"admob": {
