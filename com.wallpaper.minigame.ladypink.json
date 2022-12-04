@@ -2,31 +2,32 @@
 	"networks": {
 		"banner": [
 			"yandex",
+			"Pangle",
+			"facebook",
 			"yandex",
-			"yandex",
-			"yandex",
-			"yandex"
+			"Pangle"
 		],
 		"native": [
 			"yandex",
+			"Pangle",
+			"facebook",
 			"yandex",
-			"yandex",
-			"yandex",
-			"yandex"
+			"Pangle"
 		],
 		"interstitial": [
 		  "yandex",
 			"yandex",
+			"Pangle",
+			"facebook",
 			"yandex",
-			"yandex",
-			"yandex"
+			"Pangle"
 		],
 		"nativeBanner": [
 			"yandex",
+			"Pangle",
+			"facebook",
 			"yandex",
-			"yandex",
-			"yandex",
-			"yandex"
+			"Pangle"
 		]
 	},
 	"facebook": {
@@ -48,10 +49,10 @@
 		"interstitial": "R-M-2064889-1"
 	},
 	"Pangle": {
-		"AppId": "8025677",
-		"banner": "980099802",
-		"native": "980088216",
-		"interstitial": "980088188"
+		"AppId": "8092792",
+		"banner": "980323681",
+		"native": "980323682",
+		"interstitial": "980323683"
 	},
 	"unity": "4395371",
 	"ironsrc": "10133baa9",
