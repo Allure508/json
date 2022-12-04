@@ -1,41 +1,67 @@
 {
-  "AppDealKey": "4472428c726f85327245049a0a70a1a747ddd183e2c68d86",
-  "IronKey": "1114a0b95",
-  "StartAppId": "206262019",
-  "FacebookNativeUnitId": "975420046712031_981386589448710",
-  "FacebookBannerUnitId": "975420046712031_981386112782091",
-  "FacebookInterUnitId": "975420046712031_975420586711977",
-  "FacebookRewardUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-  "AdmobBannerUnitId": "ca-app-pub-1267068510215391/5150535777",
-  "AdmobInterUnitId": "ca-app-pub-1267068510215391/2721142549",
-  "AdmobNativeUnitId": "ca-app-pub-1267068510215391/8898209095",
-  "AdmobRewardUnitId": "ca-app-pub-3940256099942544/5224354917",
-  "AdmobOpenUnitId": "ca-app-pub-3940256099942544/3419835294",
-  "YandexBannerUnitId": "R-M-2064889-2",
-  "YandexInterUnitId": "R-M-2064889-1",
-  "YandexRewardUnitId": "R-M-DEMO-rewarded-client-side-rtb",
-  "YandexNativeUnitId": "R-M-2064889-3",
-  "UnityGameID": "4395371",
-  "UnityBannerUnitId": "Banner_Android",
-  "UnityInterUnitId": "Interstitial_Android",
-  "BannerType": "Yandex",
-  "InterType": "Yandex",
-  "NativeType": "Yandex",
-  "RewardType": "Admob",
-  "IsAdmobON": true,
-  "IsFacebookON": true,
-  "IsIronON": true,
-  "IsYandexON": true,
-  "IsAppoDealON": true,
-  "IsStartAppON": true,
-  "IsUnityON": true,
-  "IsSuspended": false,
-  "IsFeaturedAppON": true,
-  "IconUrl": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
-  "title": "Photo Lab Editor Pro",
-  "AppUrl": "com.androworld.lastfiddlerphotoeditor",
-  "privacyUrl": "https://sites.google.com/view/tocamac1a2/home",
-  "wallpapers": [
+	"networks": {
+		"banner": [
+			"yandex",
+			"yandex",
+			"yandex",
+			"yandex",
+			"yandex"
+		],
+		"native": [
+			"yandex",
+			"yandex",
+			"yandex",
+			"yandex",
+			"yandex"
+		],
+		"interstitial": [
+		  "yandex",
+			"yandex",
+			"yandex",
+			"yandex",
+			"yandex"
+		],
+		"nativeBanner": [
+			"yandex",
+			"yandex",
+			"yandex",
+			"yandex",
+			"yandex"
+		]
+	},
+	"facebook": {
+		"banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"nativeBanner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+	},
+	"admob": {
+		"publisher": "pub-3940256099942544",
+		"banner": "ca-app-pub-3940256099942544/6300978111",
+		"interstitial": "ca-app-pub-3940256099942544/1033173712",
+		"mediumRectangle": "ca-app-pub-3940256099942544/6300978111",
+		"largeBanner": "ca-app-pub-3940256099942544/6300978111"
+	},
+	"yandex": {
+		"banner": "R-M-2064889-2",
+		"native": "R-M-2064889-3",
+		"interstitial": "R-M-2064889-1"
+	},
+	"Pangle": {
+		"AppId": "8025677",
+		"banner": "980099802",
+		"native": "980088216",
+		"interstitial": "980088188"
+	},
+	"unity": "4395371",
+	"ironsrc": "10133baa9",
+	"IsSuspended": false,
+	"IsFeaturedAppON": true,
+	"IconUrl": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+	"title": "Photo Lab Editor Pro",
+	"AppUrl": "com.superking.parchisi.star",
+	"privacyUrl": "https://sites.google.com/view/tocamac1a2/home", 
+"wallpapers": [
     {
       "Url": "https://user-images.githubusercontent.com/92831523/195940700-24db4d89-c3fd-4634-b157-55a1ef32a3c9.jpeg"
     },
@@ -59,6 +85,36 @@
     },
     {
       "Url": "https://user-images.githubusercontent.com/92831523/195940717-22fadd95-bcb1-4b43-aab9-8810d1592121.jpeg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/196844361-c65f4733-bab8-41db-95a2-26abdd9d4aed.jpeg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/196844366-33cc9484-ff30-4aff-963e-63992bd8eb32.jpeg"
+    },
+      {
+      "Url": "https://user-images.githubusercontent.com/92831523/196844369-7cdf0bf1-dbb6-48ed-84a2-037154bf11a6.jpeg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/196844375-8f4a7a56-eefb-413f-968b-0580274a44f1.jpeg"
+    },
+      {
+      "Url": "https://user-images.githubusercontent.com/92831523/196844377-c8e73bb0-3b5a-4ed1-9d03-f0ae9ad0fd68.jpeg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/196844378-93cd0c4c-553a-40cb-af9d-0d6e54381470.jpeg"
+    },
+     {
+      "Url": "https://user-images.githubusercontent.com/92831523/196844380-bfdf5331-64b5-44d0-81f0-d58afeb0f66f.jpeg"
+    },
+      {
+      "Url": "https://user-images.githubusercontent.com/92831523/196844381-30d52f1b-8510-4c3b-ac69-47d5a8fac944.jpeg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/196844384-6b9b7e92-b9b7-40c7-8f39-4571f6f4f18a.jpeg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/196844385-fe538363-3f3d-4424-a831-85d3ab174af5.jpeg"
     }
   ],
   "Guide": [
