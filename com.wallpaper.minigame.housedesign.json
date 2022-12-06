@@ -1,32 +1,32 @@
 {
 	"networks": {
 		"banner": [
-			"facebook",
-			"facebook",
-			"facebook",
-			"facebook",
-			"facebook"
+			"Pangle",
+			"Pangle",
+			"Pangle",
+			"Pangle",
+			"Pangle"
 		],
 		"native": [
-			"facebook",
-			"facebook",
-			"facebook",
-			"facebook",
-			"facebook"
+			"Pangle",
+			"Pangle",
+			"Pangle",
+			"Pangle",
+			"Pangle"
 		],
 		"interstitial": [
-		   	"facebook",
-			"facebook",
-			"facebook",
-			"facebook",
-			"facebook"
+		   	"Pangle",
+			"Pangle",
+			"Pangle",
+			"Pangle",
+			"Pangle"
 		],
 		"nativeBanner": [
-			"facebook",
-			"facebook",
-			"facebook",
-			"facebook",
-			"facebook"
+			"Pangle",
+			"Pangle",
+			"Pangle",
+			"Pangle",
+			"Pangle"
 		]
 	},
 	"facebook": {
@@ -48,10 +48,10 @@
 		"interstitial": "R-M-2015917-2"
 	},
 	"Pangle": {
-		"AppId": "8092792",
-		"banner": "980323681",
-		"native": "980323682",
-		"interstitial": "980323683"
+		"AppId": "8084050",
+		"banner": "980296635",
+		"native": "980296636",
+		"interstitial": "980296634"
 	},
 	"unity": "4395371",
 	"ironsrc": "10133baa9",
