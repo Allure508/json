@@ -1,38 +1,38 @@
 {
 	"networks": {
 		"banner": [
-			"yandex",
-			"yandex",
-			"yandex",
-			"yandex",
-			"yandex"
+			"facebook",
+			"facebook",
+			"facebook",
+			"facebook",
+			"facebook"
 		],
 		"native": [
-			"yandex",
-			"yandex",
-			"yandex",
-			"yandex",
-			"yandex"
+			"facebook",
+			"facebook",
+			"facebook",
+			"facebook",
+			"facebook"
 		],
 		"interstitial": [
-			"yandex",
-			"yandex",
-			"yandex",
-			"yandex",
-			"yandex"
+			"facebook",
+			"facebook",
+			"facebook",
+			"facebook",
+			"facebook"
 		],
 		"nativeBanner": [
-			"yandex",
-			"yandex",
-			"yandex",
-			"yandex",
-			"yandex"
+			"facebook",
+			"facebook",
+			"facebook",
+			"facebook",
+			"facebook"
 		]
 	},
 	"facebook": {
-		"banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-		"native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-		"interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"banner": "1282549932592902_1283140172533878",
+		"native": "1282549932592902_1282551179259444",
+		"interstitial": "1282549932592902_1282551179259444",
 		"nativeBanner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
 	},
 	"admob": {
