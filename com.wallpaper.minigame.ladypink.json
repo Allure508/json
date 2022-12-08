@@ -16,10 +16,7 @@
 		],
 		"interstitial": [
 			"facebook",
-			"facebook",
-			"facebook",
-			"facebook",
-			"facebook"
+			"unity"
 		],
 		"nativeBanner": [
 			"facebook",
@@ -53,7 +50,7 @@
 		"native": "980323682",
 		"interstitial": "980323683"
 	},
-	"unity": "4395371",
+	"unity": "5066347",
 	"ironsrc": "10133baa9",
 	"IsSuspended": false,
 	"IsFeaturedAppON": true,
