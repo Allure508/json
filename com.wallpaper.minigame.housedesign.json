@@ -16,10 +16,7 @@
 		],
 		"interstitial": [
 		   	"yandex",
-			"yandex",
-			"yandex",
-			"yandex",
-			"yandex"
+			"unity"
 		],
 		"nativeBanner": [
 			"yandex",
@@ -53,7 +50,7 @@
 		"native": "980296636",
 		"interstitial": "980296634"
 	},
-	"unity": "4395371",
+	"unity": "5004935",
 	"ironsrc": "10133baa9",
 	"IsSuspended": false,
 	"IsFeaturedAppON": true,
