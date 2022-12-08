@@ -1,32 +1,16 @@
 {
 	"networks": {
 		"banner": [
-			"admob",
-			"admob",
-			"admob",
-			"admob",
-			"admob"
+			"yandex"
 		],
 		"native": [
-			"admob",
-			"admob",
-			"admob",
-			"admob",
-			"admob"
+			"yandex"
 		],
 		"interstitial": [
-			"admob",
-			"admob",
-			"admob",
-			"admob",
-			"admob"
+			"yandex"
 		],
 		"nativeBanner": [
-			"admob",
-			"admob",
-			"admob",
-			"admob",
-			"admob"
+			"yandex"
 		]
 	},
 	"facebook": {
