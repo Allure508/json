@@ -1,0 +1,171 @@
+{
+	"networks": {
+		"banner": [
+			"ironsrc"
+		],
+		"native": [
+			"yandex"
+		],
+		"interstitial": [
+			"ironsrc"
+		],
+		"nativeBanner": [
+			"Pangle"
+		]
+	},
+	"facebook": {
+		"banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"nativeBanner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+	},
+	"admob": {
+		"publisher": "pub-3940256099942544",
+		"banner": "ca-app-pub-3940256099942544/6300978111",
+		"interstitial": "ca-app-pub-3940256099942544/1033173712",
+		"mediumRectangle": "ca-app-pub-3940256099942544/6300978111",
+		"largeBanner": "ca-app-pub-3940256099942544/6300978111"
+	},
+	"yandex": {
+		"banner": "R-M-DEMO-320x50",
+		"native": "R-M-DEMO-native-i",
+		"interstitial": "R-M-DEMO-interstitial"
+	},
+	"Pangle": {
+		"AppId": "8025677",
+		"banner": "980099802",
+		"native": "980088216",
+		"interstitial": "980088188"
+	},
+	"unity": "4395371",
+	"ironsrc": "10133baa9",
+	"IsSuspended": false,
+	"IsFeaturedAppON": true,
+	"IconUrl": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+	"title": "Photo Lab Editor Pro",
+	"AppUrl": "com.superking.parchisi.star",
+	"privacyUrl": "https://sites.google.com/view/sakurawallpapers/home", 
+"wallpapers": [
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/206881261-27f73cba-0c38-4eef-ac86-708de6150531.jpeg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/206881264-41e55ebd-e46b-422d-ab37-9641ef58d8d4.jpeg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/206881265-f3429a82-7858-4432-8239-7927386e2626.jpeg"
+    },
+      {
+      "Url": "https://user-images.githubusercontent.com/92831523/206881267-78a710a3-1d92-4c10-86fc-70e3d7dca287.jpeg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/206881268-7771611d-ac4f-428a-be3f-7c1a5b15b671.jpeg"
+    },
+      {
+      "Url": "https://user-images.githubusercontent.com/92831523/206881269-ae21d8d5-c1d3-4cf3-90db-03535e5ce579.jpeg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/206881270-a202e962-b576-4a11-a381-cab291953991.jpeg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/206881272-98cd01a7-b610-4fde-b760-a10267ffa62e.jpeg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/206881273-3cb18228-6c76-4f02-9c05-fe352a168eed.jpeg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/206881274-d1a49df8-d625-439e-86df-d9e1ba8978f9.jpeg"
+    },
+      {
+      "Url": "https://user-images.githubusercontent.com/92831523/206881275-42af9fca-eb4f-4a63-9f9d-546434d1c218.jpeg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/206881276-2131976f-c986-4170-8bfc-c4a6f3b1ccd0.jpeg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/206881277-44e378df-1103-4066-b521-205d4facd123.jpeg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/206881278-0c1172d9-23b2-44b5-9cee-c5cf5ae32343.jpeg"
+    },
+     {
+      "Url": "https://user-images.githubusercontent.com/92831523/206881279-0b9d138c-579e-4bba-8b4e-920a35e7dc39.jpeg"
+    },
+      {
+      "Url": "https://user-images.githubusercontent.com/92831523/206881280-addbdb1f-939b-4f34-8d10-8cb7a806abd8.jpeg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/206881281-96974777-5866-4ee6-a8fc-59862d7756d7.jpeg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/206881282-15c2143b-a3fc-49a9-920b-65e18cbf1e25.jpeg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/206881284-54589359-3a96-4a9d-9ed8-6366d035a9f3.jpeg"
+    },
+     {
+      "Url": "https://user-images.githubusercontent.com/92831523/206881286-4747ffd9-4d25-47f0-8938-6914070564bc.jpeg"
+    },
+      {
+      "Url": "https://user-images.githubusercontent.com/92831523/206881287-a7289963-1b5c-42c9-ac3a-10b61b1d0352.jpg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/206881288-deb171ac-ca31-4710-aba8-d221915b20ac.jpeg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/206881267-78a710a3-1d92-4c10-86fc-70e3d7dca287.jpeg"
+    }
+  ],
+  "Guide": [
+    {
+      "title": "World Tips & Tricks .. ",
+      "Content": "If youre looking for some tips and tricks to give your Life character more structure, this guide is for you! Also, you will be able to learn some World cheats that can help you reveal the various secrets of the comprehensive map of the game",
+      "img": "https://images.pexels.com/photos/163036/mario-luigi-yoschi-figures-163036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "title": "PLAY THE GAME WEEKLY TO GET A FREE GIFT .. ",
+      "Content": "World, they award a free gift once a week. These gifts include incredible items, so you better check your schedule and make sure that you check your game at least once per week. To get your gift, you need to navigate to the post office located in Bop City and click on the gift sign",
+      "img": "https://images.pexels.com/photos/3491940/pexels-photo-3491940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "title": "CHECK OUT THE HOSPITAL FOR SECRETS .. ",
+      "Content": "There are many secrets just lurking around in World. One of these is the mysterious hidden place of the mad scientist inside the hospital. However, finding ways on how to enter the hidden lair might be difficult.",
+      "img": "https://images.pexels.com/photos/163036/mario-luigi-yoschi-figures-163036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "title": "PUT HATS ON YOUR PETS .. ",
+      "Content": "To heap up your pets on top of each other, you can place hats on them. Having said that, you may check out how your pets look when they are piled together...",
+      "img": "https://images.pexels.com/photos/3491940/pexels-photo-3491940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "title": "DISCOVER NEW ANIMALS IN THE PARK.. ",
+      "Content": "If you notice an out-of-place tree branch in the park, you will probably come across different strange new animals. As you click on an egg, the unusual creature will fall to the floor. If you are fond of discovering eerie animals, this World hack will definitely be worth your time as you can check out more distinct creatures on the tree branches.",
+      "img": "https://images.pexels.com/photos/163036/mario-luigi-yoschi-figures-163036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "title": "TURN ON THE PARKS DANCE FLOOR .. ",
+      "Content": "If you are looking for something fun, you better check out this World cheat. If you are fond of dancing, you can activate the dance floor in the park by simply clicking the secret switch under the radio. Once activated, a disco ball will appear, and you can dance at the fun party.",
+      "img": "https://images.pexels.com/photos/3491940/pexels-photo-3491940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "title": "DISCOVER THE SECRET LAIR.. ",
+      "Content": "Aside from the hospital, you must not miss checking out the secret place in the park. Generally, the park is filled with secrets. There is a small hill from there where you can see hardly any bushes. Upon entering the hill, you just need to click the bushes. From there, you can see some concealed sports for pets and small stuff.",
+      "img": "https://images.pexels.com/photos/3491940/pexels-photo-3491940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "title": "CLEAN PETS IN THE PADDLING POOL.. ",
+      "Content": "If you are too lazy to clean up your dirty pets, cheering them up to dive into your paddling pool can be an enjoyable alternative way. And it saves you time too. However, even if you clean your pets many times, they may always get dirty as they love playing in the mud....",
+      "img": "https://images.pexels.com/photos/3491940/pexels-photo-3491940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "title": "CREATE UNIQUE PET FOOD.. ",
+      "Content": "If you explore the pet café, you will have the opportunity to create a new pet food. You can serve your pet with a salad filled with worms or a sandwich made with dog food. Once your pet eats the food, you will see your pets reactions if they love it or not....",
+      "img": "https://images.pexels.com/photos/3491940/pexels-photo-3491940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "title": "FIND HIDDEN TREASURES IN THE CITY DISTRICT .. ",
+      "Content": "As you reach the city district, you will have a chance to hunt for hidden treasures. Surprisingly, there are easy and hard-to-find treasures. But if you want to lessen the challenge, you can read Life Weekly and see where you can find these exciting treasures....",
+      "img": "https://images.pexels.com/photos/3491940/pexels-photo-3491940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ]
+}
