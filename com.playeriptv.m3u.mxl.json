@@ -1,37 +1,21 @@
 {
 	"networks": {
 		"banner": [
-			"Yandex",
-			"Yandex",
-			"Yandex",
-			"Yandex",
-			"Yandex"
+			"facebook"
 		],
 		"native": [
-			"Yandex",
-			"Yandex",
-			"Yandex",
-			"Yandex",
-			"Yandex"
+			"facebook"
 		],
 		"interstitial": [
-				"Yandex",
-			"Yandex",
-			"Yandex",
-			"Yandex",
-			"Yandex"
+			"facebook"
 		],
 		"nativeBanner": [
-			"Yandex",
-			"Yandex",
-			"Yandex",
-			"Yandex",
 			"Yandex"
 		]
 	},
 	"facebook": {
-		"banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-		"native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"banner": "727684348288665_728662788190821",
+		"native": "727684348288665_728662961524137",
 		"interstitial": "727684348288665_727686261621807",
 		"nativeBanner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
 	},
