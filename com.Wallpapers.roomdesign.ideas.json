@@ -1,32 +1,16 @@
 {
 	"networks": {
 		"banner": [
-			"Pangle",
-			"Pangle",
-			"Pangle",
-			"Pangle",
-			"Pangle"
+			"pangle"
 		],
 		"native": [
-			"Pangle",
-			"Pangle",
-			"Pangle",
-			"Pangle",
-			"Pangle"
+			"pangle"
 		],
 		"interstitial": [
-			"Pangle",
-			"Pangle",
-			"Pangle",
-			"Pangle",
-			"Pangle"
+			"pangle"
 		],
 		"nativeBanner": [
-			"Pangle",
-			"Pangle",
-			"Pangle",
-			"Pangle",
-			"Pangle"
+			"pangle"
 		]
 	},
 	"facebook": {
