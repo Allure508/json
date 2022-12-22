@@ -1,16 +1,16 @@
 {
 	"networks": {
 		"banner": [
-			"ironsrc"
+			"facebook"
 		],
 		"native": [
-			"ironsrc"
+			"facebook"
 		],
 		"interstitial": [
-			"ironsrc"
+			"facebook"
 		],
 		"nativeBanner": [
-			"ironsrc"
+			"facebook"
 		]
 	},
 	"facebook": {
