@@ -1,32 +1,16 @@
 {
 	"networks": {
 		"banner": [
-			"Pangle",
-			"Pangle",
-			"Pangle",
-			"Pangle",
-			"Pangle"
+			"admob"
 		],
 		"native": [
-			"Pangle",
-			"Pangle",
-			"Pangle",
-			"Pangle",
-			"Pangle"
+			"admob"
 		],
 		"interstitial": [
-			"Pangle",
-			"Pangle",
-			"Pangle",
-			"Pangle",
-			"Pangle"
+			"admob"
 		],
 		"nativeBanner": [
-			"Pangle",
-			"Pangle",
-			"Pangle",
-			"Pangle",
-			"Pangle"
+			"admob"
 		]
 	},
 	"facebook": {
