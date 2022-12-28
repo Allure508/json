@@ -1,35 +1,15 @@
 {
 	"networks": {
 		"banner": [
-			"facebook",
-			"facebook",
-			"facebook",
-			"facebook",
-			"facebook",
-			"facebook"
+			"admob"
 		],
 		"native": [
-			"facebook",
-			"facebook",
-			"facebook",
-			"facebook",
-			"facebook",
-			"facebook"
+			"admob"
 		],
 		"interstitial": [
-		   	"facebook",
-			"facebook",
-			"facebook",
-			"facebook",
-			"facebook",
-			"facebook"
+		   	"admob"
 		],
 		"nativeBanner": [
-			"facebook",
-			"facebook",
-			"facebook",
-			"facebook",
-			"facebook",
 			"facebook"
 		]
 	},
@@ -40,10 +20,10 @@
 		"nativeBanner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
 	},
 	"admob": {
-		"publisher": "pub-3940256099942544",
-		"banner": "ca-app-pub-3940256099942544/6300978111",
-		"interstitial": "ca-app-pub-3940256099942544/1033173712",
-		"mediumRectangle": "ca-app-pub-3940256099942544/6300978111",
+		"publisher": "pub-5883435381178419",
+		"banner": "ca-app-pub-5883435381178419/6818775394",
+		"interstitial": "ca-app-pub-5883435381178419/9834438085",
+		"mediumRectangle": "ca-app-pub-5883435381178419/7208274748",
 		"largeBanner": "ca-app-pub-3940256099942544/6300978111"
 	},
 	"yandex": {
