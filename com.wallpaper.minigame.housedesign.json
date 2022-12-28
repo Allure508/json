@@ -1,13 +1,13 @@
 {
 	"networks": {
 		"banner": [
-			"admob"
+			"facebook"
 		],
 		"native": [
-			"admob"
+			"facebook"
 		],
 		"interstitial": [
-		   	"admob"
+		   	"facebook"
 		],
 		"nativeBanner": [
 			"facebook"
