@@ -1,16 +1,16 @@
 {
 	"networks": {
 		"banner": [
-			"facebook"
+			"pangle"
 		],
 		"native": [
-			"facebook"
+			"pangle"
 		],
 		"interstitial": [
-		   	"facebook"
+		   	"pangle"
 		],
 		"nativeBanner": [
-			"facebook"
+			"pangle"
 		]
 	},
 	"facebook": {
@@ -33,9 +33,9 @@
 	},
 	"Pangle": {
 		"AppId": "8084050",
-		"banner": "980296635",
-		"native": "980296636",
-		"interstitial": "980296634"
+		"banner": "980355964",
+		"native": "980355965",
+		"interstitial": "980355963"
 	},
 	"unity": "5004935",
 	"ironsrc": "10133baa9",
