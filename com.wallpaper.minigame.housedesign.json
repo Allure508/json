@@ -1,13 +1,13 @@
 {
 	"networks": {
 		"banner": [
-			"Pangle"
+			"unity"
 		],
 		"native": [
-			"Pangle"
+			"yandex"
 		],
 		"interstitial": [
-		   	"Pangle"
+		   	"unity"
 		],
 		"nativeBanner": [
 			"Pangle"
