@@ -1,0 +1,276 @@
+{
+  "AppDealKey": "4472428c726f85327245049a0a70a1a747ddd183e2c68d86",
+  "IronKey": "1114a0b95",
+  "StartAppId": "206262019",
+  "FacebookNativeUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "FacebookBannerUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "FacebookInterUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "FacebookRewardUnitId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "AdmobBannerUnitId": "ca-app-pub-3940256099942544/6300978111",
+  "AdmobInterUnitId": "ca-app-pub-3940256099942544/1033173712",
+  "AdmobNativeUnitId": "ca-app-pub-3940256099942544/2247696110",
+  "AdmobRewardUnitId": "ca-app-pub-3940256099942544/5224354917",
+  "AdmobOpenUnitId": "ca-app-pub-3940256099942544/3419835294",
+  "YandexBannerUnitId": "R-M-DEMO-320x50",
+  "YandexInterUnitId": "R-M-DEMO-interstitial",
+  "YandexRewardUnitId": "R-M-DEMO-rewarded-client-side-rtb",
+  "YandexNativeUnitId": "R-M-DEMO-native-i",
+  "UnityGameID": "4395371",
+  "UnityBannerUnitId": "Banner_Android",
+  "UnityInterUnitId": "Interstitial_Android",
+  "PangleId": "8085309",
+  "PangleBannerId": "980355970",
+  "PangleInterId": "980355966",
+  "PangleNativeId": "980355971",
+  "BannerType": "Pangle",
+  "InterType": "Pangle",
+  "NativeType": "Pangle",
+  "RewardType": "Admob",
+  "IsAdmobON": true,
+  "IsFacebookON": true,
+  "IsIronON": true,
+  "IsPangleON": true,
+  "IsYandexON": true,
+  "IsAppoDealON": true,
+  "IsStartAppON": true,
+  "IsUnityON": true,
+  "IsSuspended": false,
+  "IsPopUpRatingON": true,
+  "IsActivityAvatarON": true,
+  "IsActivityUsernameON": true,
+  "IconUrl": "https://play-lh.googleusercontent.com/tcI3aXums8REgl1g52YAnqiL5oWGBpiUIMf6Y6E-bHl9n8uqv4JW0jnG9pLTX317pw=s180-rw",
+  "title": "Photo Lab Editor Pro",
+  "AppUrl": "com.androworld.lastfiddlerphotoeditor",
+  "privacyUrl": "https://sites.google.com/view/tocamobilize/home",
+  "OnesignalId":"",
+  "avatars": [
+    {
+      "Name": "AVATAR",
+      "Image": "https://user-images.githubusercontent.com/92831523/210791837-d308ae7c-fd4d-4db3-a0c6-892f1a71fcd7.png"
+    },
+    {
+      "Name": "AVATAR",
+      "Image": "https://user-images.githubusercontent.com/92831523/210791842-096aad9e-f5e0-40e9-be91-0ecdc0d480f0.png"
+    },
+    {
+      "Name": "AVATAR",
+      "Image": "https://user-images.githubusercontent.com/92831523/210791845-46fe2dd5-68c5-4a02-9d18-b2ddc59c22d3.png"
+    },
+    {
+      "Name": "AVATAR",
+      "Image": "https://user-images.githubusercontent.com/92831523/210791847-ec6cdda0-2f5d-4780-a284-919bdd6ec0b1.png"
+    },
+    {
+      "Name": "AVATAR",
+      "Image": "https://user-images.githubusercontent.com/92831523/210791849-d1026d0d-5325-4faf-b6aa-2906caa2d10f.png"
+    },
+     {
+          "Name": "AVATAR",
+          "Image": "https://user-images.githubusercontent.com/92831523/210791854-0fd9c795-f175-47c6-b5ce-a77066fbeb40.png"
+      },
+        {
+          "Name": "AVATAR",
+          "Image": "https://user-images.githubusercontent.com/92831523/210791859-838ce848-a53c-4526-a09f-79dfb3f06d47.png"
+        },
+        {
+          "Name": "AVATAR",
+          "Image": "https://user-images.githubusercontent.com/92831523/210791860-3b3ed4fd-b5b9-49c3-b69b-dd5505e8da18.png"
+        },
+        {
+          "Name": "AVATAR",
+          "Image": "https://user-images.githubusercontent.com/92831523/210791864-8f04a789-8b9f-4515-baa4-2544cb438ba2.png"
+        },
+             {
+               "Name": "AVATAR",
+               "Image": "https://user-images.githubusercontent.com/92831523/210791867-539ce557-21bb-4208-aab3-48da01e14e46.png"
+             },
+             {
+               "Name": "AVATAR",
+               "Image": "https://user-images.githubusercontent.com/92831523/210791872-776fb283-cb6c-46da-af86-32435bb39923.png"
+             },
+             {
+               "Name": "AVATAR",
+               "Image": "https://user-images.githubusercontent.com/92831523/210791873-4e26a7ac-ed58-4ab9-976b-813c39c32a9d.png"
+             },
+              {
+                   "Name": "AVATAR",
+                   "Image": "https://user-images.githubusercontent.com/92831523/210791877-0d122c56-b330-4c23-a76f-856fe602e706.png"
+                 },
+                 {
+                   "Name": "AVATAR",
+                   "Image": "https://user-images.githubusercontent.com/92831523/210791878-2764fd15-f1f3-4464-8699-1f0964765404.png"
+                 },
+                 {
+                   "Name": "AVATAR",
+                   "Image": "https://user-images.githubusercontent.com/92831523/210791879-cf0eab17-059b-48b0-a150-334932d61a9c.png"
+                 }
+  ],
+  "wallpapers": [
+{
+      "Url": "https://user-images.githubusercontent.com/92831523/211171972-8e0f7972-8161-49a0-bc47-17001960ddae.jpeg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/211171973-7920df11-024e-4e3a-a6c2-98b201345479.jpeg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/211171974-6181b557-7efb-4841-9002-e86deb371f64.png"
+    },
+      {
+      "Url": "https://user-images.githubusercontent.com/92831523/211171975-81699f94-3d1e-4c36-9901-62701edd5d28.jpeg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/211171976-d3fec464-4e63-4de7-992f-8f9380ab2579.jpeg"
+    },
+      {
+      "Url": "https://user-images.githubusercontent.com/92831523/211171978-27c76b39-9aa1-4eac-b4c9-241ed331af13.jpeg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/211171979-cc1b0118-bc24-400e-b93c-2407eb602214.jpeg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/211171980-4bad7bc5-7261-4bbf-96ee-0066c941be01.jpeg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/211171982-01369cf4-967f-4b8f-9798-bcfe98515e98.jpeg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/211171983-b10a47b2-d764-46cc-855b-7bdaac64a08c.jpeg"
+    },
+      {
+      "Url": "https://user-images.githubusercontent.com/92831523/211171984-12dc5439-b0ba-4234-b61e-53e6bda5839b.jpeg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/211171985-999d922e-285e-4274-8108-3f5e627fdb66.jpeg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/211171986-cf9c2a03-d14d-4b51-b1ad-42f732c5f4ec.jpeg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/211171988-5a714650-6cb3-4b59-b7fb-903b6234e09e.jpeg"
+    },
+     {
+      "Url": "https://user-images.githubusercontent.com/92831523/211171989-83d23127-e711-46c0-859f-1c6eac162685.jpeg"
+    },
+      {
+      "Url": "https://user-images.githubusercontent.com/92831523/211171990-1005400f-b318-420b-9795-95475b0886fb.jpeg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/211171991-48f595da-eb93-489d-a40c-e498a9aff673.jpeg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/211171993-c06c0fd2-a607-4f67-a3bc-400c735d8376.jpeg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/211171994-4264caef-0d28-42b9-80ee-fc84dd1f855c.jpeg"
+    },
+     {
+      "Url": "https://user-images.githubusercontent.com/92831523/211171996-fccaebcc-3f62-4bb3-87c3-f899a267b1ba.jpeg"
+    },
+      {
+      "Url": "https://user-images.githubusercontent.com/92831523/211171997-cf8df239-f7d5-419a-bbe3-456531f7fc9e.jpeg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/211171999-8310f2e8-2266-495e-af90-3ae1430f282d.jpeg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/211172001-e5e7f31b-cf11-4fed-8b15-c5b5825fa926.jpeg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/211172002-0710bd8d-cab8-4c19-ae7d-2c7ca73df1be.jpeg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/211172003-e233c117-1602-423d-a2b8-46f8c70c7a1b.jpeg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/211172004-b174abfb-081b-4384-ac98-66f1108d786d.jpeg"
+    },
+     {
+      "Url": "https://user-images.githubusercontent.com/92831523/211172005-09d5fb95-254f-4e2e-9121-1f5c315eb84b.jpeg"
+    },
+      {
+      "Url": "https://user-images.githubusercontent.com/92831523/211172006-95cbf1f0-987c-4380-8e96-5c181c98eabd.jpeg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/211172008-92bda4cd-568f-4be5-ab20-48115d014b91.jpeg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/211082047-3fc6cb09-e5ea-4d9d-8eb8-259e46c1cddc.jpeg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/195940706-4c674e6d-fc9f-476c-89b5-5591263d1604.jpeg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/195940708-18021102-87e5-49f9-9358-3ead6c4eafc1.jpeg"
+    },
+      {
+      "Url": "https://user-images.githubusercontent.com/92831523/195940710-579104ae-8cc9-4c91-9044-06afc50f67fb.jpeg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/195940711-8e057094-7ec1-4362-9272-e6ed8670155b.jpeg"
+    },
+      {
+      "Url": "https://user-images.githubusercontent.com/92831523/195940712-5bba0559-9014-48a6-95a2-6833af4b8d53.jpeg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/195940713-4e57043e-fb4a-45a9-bdbb-e2f6c5cd0277.jpeg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/195940717-22fadd95-bcb1-4b43-aab9-8810d1592121.jpeg"
+    },
+    {
+      "Url": "https://user-images.githubusercontent.com/92831523/196844361-c65f4733-bab8-41db-95a2-26abdd9d4aed.jpeg"
+    }
+  ],
+  "Guide": [
+    {
+      "title": "World Tips & Tricks .. ",
+      "Content": "If youre looking for some tips and tricks to give your Life character more structure, this guide is for you! Also, you will be able to learn some World cheats that can help you reveal the various secrets of the comprehensive map of the game",
+      "img": "https://images.pexels.com/photos/163036/mario-luigi-yoschi-figures-163036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "title": "PLAY THE GAME WEEKLY TO GET A FREE GIFT .. ",
+      "Content": "World, they award a free gift once a week. These gifts include incredible items, so you better check your schedule and make sure that you check your game at least once per week. To get your gift, you need to navigate to the post office located in Bop City and click on the gift sign",
+      "img": "https://images.pexels.com/photos/3491940/pexels-photo-3491940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "title": "CHECK OUT THE HOSPITAL FOR SECRETS .. ",
+      "Content": "There are many secrets just lurking around in World. One of these is the mysterious hidden place of the mad scientist inside the hospital. However, finding ways on how to enter the hidden lair might be difficult.",
+      "img": "https://images.pexels.com/photos/163036/mario-luigi-yoschi-figures-163036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "title": "PUT HATS ON YOUR PETS .. ",
+      "Content": "To heap up your pets on top of each other, you can place hats on them. Having said that, you may check out how your pets look when they are piled together...",
+      "img": "https://images.pexels.com/photos/3491940/pexels-photo-3491940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "title": "DISCOVER NEW ANIMALS IN THE PARK.. ",
+      "Content": "If you notice an out-of-place tree branch in the park, you will probably come across different strange new animals. As you click on an egg, the unusual creature will fall to the floor. If you are fond of discovering eerie animals, this World hack will definitely be worth your time as you can check out more distinct creatures on the tree branches.",
+      "img": "https://images.pexels.com/photos/163036/mario-luigi-yoschi-figures-163036.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "title": "TURN ON THE PARKS DANCE FLOOR .. ",
+      "Content": "If you are looking for something fun, you better check out this World cheat. If you are fond of dancing, you can activate the dance floor in the park by simply clicking the secret switch under the radio. Once activated, a disco ball will appear, and you can dance at the fun party.",
+      "img": "https://images.pexels.com/photos/3491940/pexels-photo-3491940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "title": "DISCOVER THE SECRET LAIR.. ",
+      "Content": "Aside from the hospital, you must not miss checking out the secret place in the park. Generally, the park is filled with secrets. There is a small hill from there where you can see hardly any bushes. Upon entering the hill, you just need to click the bushes. From there, you can see some concealed sports for pets and small stuff.",
+      "img": "https://images.pexels.com/photos/3491940/pexels-photo-3491940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "title": "CLEAN PETS IN THE PADDLING POOL.. ",
+      "Content": "If you are too lazy to clean up your dirty pets, cheering them up to dive into your paddling pool can be an enjoyable alternative way. And it saves you time too. However, even if you clean your pets many times, they may always get dirty as they love playing in the mud....",
+      "img": "https://images.pexels.com/photos/3491940/pexels-photo-3491940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "title": "CREATE UNIQUE PET FOOD.. ",
+      "Content": "If you explore the pet café, you will have the opportunity to create a new pet food. You can serve your pet with a salad filled with worms or a sandwich made with dog food. Once your pet eats the food, you will see your pets reactions if they love it or not....",
+      "img": "https://images.pexels.com/photos/3491940/pexels-photo-3491940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "title": "FIND HIDDEN TREASURES IN THE CITY DISTRICT .. ",
+      "Content": "As you reach the city district, you will have a chance to hunt for hidden treasures. Surprisingly, there are easy and hard-to-find treasures. But if you want to lessen the challenge, you can read Life Weekly and see where you can find these exciting treasures....",
+      "img": "https://images.pexels.com/photos/3491940/pexels-photo-3491940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ]
+}
