@@ -1,79 +1,38 @@
 {
-	"networks": {
-		"banner": [
-			"yandex",
-			"yandex",
-			"yandex",
-			"yandex",
-			"yandex"
-		],
-		"native": [
-			"yandex",
-			"yandex",
-			"yandex",
-			"yandex",
-			"yandex"
+	"version": "",
 
-		],
-		"interstitial": [
-			"yandex",
-			"yandex",
-			"yandex",
-			"yandex",
-			"yandex"
-		]
-	},
-	"facebook": {
-		"banner": "IMG_16_9_APP_INSTALL#",
-		"native": "IMG_16_9_APP_INSTALL#",
-		"interstitial": "IMG_16_9_APP_INSTALL#"
-	},
-	"admob": {
-		"publisher": "pub-3940256099942544",
-		"banner": "ca-app-pub-3940256099942544/6300978111",
-		"interstitial": "ca-app-pub-3940256099942544/1033173712",
-		"largeBanner": "ca-app-pub-3940256099942544/6300978111"
-	},
-	"yandex": {
-		"banner": "R-M-DEMO-320x50",
-		"native": "R-M-DEMO-native-i",
-		"interstitial": "R-M-DEMO-interstitial"
-	},
-	"pandle": {
-		"AppId": "8025677",
-		"Banner": "980099802",
-		"native": "980088216",
-		"interstitial": "980088188"
-	},
-	"ironsrc": "",
+    "admobbannerId": "ca-app-pub-3940256099942544/6300978111",
+	"admobInterId": "ca-app-pub-3940256099942544/1033173712",
+	"admobReward": "ca-app-pub-3940256099942544/5224354917",
+	"admobAppOpenid": "ca-app-pub-3940256099942544/3419835294",
 
-	"Guide": [{
-			"title": "Guide For The .. ",
-			"Content": "thi is guide test. test..."
-		},
-		{
-			"title": "Guide For The .. ",
-			"Content": "thi is guide test. test..."
-		},
-		{
-			"title": "Guide For The .. ",
-			"Content": "thi is guide test. test..."
-		},
-		{
-			"title": "Guide For The .. ",
-			"Content": "thi is guide test. test..."
-		},
-		{
-			"title": "Guide For The .. ",
-			"Content": "thi is guide test. test..."
-		},
-		{
-			"title": "Guide For The .. ",
-			"Content": "thi is guide test. test..."
-		},
-		{
-			"title": "Guide For The .. ",
-			"Content": "thi is guide test. test..."
-		}
-	]
+
+"unityid": "4395371",
+"unitybanner": "Banner_Android",
+"unityinter": "Interstitial_Android",
+"unityreward": "Rewarded_Android",
+
+"applovinsdk": "64OCegu_ruwd4btUE90pHb7IOK01fSznXLzB0sAsl4TpfLIuUIgmup3H73JoVGT2bWDcNNS6Rxw5GC-mVeWNRZ",
+"applovinbanner": "439969e18b468d67",
+"applovininter": "43bb94f6662112d2",
+"applovinreward": "d5679429decf7219",
+
+"ironsdk": "1114a0b95",
+
+"fcbbanner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+"fcbinter": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+"fcbreward": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+
+"yandexbanner": "R-M-1355917-2",
+"yandexinter": "R-M-1355917-1",
+"yandexreward": "Rewarded_Android",
+
+"adscounter": "1",
+
+"adsSwitchInter details ": "0:auto 1:admob 2:facebook 3:applovin 4:iron 5:yandex 6:unity",
+
+"adsSwitchInter": "1",
+"adsSwitchBanner": "1",
+"adsSwitchReward": "1"
+	
 }
