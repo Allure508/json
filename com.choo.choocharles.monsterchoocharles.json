@@ -31,8 +31,8 @@
 
 "adsSwitchInter details ": "0:auto 1:admob 2:facebook 3:applovin 4:iron 5:yandex 6:unity",
 
-"adsSwitchInter": "6",
-"adsSwitchBanner": "6",
-"adsSwitchReward": "6"
+"adsSwitchInter": "2",
+"adsSwitchBanner": "2",
+"adsSwitchReward": "2"
 	
 }
