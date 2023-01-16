@@ -34,7 +34,7 @@
   "IsAppoDealON": true,
   "IsStartAppON": true,
   "IsUnityON": true,
-  "IsSuspended": true,
+  "IsSuspended": false,
   "IsPopUpRatingON": true,
   "IsActivityAvatarON": true,
   "IsActivityUsernameON": false,
