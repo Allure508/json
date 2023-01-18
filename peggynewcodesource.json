@@ -1,0 +1,49 @@
+{
+	"version": "said v3",
+
+"showingCrossPromo details ": "1 : bayan  cross promo 0 : no cross promo .......timetoshowcrossPromo : wa9t bach tban chhal men second",
+"imgadslink": "https://ichef.bbci.co.uk/news/1024/branded_news/1265B/production/_114855357_gardenscapes_homescapes_ads.jpg",
+"btnadslink": "https://www.youtube.com/",
+
+"showingCrossPromo": "1",
+
+"admobbannerId": "ca-app-pub-3940256099942544/6300978111",
+	"admobInterId": "ca-app-pub-3940256099942544/1033173712",
+	"admobReward": "ca-app-pub-3940256099942544/5224354917",
+		"admobAppOpenid": "ca-app-pub-3940256099942544/5224354917",
+	"admobNative": "ca-app-pub-3940256099942544/2247696110",
+
+"unityid": "4983033",
+"unitybanner": "Banner_Android",
+"unityinter": "Interstitial_Android",
+"unityreward": "Rewarded_Android",
+
+"applovinsdk": "Rewarded_Android",
+"applovinbanner": "Rewarded_Android",
+"applovininter": "Rewarded_Android",
+"applovinreward": "Rewarded_Android",
+
+"ironsdk": "Rewarded_Android",
+
+"fcbbanner": "Rewarded_Android",
+"fcbinter": "Rewarded_Android",
+"fcbreward": "Rewarded_Android",
+
+"yandexbanner": "Rewarded_Android",
+"yandexinter": "Rewarded_Android",
+"yandexreward": "Rewarded_Android",
+
+"adscounter": "1",
+
+"adsSwitchInter details ": "0:auto 1:admob 2:facebook 3:applovin 4:iron 5:yandex 6:unity",
+
+"adsSwitchInter": "1",
+"adsSwitchBanner": "1",
+"adsSwitchReward": "1"
+	
+
+
+
+
+
+}
