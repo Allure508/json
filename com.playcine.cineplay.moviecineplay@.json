@@ -25,14 +25,14 @@
     "Inter": "Interstitial_Android"
   },
   "Pangle": {
-    "Banner": "980300618",
-    "Inter": "980355966",
-    "Native": "980300619"
+    "Banner": "980382082",
+    "Inter": "980382081",
+    "Native": "980382083"
   },
   "testUnity": true,
   "unityId": "4395371",
   "IronId" : "10133baa9",
-  "PangleId" : "8085309",
+  "PangleId" : "8108843",
   "settings": {
     "PackageName": "com.cassiopadamico.simoapp",
     "suspended": false,
@@ -42,7 +42,7 @@
     "img": "https://play-lh.googleusercontent.com/WjXoRzJKWHJ_x52qWYA6ECM70bq3x0vwwYiBhzLXdOIHCo-obdUTztPbskEn0K8_wBs=s180-rw",
     "title": "Call of Duty Mobile Season 11",
     "message": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of  for help from .",
-    "adsType": "Admob",
+    "adsType": "Pangle",
     "onesignal": "",
     "tmdbapi": "04d531b73004b6f3f3bb2d270efa973d"
   },
