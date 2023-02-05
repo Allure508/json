@@ -23,16 +23,16 @@
 "fcbinter": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
 "fcbreward": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
 
-"yandexbanner": "R-M-1355917-2",
-"yandexinter": "R-M-1355917-1",
-"yandexreward": "Rewarded_Android",
+"yandexbanner": "R-M-2185962-1",
+"yandexinter": "R-M-2185962-2",
+"yandexreward": "R-M-2185962-3",
 
 "adscounter": "1",
 
 "adsSwitchInter details ": "0:auto 1:admob 2:facebook 3:applovin 4:iron 5:yandex 6:unity",
 
-"adsSwitchInter": "2",
-"adsSwitchBanner": "2",
-"adsSwitchReward": "2"
+"adsSwitchInter": "5",
+"adsSwitchBanner": "5",
+"adsSwitchReward": "5"
 	
 }
