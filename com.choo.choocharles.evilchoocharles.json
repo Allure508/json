@@ -19,9 +19,9 @@
 
 "ironsdk": "1114a0b95",
 
-"fcbbanner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-"fcbinter": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-"fcbreward": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+"fcbbanner": "1164920527561359_1165355057517906",
+"fcbinter": "1164920527561359_1164921067561305",
+"fcbreward": "1164920527561359_1165355707517841",
 
 "yandexbanner": "R-M-1355917-2",
 "yandexinter": "R-M-1355917-1",
@@ -31,8 +31,8 @@
 
 "adsSwitchInter details ": "0:auto 1:admob 2:facebook 3:applovin 4:iron 5:yandex 6:unity",
 
-"adsSwitchInter": "6",
-"adsSwitchBanner": "6",
-"adsSwitchReward": "6"
+"adsSwitchInter": "2",
+"adsSwitchBanner": "2",
+"adsSwitchReward": "2"
 	
 }
