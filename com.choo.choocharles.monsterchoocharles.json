@@ -7,7 +7,7 @@
 	"admobAppOpenid": "ca-app-pub-3940256099942544/3419835294",
 
 
-"unityid": "4395371",
+"unityid": "5154037",
 "unitybanner": "Banner_Android",
 "unityinter": "Interstitial_Android",
 "unityreward": "Rewarded_Android",
@@ -31,8 +31,8 @@
 
 "adsSwitchInter details ": "0:auto 1:admob 2:facebook 3:applovin 4:iron 5:yandex 6:unity",
 
-"adsSwitchInter": "5",
-"adsSwitchBanner": "5",
-"adsSwitchReward": "5"
+"adsSwitchInter": "6",
+"adsSwitchBanner": "6",
+"adsSwitchReward": "6"
 	
 }
