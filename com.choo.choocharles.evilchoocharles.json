@@ -12,10 +12,10 @@
 "unityinter": "Interstitial_Android",
 "unityreward": "Rewarded_Android",
 
-"applovinsdk": "64OCegu_ruwd4btUE90pHb7IOK01fSznXLzB0sAsl4TpfLIuUIgmup3H73JoVGT2bWDcNNS6Rxw5GC-mVeWNRZ",
-"applovinbanner": "439969e18b468d67",
-"applovininter": "43bb94f6662112d2",
-"applovinreward": "d5679429decf7219",
+"applovinsdk": "0gWLH16kad4TKBBCtI-4DDP7Ga_OmxXw8DsK9w0vObsyH83MczlIwCW57RkNVOo8pPvevSa1dB5kEHfPp24gTM",
+"applovinbanner": "79000a2b04589fc3",
+"applovininter": "431f1576853c13ac",
+"applovinreward": "0a2502152203cdd8",
 
 "ironsdk": "1114a0b95",
 
@@ -31,8 +31,8 @@
 
 "adsSwitchInter details ": "0:auto 1:admob 2:facebook 3:applovin 4:iron 5:yandex 6:unity",
 
-"adsSwitchInter": "6",
-"adsSwitchBanner": "6",
-"adsSwitchReward": "6"
+"adsSwitchInter": "3",
+"adsSwitchBanner": "3",
+"adsSwitchReward": "3"
 	
 }
