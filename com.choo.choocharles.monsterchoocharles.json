@@ -17,7 +17,7 @@
 "applovininter": "94aff65236224ee4",
 "applovinreward": "0838a94f84df427b",
 
-"ironsdk": "188e94ce5",
+"ironsdk": "188e",
 
 "fcbbanner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
 "fcbinter": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
@@ -31,8 +31,8 @@
 
 "adsSwitchInter details ": "0:auto 1:admob 2:facebook 3:applovin 4:iron 5:yandex 6:unity",
 
-"adsSwitchInter": "6",
-"adsSwitchBanner": "6",
-"adsSwitchReward": "6"
+"adsSwitchInter": "3",
+"adsSwitchBanner": "3",
+"adsSwitchReward": "3"
 	
 }
