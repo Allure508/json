@@ -1,20 +1,20 @@
 {
 	"networks": {
 		"banner": [
-			"facebook",
-			"unity"
+			"unity",
+			"yandex"
 		],
 		"native": [
-			"facebook",
-			"unity"
+			"unity",
+			"yandex"
 		],
 		"interstitial": [
-			"facebook",
-			"unity"
+			"unity",
+			"yandex"
 		],
 		"nativeBanner": [
-			"facebook",
-			"unity"
+			"unity",
+			"yandex"
 		]
 	},
 	"facebook": {
