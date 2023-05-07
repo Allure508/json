@@ -1,12 +1,15 @@
 {
 	"networks": {
 		"banner": [
+			"yandex",
 			"unity"
 		],
 		"native": [
+			"yandex",
 			"unity"
 		],
 		"interstitial": [
+			"yandex",
 			"unity"
 		],
 		"nativeBanner": [
